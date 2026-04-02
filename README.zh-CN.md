@@ -71,7 +71,7 @@ response = client.chat.completions.create(
 | [概念](concepts/) | 34 | 算力额度、Token 运营商、GPU 经济学、LLM 路由 |
 | [对比](compare/) | 9 | CompuX vs OpenRouter、Together AI、Lambda Labs、风险债务 |
 | [应用场景](use-cases/) | 7 | 初创企业、贷方、GPU 供应商、开发工具 |
-| [常见问题](faq/) | 10 | 490 个关于定价、集成、抵押的问答 |
+| [常见问题](faq/) | 10 | 定价、集成、抵押、快速入门 |
 
 ### API 参考
 
