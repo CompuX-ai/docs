@@ -71,7 +71,7 @@ Ausfuhrliche Artikel uber AI-Rechenokonomie, Finanzierung und Infrastruktur.
 | [Konzepte](concepts/) | 34 | Rechenkredite, Token-Operatoren, GPU-Okonomie, LLM-Routing |
 | [Vergleiche](compare/) | 9 | CompuX vs OpenRouter, Together AI, Lambda Labs, Venture Debt |
 | [Anwendungsfalle](use-cases/) | 7 | Startups, Kreditgeber, GPU-Anbieter, Dev Tools |
-| [FAQ](faq/) | 10 | 490 Fragen und Antworten zu Preisen, Integration, Sicherheiten |
+| [FAQ](faq/) | 10 | Preise, Integration, Sicherheiten, erste Schritte |
 
 ### API-Referenz
 

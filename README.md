@@ -71,7 +71,7 @@ Deep-dive articles on AI compute economics, financing, and infrastructure.
 | [Concepts](concepts/) | 34 | Compute credits, token operators, GPU economics, LLM routing |
 | [Comparisons](compare/) | 9 | CompuX vs OpenRouter, Together AI, Lambda Labs, venture debt |
 | [Use Cases](use-cases/) | 7 | Startups, lenders, GPU providers, dev tools |
-| [FAQ](faq/) | 10 | 490 Q&A pairs on pricing, integration, collateral |
+| [FAQ](faq/) | 10 | Pricing, integration, collateral, getting started |
 
 ### API Reference
 
