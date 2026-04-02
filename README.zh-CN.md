@@ -23,6 +23,7 @@
   <a href="https://docs.compux.ai"><img src="https://img.shields.io/badge/API_Docs-docs.compux.ai-blue" alt="API Docs"></a>
   <a href="https://learn-compux.kossanstin.workers.dev"><img src="https://img.shields.io/badge/Learn-Knowledge_Base-orange" alt="Learn"></a>
   <a href="https://twitter.com/compux_ai"><img src="https://img.shields.io/twitter/follow/compux_ai" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/company/compux"><img src="https://img.shields.io/badge/LinkedIn-CompuX-0A66C2?logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 ---
