@@ -21,7 +21,7 @@
   <a href="https://github.com/CompuX-ai/docs/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
   <a href="https://compux.ai"><img src="https://img.shields.io/badge/website-compux.ai-brightgreen" alt="Website"></a>
   <a href="https://docs.compux.ai"><img src="https://img.shields.io/badge/API_Docs-docs.compux.ai-blue" alt="API Docs"></a>
-  <a href="https://learn-compux.kossanstin.workers.dev"><img src="https://img.shields.io/badge/Learn-Knowledge_Base-orange" alt="Learn"></a>
+  <a href="https://compux.net"><img src="https://img.shields.io/badge/Learn-Knowledge_Base-orange" alt="Learn"></a>
   <a href="https://twitter.com/compux_ai"><img src="https://img.shields.io/twitter/follow/compux_ai" alt="Twitter"></a>
   <a href="https://www.linkedin.com/company/compux"><img src="https://img.shields.io/badge/LinkedIn-CompuX-0A66C2?logo=linkedin" alt="LinkedIn"></a>
 </p>
@@ -145,7 +145,7 @@ AIスタートアップ              CompuX                      コンピュー
 ## コミュニティとサポート
 
 - [ウェブサイト](https://compux.ai) — CompuXについて
-- [ナレッジベース](https://learn-compux.kossanstin.workers.dev) — 詳細記事とガイド
+- [ナレッジベース](https://compux.net) — 詳細記事とガイド
 - [API Docs](https://docs.compux.ai) — APIリファレンス
 - [Twitter](https://twitter.com/compux_ai) — アップデートとお知らせ
 - [LinkedIn](https://www.linkedin.com/company/compux) — 企業ニュース
