@@ -7,7 +7,7 @@ Are you sitting on unused GPU power? CompuX offers a unique marketplace to monet
 * **Revenue Generation** — Earn income by renting out your unused GPU resources to AI startups and researchers.
 * **Increased Utilization** — Maximize the usage of your existing GPU infrastructure, boosting overall efficiency.
 * **Cost-Effective Compute** — Provide AI startups with compute resources that are more affordable than major cloud providers.
-* **Growing Market** — Tap into the rapidly expanding AI compute market, projected to reach $150B by 2025 ([IDC Worldwide AI Spending Guide](https://www.([IDC Worldwide AI Spending Guide](https://www.idc.com/getdoc.jsp?containerId=prUS52691024)).
+* **Growing Market** — Tap into the rapidly expanding AI compute market, projected to reach $150B by 2025 [IDC Worldwide AI Spending Guide](https://www.idc.com/getdoc.jsp?containerId=prUS52691024).
 * **Financial Infrastructure** — Benefit from CompuX's secure [compute credits](/concepts/compute-credits/) system for reliable transactions.
 
 ## The Untapped Potential of Your Idle GPUs
@@ -90,4 +90,4 @@ CompuX [compute credits](/concepts/compute-credits/) are the currency used on ou
 
 We employ several security measures, including encryption, access controls. Continuous monitoring, to protect your GPU resources from unauthorized access and misuse. Our platform is designed to prevent malicious activity and ensure that your GPUs are used only for authorized purposes. Ready to start monetizing your idle GPU capacity? List your GPUs on CompuX today and start earning [compute credits](/concepts/compute-credits/).
 
-[List Your GPUs Now!](/docs/faq/getting-started-compux/)
+[List Your GPUs Now!](/faq/getting-started-compux/)

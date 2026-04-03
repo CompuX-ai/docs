@@ -52,7 +52,7 @@ Our platform supports many GPU types, from NVIDIA A100s to H100s. We also offer 
 
 You only pay for the compute you need. We know that AI startups have different money situations. So, we have made our pricing easy to understand, predictable, and able to change. Our compute credit marketplace lets you buy compute credits at wholesale prices. This lowers your compute costs compared to regular cloud providers. We also offer subscription plans to fit different usage and budget needs.
 
-One of the best things about it is that you can buy [blockable credits](/docs/concepts/compute-credits/). These credits can be used across many compute providers on our platform. We also offer reserved instances for long-term compute needs. By offering flexible pricing and credit options, it helps AI startups manage their compute costs and extend their runway. H100 GPUs are available at $1.50-$2.80 per GPU-hour through spot allocations on compute marketplaces.
+One of the best things about it is that you can buy [blockable credits](/concepts/blockable-credits/). These credits can be used across many compute providers on our platform. We also offer reserved instances for long-term compute needs. By offering flexible pricing and credit options, it helps AI startups manage their compute costs and extend their runway. H100 GPUs are available at $1.50-$2.80 per GPU-hour through spot allocations on compute marketplaces.
 
 | Pricing Model | Description | Benefits |
 |---|---|---|

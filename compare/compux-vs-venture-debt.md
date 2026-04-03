@@ -52,7 +52,7 @@ Instead of providing cash, it provides access to [compute credits](/concepts/com
 
 Choosing it for AI compute financing offers several key advantages over venture debt. The most large benefit is the non-dilutive nature of the funding. This allows AI startups to retain full ownership and control of their company, maximizing the potential upside for founders and investors. Also, it provides access to a wide range of compute resources from various providers, offering flexibility and scalability to meet fluctuating AI workload demands. It focuses specifically on AI compute, ensuring that funding is used efficiently and effectively for its intended purpose.
 
-Also, it offers an OpenAI-compatible SDK, enabling seamless integration with existing AI development workflows. By focusing solely on AI compute, it addresses a critical pain point for AI startups and promotes sustainable growth. AI startup investment hit historic highs ([Crunchbase annual report](https://about.([Crunchbase](https://about.crunchbase.com/research-reports/)). This highlights the large investment in the AI sector and the need for specialized funding tools like CompuX.
+Also, it offers an OpenAI-compatible SDK, enabling seamless integration with existing AI development workflows. By focusing solely on AI compute, it addresses a critical pain point for AI startups and promotes sustainable growth. AI startup investment hit historic highs [Crunchbase annual report](https://about.crunchbase.com/research-reports/). This highlights the large investment in the AI sector and the need for specialized funding tools like CompuX.
 
 ## Is CompuX Right for Your AI Compute Needs?
 

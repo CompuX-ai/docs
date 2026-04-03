@@ -88,7 +88,7 @@ There are several tools and resources that can help you manage **AI compute budg
 
 **Optimization Guides:** AI providers and online forums offer guides and tips for improving token use and lowering compute costs. These resources provide useful advice and ways to be more efficient.
 
-AI startups raised $97 billion in 2025 ([Crunchbase annual report](https://about.([Crunchbase](https://about.crunchbase.com/research-reports/)). By using these tools and resources, businesses can have more control over their AI compute budgets and make sure their projects are affordable. For example, using a token estimator tool can help predict how much it will cost to create a certain amount of content. This lets businesses change their plans as needed. Similarly, a cost tracking dashboard can show which AI models or applications are using the most resources. By combining these tools with expert advice, organizations can get the most value from their AI investments.
+AI startups raised $97 billion in 2025 [Crunchbase annual report](https://about.crunchbase.com/research-reports/). By using these tools and resources, businesses can have more control over their AI compute budgets and make sure their projects are affordable. For example, using a token estimator tool can help predict how much it will cost to create a certain amount of content. This lets businesses change their plans as needed. Similarly, a cost tracking dashboard can show which AI models or applications are using the most resources. By combining these tools with expert advice, organizations can get the most value from their AI investments.
 
 ## Frequently Asked Questions
 

@@ -6,7 +6,7 @@ An AI data center is a specialized facility engineered to meet the intense compu
 
 * **Specialized Infrastructure** — AI data centers are designed to handle the unique compute requirements of AI and machine learning tasks.
 * **Power Consumption** — These facilities consume 3-5x more power per square foot compared to traditional data centers, requiring advanced cooling tools.
-* **Market Growth** — Global spending on AI infrastructure reached $150 billion in 2025 ([IDC](https://www.([IDC](https://www.idc.com/)), reflecting runaway demand for GPU capacity.
+* **Market Growth** — Global spending on AI infrastructure reached $150 billion in 2025 [IDC](https://www.idc.com/), reflecting runaway demand for GPU capacity.
 * **Compute Spend** — Series A AI startups often burn $20-80K/month on [inference-heavy startups](/use-cases/inference-heavy-startups/) and [training-heavy startups](/use-cases/training-heavy-startups/), highlighting the large compute costs involved.
 * **GPU Utilization** — Research from Stanford (2025) pegs average GPU utilization across data centers at roughly one-third to one-half of total capacity, underscoring systemic waste.
 

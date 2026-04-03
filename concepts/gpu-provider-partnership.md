@@ -6,7 +6,7 @@ These relationships are becoming more important for companies that want to stay 
 
 **Key Takeaways:**
 
-* **Market Growth** — The AI infrastructure market reached $150B in 2025, showing the need to manage GPU resources well ([IDC Worldwide AI Spending Guide](https://www.([IDC Worldwide AI Spending Guide](https://www.idc.com/getdoc.jsp?containerId=prUS52691024)).
+* **Market Growth** — The AI infrastructure market reached $150B in 2025, showing the need to manage GPU resources well [IDC Worldwide AI Spending Guide](https://www.idc.com/getdoc.jsp?containerId=prUS52691024).
 * **Resource Optimization** — [GPU cloud startups](/use-cases/gpu-cloud-startups/) provider partnerships help use GPUs better. On average, data centers only use 30-50% of their GPUs ([Stanford AI Index](https://aiindex.stanford.edu/report/), 2025).
 * **Cost Reduction** — Partnerships can lower GPU costs for AI startups. This lets them use their money more effectively and last longer.
 * **Partnership Growth** — The [GPU cloud startups](/use-cases/gpu-cloud-startups/) market expanded from 12 providers to more than 40 between 2023 and 2025 ([Epoch AI](https://epochai.org/data/epochdb/notable-ai-models)). This shows that there are more chances for partnerships (Epoch AI).
@@ -24,7 +24,7 @@ These alliances let AI startups and big companies use the computing power they n
 
 ## Benefits of GPU Cloud Provider Partnerships
 
-GPU cloud provider partnerships offer many benefits. This includes reaching more customers, using resources better, and getting access to special knowledge. For GPU cloud providers, partnering with other organizations can open up new customers and ways to make money. For AI startups and other users of GPU resources, these partnerships can provide cheaper and more scalable compute. These partnerships also help create new ideas by bringing together different skills and technologies. AI startups, which raised $97B in 2025, often need a lot of compute resources for training ([Crunchbase annual report](https://about.([Crunchbase](https://about.crunchbase.com/research-reports/)). GPU cloud provider partnerships help these startups get the infrastructure they need without spending a lot of money upfront.
+GPU cloud provider partnerships offer many benefits. This includes reaching more customers, using resources better, and getting access to special knowledge. For GPU cloud providers, partnering with other organizations can open up new customers and ways to make money. For AI startups and other users of GPU resources, these partnerships can provide cheaper and more scalable compute. These partnerships also help create new ideas by bringing together different skills and technologies. AI startups, which raised $97B in 2025, often need a lot of compute resources for training [Crunchbase annual report](https://about.crunchbase.com/research-reports/). GPU cloud provider partnerships help these startups get the infrastructure they need without spending a lot of money upfront.
 
 For example, a partnership might let an AI startup use compute credits to access GPU resources from a cloud provider. This lowers their costs and lets them operate longer. Also, these partnerships can lead to more efficient and specialized AI , which benefits everyone.
 

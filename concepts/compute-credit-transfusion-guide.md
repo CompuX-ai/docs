@@ -9,7 +9,7 @@ Compute credit transfusion is a way to strategically move compute resources. Thi
 * **Flexibility** — Transfusion is more flexible than traditional ways of allocating compute resources.
 * **CompuX Advantage** — The CompuX marketplace makes compute credit transfusion easy. It allows for efficient transfer and management. CompuX facilitates compute credit transfusion through its marketplace, offering access to compute at potentially wholesale prices.
 * **AI Compute Investments** — By moving compute credits strategically, organizations can get more out of their AI compute investments.
-* **Market Growth** — The AI infrastructure market is rapidly expanding, reaching $150B in 2025 ([IDC Worldwide AI Spending Guide](https://www.([IDC Worldwide AI Spending Guide](https://www.idc.com/getdoc.jsp?containerId=prUS52691024)), underscoring the need for efficient compute management.
+* **Market Growth** — The AI infrastructure market is rapidly expanding, reaching $150B in 2025 [IDC Worldwide AI Spending Guide](https://www.idc.com/getdoc.jsp?containerId=prUS52691024), underscoring the need for efficient compute management.
 
 ## What is Compute Credit Transfusion?
 

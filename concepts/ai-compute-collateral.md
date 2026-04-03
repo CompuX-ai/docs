@@ -7,7 +7,7 @@ AI compute [blockable credit collateral](/faq/blockable-credit-collateral/) repr
 * **Definition** — AI compute [blockable credit collateral](/faq/blockable-credit-collateral/) uses AI-specific computing resources as security for loans.
 * **Compute Credits** — These credits represent pre-paid access to computing power, often from providers like OpenAI, Anthropic, and Meta.
 * **Blockable Credits** — These credits provide [compute financing for lenders](/use-cases/compute-financing-for-lenders/) with a mechanism to control and liquidate compute resources in case of default.
-* **Market Growth** — The AI infrastructure market reached $150B in 2025 ([IDC Worldwide AI Spending Guide](https://www.([IDC Worldwide AI Spending Guide](https://www.idc.com/getdoc.jsp?containerId=prUS52691024)).
+* **Market Growth** — The AI infrastructure market reached $150B in 2025 [IDC Worldwide AI Spending Guide](https://www.idc.com/getdoc.jsp?containerId=prUS52691024).
 * **CompuX Role** — CompuX facilitates AI compute financing by providing a marketplace for compute credits and blockable credits.
 
 ## Introduction to AI Compute Collateral
