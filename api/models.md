@@ -18,8 +18,13 @@ curl https://api.compux.ai/v1/models \
 ```
 
 ```python
+import os
 from openai import OpenAI
-client = OpenAI(api_key="YOUR_KEY", base_url="https://api.compux.ai/v1")
+
+client = OpenAI(
+    api_key=os.environ["COMPUX_API_KEY"],
+    base_url="https://api.compux.ai/v1",
+)
 
 for model in client.models.list():
     print(f"{model.id} — {model.owned_by}")
@@ -160,11 +165,15 @@ model="gpt-4o-2024-08-06"
 |---------|--------|-----------|--------|---------|------|
 | Chat completions | Yes | Yes | Yes | Yes | Yes |
 | Streaming | Yes | Yes | Yes | Yes | Yes |
-| Function calling | Yes | Yes | Yes | Yes | Partial |
-| Vision (images) | Yes | Yes | Yes | No | Partial |
+| Function calling | Yes | Yes | Yes | Yes | Partial* |
+| Vision (images) | Yes | Yes | Yes | No | Partial** |
 | JSON mode | Yes | Yes | Yes | Yes | No |
 | System messages | Yes | Yes | Yes | Yes | Yes |
 | Seed (deterministic) | Yes | No | No | No | No |
+
+*\*Partial function calling (Meta): Supported on Llama 4 Maverick and Llama 3.3-70B. Not supported on Llama 3.1-8B. Sending `tools` to an unsupported model returns `400 invalid_request`.*
+
+*\*\*Partial vision (Meta): Supported on Llama 4 Maverick and Llama 4 Scout. Not supported on Llama 3.x models.*
 
 ## Related Resources
 

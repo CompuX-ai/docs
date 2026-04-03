@@ -1,9 +1,14 @@
-"""CompuX Streaming Example — Real-time token streaming via OpenAI-compatible API."""
+"""CompuX Streaming Example — Real-time token streaming via OpenAI-compatible API.
 
+Setup: export COMPUX_API_KEY="cpx_live_..."
+       pip install openai
+"""
+
+import os
 from openai import OpenAI
 
 client = OpenAI(
-    api_key="YOUR_COMPUX_API_KEY",
+    api_key=os.environ["COMPUX_API_KEY"],
     base_url="https://api.compux.ai/v1",
 )
 
