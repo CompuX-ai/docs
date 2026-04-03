@@ -11,7 +11,7 @@ A compute credit exchange is a marketplace where users can buy, sell, and manage
 
 ## What is a Compute Credit Exchange?
 
-A compute credit exchange is a digital marketplace that facilitates the buying, selling, and management of compute credits. These credits represent a standardized unit of computing power, allowing users to access resources from various providers through a unified platform. Compute credit exchanges are especially valuable for organizations requiring substantial computing power, such as AI startups involved in [training-heavy startups](/use-cases/training-heavy-startups/) and [inference-heavy startups](/use-cases/inference-heavy-startups/) tasks.
+A compute credit exchange is a digital marketplace that facilitates the buying, selling, and management of compute credits. These credits represent a standardized unit of computing power, allowing users to access resources from various providers through a unified platform. Compute credit exchanges are especially valuable for organizations requiring substantial computing power, such as AI startups involved in [training-heavy startups](../use-cases/training-heavy-startups.md) and [inference-heavy startups](../use-cases/inference-heavy-startups.md) tasks.
 
 **Definition Block:**
 
@@ -23,7 +23,7 @@ Compute credit exchanges address the growing demand for flexible and cost-effect
 
 A compute credit exchange operates by connecting buyers and sellers of compute credits through a centralized platform. Sellers, often cloud providers or organizations with excess compute capacity, list their available credits at a specific price. Buyers, typically AI startups or research institutions, purchase these credits to access computing resources for their workloads. The exchange manages the transactions, ensuring secure and transparent trading.
 
-The functionality of a compute credit exchange is crucial for optimizing resource utilization and reducing costs. The exchange aggregates compute resources from various providers, offering a diverse pool of options. Trading volumes on compute credit exchanges have increased by 50% year-over-year, indicating growing adoption (CompuX Market Analysis). This marketplace active allows buyers to find the most competitive prices and select resources that best fit their specific needs. A Series A AI startup might burn $20-80K/month on [inference-heavy startups](/use-cases/inference-heavy-startups/) and [training-heavy startups](/use-cases/training-heavy-startups/), so finding avenues for cost savings is paramount. The exchange also provides tools for monitoring credit usage and managing budgets, enabling efficient resource allocation. This streamlined process empowers users to focus on their core tasks, such as AI model development, without being bogged down by the complexities of infrastructure management and procurement.
+The functionality of a compute credit exchange is crucial for optimizing resource utilization and reducing costs. The exchange aggregates compute resources from various providers, offering a diverse pool of options. Trading volumes on compute credit exchanges have increased by 50% year-over-year, indicating growing adoption (CompuX Market Analysis). This marketplace active allows buyers to find the most competitive prices and select resources that best fit their specific needs. A Series A AI startup might burn $20-80K/month on [inference-heavy startups](../use-cases/inference-heavy-startups.md) and [training-heavy startups](../use-cases/training-heavy-startups.md), so finding avenues for cost savings is paramount. The exchange also provides tools for monitoring credit usage and managing budgets, enabling efficient resource allocation. This streamlined process empowers users to focus on their core tasks, such as AI model development, without being bogged down by the complexities of infrastructure management and procurement.
 
 ## Benefits of Using a Compute Credit Exchange
 
@@ -33,7 +33,7 @@ A compute credit exchange enables AI startups to use models from OpenAI, Anthrop
 
 ## Types of Compute Credit Exchanges
 
-Compute credit exchanges vary in their focus and features, catering to different user needs. Some exchanges specialize in specific types of compute resources, such as GPUs for AI and machine learning workloads. Others offer a broader range of options, including CPUs and memory. Also, exchanges may differ in their pricing models, trading mechanisms, and the level of support they provide. For instance, some compute credit exchanges operate as open marketplaces, allowing anyone to buy and sell credits. Others are closed platforms with restricted access. The number of [GPU cloud startups](/use-cases/gpu-cloud-startups/) providers now includes dozens of providers+ between 2023 and 2025 ([Epoch AI](https://epochai.org/data/epochdb/notable-ai-models)), so it's critical to understand the different types of compute credit exchanges available.
+Compute credit exchanges vary in their focus and features, catering to different user needs. Some exchanges specialize in specific types of compute resources, such as GPUs for AI and machine learning workloads. Others offer a broader range of options, including CPUs and memory. Also, exchanges may differ in their pricing models, trading mechanisms, and the level of support they provide. For instance, some compute credit exchanges operate as open marketplaces, allowing anyone to buy and sell credits. Others are closed platforms with restricted access. The number of [GPU cloud startups](../use-cases/gpu-cloud-startups.md) providers now includes dozens of providers+ between 2023 and 2025 ([Epoch AI](https://epochai.org/data/epochdb/notable-ai-models)), so it's critical to understand the different types of compute credit exchanges available.
 
 Exchanges also vary in the tools and services they offer, such as automated bidding, real-time monitoring. Integration with cloud management platforms. Understanding these distinctions is crucial for selecting the right exchange that aligns with specific requirements and objectives.
 
@@ -59,7 +59,7 @@ CompuX is a compute credit marketplace designed to help AI startups by providing
 
 It is revolutionizing the AI compute market by offering a unique three-sided marketplace that connects AI startups, compute providers. Capital partners, providing a streamlined approach to accessing and managing compute resources. CompuX's core function is acting as a "Compute Credit Transfusion Engine," where $1 million in financing can be transformed into $1.25-1.5 million in compute credits, effectively offering a 25-50% multiplier. This multiplier is critical for AI startups that often face high compute costs, with some spending a large portion of their runway on compute resources, according to [a16z](https://a16z.com/ai/)'s State of AI report in 2025. By providing this efficient and cost-effective solution, it enables AI startups to scale their operations without the financial burden typically associated with advanced compute infrastructure, fostering innovation and growth in the AI network.
 
-Consider comparing it with [CompuX vs OpenRouter comparison](/compare/compux-vs-openrouter/) and [CompuX vs Together AI](/compare/compux-vs-together-ai/) to see how it measures up. See how it compares to [CompuX vs cloud credits](/compare/compux-vs-cloud-credits/).
+Consider comparing it with [CompuX vs OpenRouter comparison](../compare/compux-vs-openrouter.md) and [CompuX vs Together AI](../compare/compux-vs-together-ai.md) to see how it measures up. See how it compares to [CompuX vs cloud credits](../compare/compux-vs-cloud-credits.md).
 
 ## Buying Compute Credits on CompuX
 
@@ -89,7 +89,7 @@ The future of compute credit exchanges is bright, with increasing demand for fle
 
 ### What are compute credits used for?
 
-Compute credits represent a specific amount of computing power that can be used for various tasks. AI model training, [inference-heavy startups](/use-cases/inference-heavy-startups/), data processing, and scientific simulations. They provide a standardized unit for measuring and allocating compute resources across different providers. Compute credits can be used for tasks like training large language models, which can cost $1-10M (MosaicML).
+Compute credits represent a specific amount of computing power that can be used for various tasks. AI model training, [inference-heavy startups](../use-cases/inference-heavy-startups.md), data processing, and scientific simulations. They provide a standardized unit for measuring and allocating compute resources across different providers. Compute credits can be used for tasks like training large language models, which can cost $1-10M (MosaicML).
 
 ### How do I buy compute credits?
 
@@ -101,12 +101,12 @@ A compute credit exchange aggregates resources from multiple providers, creating
 
 ### Related Terms
 
-* [Compute Credits](/concepts/compute-credits/)
-* [Compute Marketplace](/concepts/compute-credit-marketplace/)
-* [GPU Utilization](/concepts/gpu-utilization/)
-* [Marginal Cost Arbitrage](/concepts/marginal-cost-arbitrage/)
-* [Blockable Credits](/concepts/blockable-credits/)
+* [Compute Credits](compute-credits.md)
+* [Compute Marketplace](compute-credit-marketplace.md)
+* [GPU Utilization](gpu-utilization.md)
+* [Marginal Cost Arbitrage](marginal-cost-arbitrage.md)
+* [Blockable Credits](blockable-credits.md)
 
 ### Get Started
 
-Ready to optimize your AI compute costs? Explore the CompuX marketplace today and discover how you can access GPU power at wholesale prices. [Request a Demo](/faq/getting-started-compux/)
+Ready to optimize your AI compute costs? Explore the CompuX marketplace today and discover how you can access GPU power at wholesale prices. [Request a Demo](../faq/getting-started-compux.md)

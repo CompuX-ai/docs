@@ -5,18 +5,18 @@ The OpenAI API is a powerful tool for AI-driven applications, but its token-base
 **Key Takeaways:**
 
 * **Token Economics** — OpenAI's GPT-4 charges $0.03 per 1,000 input tokens and $0.06 per 1,000 output tokens. Both input and output count toward your bill.
-[inference-heavy startups](/use-cases/inference-heavy-startups/) — serving requests to end users — is now the largest GPU cost category.
+[inference-heavy startups](../use-cases/inference-heavy-startups.md) — serving requests to end users — is now the largest GPU cost category.
 * **Model Selection Matters** — Choosing a mid-tier or open-source model instead of a frontier model can cut costs by 50-80% for many tasks.
 * **Caching and Prompt Engineering** — Well-crafted prompts and response caching reduce redundant token consumption, sometimes by 30-50%.
 * **CompuX Multiplier** — CompuX converts $1M in financing into $1.25-1.5M in compute credits (25-50% multiplier) through bulk provider discounts and a unified API spanning 50+ models.
 
 ## Understanding OpenAI API Pricing and Token Economics
 
-OpenAI API pricing is based on counting "tokens in, tokens out." Tokens are the basic units of text that the model processes. They can be single words, parts of words, or punctuation marks. For example, "hamburger" might be tokenized into "ham", "bur". "ger." More powerful models like GPT-4 cost significantly more per token than older models like GPT-3.5 Turbo. Both input tokens (the text you send) and output tokens (the text CompuX generates) count toward the total cost. This makes it difficult to predict expenses, especially for tasks involving large amounts of text or complex multi-step operations. Monitoring token usage per API call is essential for identifying optimization opportunities. Series A AI startups typically spend $20,000 to $80,000 each month on [inference-heavy startups](/use-cases/inference-heavy-startups/) and [training-heavy startups](/use-cases/training-heavy-startups/). OpenAI alone spends roughly $4 billion annually on inference (The Information, 2025), highlighting the scale of the cost challenge.
+OpenAI API pricing is based on counting "tokens in, tokens out." Tokens are the basic units of text that the model processes. They can be single words, parts of words, or punctuation marks. For example, "hamburger" might be tokenized into "ham", "bur". "ger." More powerful models like GPT-4 cost significantly more per token than older models like GPT-3.5 Turbo. Both input tokens (the text you send) and output tokens (the text CompuX generates) count toward the total cost. This makes it difficult to predict expenses, especially for tasks involving large amounts of text or complex multi-step operations. Monitoring token usage per API call is essential for identifying optimization opportunities. Series A AI startups typically spend $20,000 to $80,000 each month on [inference-heavy startups](../use-cases/inference-heavy-startups.md) and [training-heavy startups](../use-cases/training-heavy-startups.md). OpenAI alone spends roughly $4 billion annually on inference (The Information, 2025), highlighting the scale of the cost challenge.
 
 ## Why Teams Search for OpenAI API Alternatives
 
-OpenAI API costs become prohibitive for several interconnected reasons. The token-based pricing model creates unpredictable expenses. Frontier models like GPT-4 carry premium per-token rates. Frequent API calls, long-running tasks, and inefficient prompts compound the problem. For AI startups with limited capital, these costs can consume resources that should fund product development and growth. The good news: the number of [GPU cloud startups](/use-cases/gpu-cloud-startups/) and providers now includes dozens of providers between 2023 and 2025 (Epoch AI). GPU prices dropped 40% from their 2023 peak (Epoch AI, 2025).
+OpenAI API costs become prohibitive for several interconnected reasons. The token-based pricing model creates unpredictable expenses. Frontier models like GPT-4 carry premium per-token rates. Frequent API calls, long-running tasks, and inefficient prompts compound the problem. For AI startups with limited capital, these costs can consume resources that should fund product development and growth. The good news: the number of [GPU cloud startups](../use-cases/gpu-cloud-startups.md) and providers now includes dozens of providers between 2023 and 2025 (Epoch AI). GPU prices dropped 40% from their 2023 peak (Epoch AI, 2025).
 
 H100 supply constraints have eased considerably ([SemiAnalysis](https://www.semianalysis.com/), Q1 2025). This expanding market means more **OpenAI API alternatives** at competitive prices — but navigating the options requires a structured approach.
 
@@ -38,7 +38,7 @@ Prices are approximate and subject to change based on specific models and usage 
 
 Open-source LLMs from Meta (Llama), Mistral, and others offer the most direct path to eliminating per-token API costs. You download the model and run it on your own infrastructure or cloud GPUs. The trade-off: you need technical expertise in model deployment. Fine-tuning Llama 4 70B costs $5,000-$15,000 per run ([Lambda Labs](https://lambdalabs.com/service/gpu-cloud#pricing) pricing, 2025). Despite the upfront investment, open-source models provide flexibility and control that API-only services cannot match. You can fine-tune for your specific domain, run models on-premises for data privacy, and scale horizontally without per-request billing. For organizations with the engineering resources, self-hosting becomes cost-effective at roughly 10,000+ requests per day.
 
-Average data center GPU utilization sits at only 30-50% ([Stanford AI Index](https://aiindex.stanford.edu/report/), 2025). Means large [monetize idle GPU](/use-cases/monetize-idle-gpu/) capacity exists for running self-hosted models more efficiently. Platforms like CompuX help bridge this gap by connecting startups to idle GPU capacity at wholesale rates. It viable to run open-source models without managing your own hardware fleet.
+Average data center GPU utilization sits at only 30-50% ([Stanford AI Index](https://aiindex.stanford.edu/report/), 2025). Means large [monetize idle GPU](../use-cases/monetize-idle-gpu.md) capacity exists for running self-hosted models more efficiently. Platforms like CompuX help bridge this gap by connecting startups to idle GPU capacity at wholesale rates. It viable to run open-source models without managing your own hardware fleet.
 
 **Definition Block:**
 
@@ -83,13 +83,13 @@ Evaluate models on your specific use case using benchmarks like MMLU (Massive Mu
 
 CompuX provides a comprehensive platform for reducing AI compute costs. The unified API gives access to 50+ models from providers including OpenAI, Anthropic, Google, Meta. Mistral through a single OpenAI-compatible SDK. Switching from OpenAI to a cheaper model requires changing only a few lines of code. CompuX operates as the "Compute Credit Transfusion Engine": a 25-50% credit multiplier on financing through bulk provider discounts. It sits at a token operator, aggregating capacity from multiple providers and passing wholesale pricing to users. Based on marketplace data, bulk purchasing through credit aggregation saves 15-40% versus direct provider pricing.
 
-A Series A startup spending $50K/month on [inference-heavy startups](/use-cases/inference-heavy-startups/) can use it to access $62.5-75K in compute credits. Effectively multiplying their budget without diluting equity. [Learn more about it vs OpenRouter](/compare/compux-vs-openrouter/).
+A Series A startup spending $50K/month on [inference-heavy startups](../use-cases/inference-heavy-startups.md) can use it to access $62.5-75K in compute credits. Effectively multiplying their budget without diluting equity. [Learn more about it vs OpenRouter](../compare/compux-vs-openrouter.md).
 
 ## AI Compute Financing and Non-Dilutive Funding Options
 
-These financing tools help teams scale their AI initiatives without sacrificing equity. Interest rates for compute financing run 8-15% APR. The [credit multiplier effect](/concepts/ai-compute-financing-guide/) credit multiplier offsets the interest cost in most scenarios. This financing model addresses the core problem: AI startups need compute now. Traditional [CompuX vs venture debt](/compare/compux-vs-venture-debt/) wasn't designed for consumption-based infrastructure spending.
+These financing tools help teams scale their AI initiatives without sacrificing equity. Interest rates for compute financing run 8-15% APR. The [credit multiplier effect](ai-compute-financing-guide.md) credit multiplier offsets the interest cost in most scenarios. This financing model addresses the core problem: AI startups need compute now. Traditional [CompuX vs venture debt](../compare/compux-vs-venture-debt.md) wasn't designed for consumption-based infrastructure spending.
 
-[Explore CompuX vs cloud credits](/compare/compux-vs-cloud-credits/) | [CompuX vs venture debt](/compare/compux-vs-venture-debt/) | [CompuX vs Together AI](/compare/compux-vs-together-ai/)
+[Explore CompuX vs cloud credits](../compare/compux-vs-cloud-credits.md) | [CompuX vs venture debt](../compare/compux-vs-venture-debt.md) | [CompuX vs Together AI](../compare/compux-vs-together-ai.md)
 
 ## Openai Api Alternatives: Frequently Asked Questions
 
@@ -107,7 +107,7 @@ Yes, several cheaper **OpenAI API alternatives** exist. Open-source LLMs from Me
 
 ### What are the best strategies for optimizing OpenAI API usage?
 
-The top strategies include prompt engineering to minimize token consumption, caching frequently used responses. Selecting the right model for each task. Fine-tuning a smaller model for your specific use case can be more cost-effective than using a general-purpose frontier model for [inference-heavy startups](/use-cases/inference-heavy-startups/).
+The top strategies include prompt engineering to minimize token consumption, caching frequently used responses. Selecting the right model for each task. Fine-tuning a smaller model for your specific use case can be more cost-effective than using a general-purpose frontier model for [inference-heavy startups](../use-cases/inference-heavy-startups.md).
 
 ### How can prompt engineering help reduce OpenAI API costs?
 
@@ -127,9 +127,9 @@ CompuX provides a marketplace for AI compute credits, allowing users to access G
 
 ### What financing options does CompuX offer for AI compute?
 
-CompuX offers AI asset-backed lending and non-dilutive compute funding. The financing provides a 25–50% multiplier on capital invested — [financing amplification](/concepts/compute-credit-transfusion-guide/) becomes $1.25-1.5M in compute credits. Interest rates run 8-15% APR, with the credit multiplier offsetting interest cost in most scenarios.
+CompuX offers AI asset-backed lending and non-dilutive compute funding. The financing provides a 25–50% multiplier on capital invested — [financing amplification](compute-credit-transfusion-guide.md) becomes $1.25-1.5M in compute credits. Interest rates run 8-15% APR, with the credit multiplier offsetting interest cost in most scenarios.
 
-[Learn more about CompuX's financing model](/concepts/ai-compute-financing-guide/).
+[Learn more about CompuX's financing model](ai-compute-financing-guide.md).
 
 ### What is a unified API and how does it simplify LLM switching?
 
@@ -141,7 +141,7 @@ Compare LLM performance by evaluating accuracy, speed, and task-specific capabil
 
 ### How can I access wholesale GPU resources with CompuX?
 
-Create a CompuX account and purchase compute credits. These credits provide access to GPU resources at discounted wholesale rates, enabling cost-effective fine-tuning and [inference-heavy startups](/use-cases/inference-heavy-startups/) across multiple providers. CompuX aggregates capacity as a Layer 5 Token Operator, passing bulk pricing to users.
+Create a CompuX account and purchase compute credits. These credits provide access to GPU resources at discounted wholesale rates, enabling cost-effective fine-tuning and [inference-heavy startups](../use-cases/inference-heavy-startups.md) across multiple providers. CompuX aggregates capacity as a Layer 5 Token Operator, passing bulk pricing to users.
 
 ### How do I switch to a cheaper LLM using CompuX?
 
@@ -149,13 +149,13 @@ Switching requires updating only a few lines of code to specify the new model en
 
 ### Related Terms
 
-* [Compute Credits](/concepts/compute-credits/)
-* [Token Operator](/concepts/token-operator-guide/)
-* [Compute Marketplace](/concepts/compute-credit-marketplace/)
-* [GPU Utilization](/concepts/gpu-utilization/)
-* [AI Compute Financing Guide](/concepts/ai-compute-financing-guide/)
-* [LLM API Aggregator](/concepts/llm-api-aggregator/)
-* [Multi-Provider LLM API](/concepts/multi-provider-llm-api/)
+* [Compute Credits](compute-credits.md)
+* [Token Operator](token-operator-guide.md)
+* [Compute Marketplace](compute-credit-marketplace.md)
+* [GPU Utilization](gpu-utilization.md)
+* [AI Compute Financing Guide](ai-compute-financing-guide.md)
+* [LLM API Aggregator](llm-api-aggregator.md)
+* [Multi-Provider LLM API](multi-provider-llm-api.md)
 
 ### Get Started
 

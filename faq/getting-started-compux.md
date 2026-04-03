@@ -1,18 +1,18 @@
 # Getting Started with CompuX: Your Guide to AI Compute Credits
 
-We have a marketplace for [compute credits](/concepts/compute-credits/) that connects AI startups with compute providers and capital partners. This guide will help you get started with CompuX, from understanding who can use it to making the most of your compute credit investments.
+We have a marketplace for [compute credits](../concepts/compute-credits.md) that connects AI startups with compute providers and capital partners. This guide will help you get started with CompuX, from understanding who can use it to making the most of your compute credit investments.
 
 **Key Takeaways:**
 
-* **AI Compute Access** — CompuX gives AI startups access to a marketplace of [compute credits](/concepts/compute-credits/). This helps solve the problem of getting enough GPU resources.
-* **Compute Credit Multiplier** — Users can increase their compute credit investments by 25-50% through the platform. This turns $1 million in financing into $1.25-1.5 million in [compute credits](/concepts/compute-credits/).
+* **AI Compute Access** — CompuX gives AI startups access to a marketplace of [compute credits](../concepts/compute-credits.md). This helps solve the problem of getting enough GPU resources.
+* **Compute Credit Multiplier** — Users can increase their compute credit investments by 25-50% through the platform. This turns $1 million in financing into $1.25-1.5 million in [compute credits](../concepts/compute-credits.md).
 * **Non-Dilutive Funding** — The marketplace offers a way for AI startups to access GPUs without giving up ownership in their company.
 * **Provider Agnostic** — The platform supports models from OpenAI, Anthropic, Google, Meta, and Mistral. This gives you flexibility for AI work.
-* **[inference-heavy startups](/use-cases/inference-heavy-startups/) Cost Savings** — The H100 spot market prices capacity at $1.50-$2.80 per GPU-hour across major compute platforms.
+* **[inference-heavy startups](../use-cases/inference-heavy-startups.md) Cost Savings** — The H100 spot market prices capacity at $1.50-$2.80 per GPU-hour across major compute platforms.
 
 ## Getting Started with CompuX: What It Is and How It Helps AI Companies
 
-This makes it easier to access and manage [compute credits](/concepts/compute-credits/).
+This makes it easier to access and manage [compute credits](../concepts/compute-credits.md).
 
 ### How does CompuX help AI startups get the computing power they need?
 
@@ -24,9 +24,9 @@ Using the marketplace can save you money compared to direct cloud pricing. Spot 
 
 ### What types of AI workloads are best suited for CompuX?
 
-The platform works well for many AI workloads, especially those that need a lot of computing power. [inference-heavy startups](/use-cases/inference-heavy-startups/) workloads, which now use 60-70% of total AI compute spend (up from 30% in 2022, according to [a16z](https://a16z.com/ai/) State of AI, 2025), benefit from the cost-effective GPUs.
+The platform works well for many AI workloads, especially those that need a lot of computing power. [inference-heavy startups](../use-cases/inference-heavy-startups.md) workloads, which now use 60-70% of total AI compute spend (up from 30% in 2022, according to [a16z](https://a16z.com/ai/) State of AI, 2025), benefit from the cost-effective GPUs.
 
-[training-heavy startups](/use-cases/training-heavy-startups/) workloads, which also need a lot of power, can use it to save money. This includes both pre-training large models and fine-tuning existing models. For example, fine-tuning open-weight models costs a fraction of frontier API pricing based on 2025 Lambda Labs pricing. Startups working on things like natural language processing and computer vision can all use it.
+[training-heavy startups](../use-cases/training-heavy-startups.md) workloads, which also need a lot of power, can use it to save money. This includes both pre-training large models and fine-tuning existing models. For example, fine-tuning open-weight models costs a fraction of frontier API pricing based on 2025 Lambda Labs pricing. Startups working on things like natural language processing and computer vision can all use it.
 
 ## Getting Started with CompuX: Eligibility Requirements
 
@@ -34,15 +34,15 @@ To make sure that it helps AI startups, there are some requirements. These requi
 
 ### What are the eligibility requirements for using CompuX?
 
-The requirements may change, but generally, it is for AI startups that have seed or Series A funding and are building AI models. Startups should need GPUs for training or [inference-heavy startups](/use-cases/inference-heavy-startups/). They should also have a good business plan and the potential to grow. It aims to support startups in areas like natural language processing and machine learning.
+The requirements may change, but generally, it is for AI startups that have seed or Series A funding and are building AI models. Startups should need GPUs for training or [inference-heavy startups](../use-cases/inference-heavy-startups.md). They should also have a good business plan and the potential to grow. It aims to support startups in areas like natural language processing and machine learning.
 
 ### Is CompuX a non-dilutive funding source for AI startups?
 
-Yes, it provides a non-dilutive way for AI startups to access computing power. By offering a 25–50% increase in [compute credits](/concepts/compute-credits/) on capital investments, it allows startups to grow without giving up equity. This is a big advantage compared to [CompuX vs venture debt](/compare/compux-vs-venture-debt/), which can result in 15-25% equity dilution. Epoch AI's benchmarks show a 10x growth in worldwide AI compute demand spanning the 2020-2025 window.
+Yes, it provides a non-dilutive way for AI startups to access computing power. By offering a 25–50% increase in [compute credits](../concepts/compute-credits.md) on capital investments, it allows startups to grow without giving up equity. This is a big advantage compared to [CompuX vs venture debt](../compare/compux-vs-venture-debt.md), which can result in 15-25% equity dilution. Epoch AI's benchmarks show a 10x growth in worldwide AI compute demand spanning the 2020-2025 window.
 
 ### What kind of AI startups benefit the most from CompuX?
 
-Startups that do a lot of [inference-heavy startups](/use-cases/inference-heavy-startups/) or training are a good fit for CompuX. Those that need many GPUs to train large language models or run inference can save money and extend their runway by using CompuX. A Series A AI startup spending $50K/month on compute can see savings by using the marketplace. Compute is typically the largest line item for AI startups, according to a16z State of AI, 2025. By reducing compute costs, this approach helps these startups spend money on other things, like hiring and product development.
+Startups that do a lot of [inference-heavy startups](../use-cases/inference-heavy-startups.md) or training are a good fit for CompuX. Those that need many GPUs to train large language models or run inference can save money and extend their runway by using CompuX. A Series A AI startup spending $50K/month on compute can see savings by using the marketplace. Compute is typically the largest line item for AI startups, according to a16z State of AI, 2025. By reducing compute costs, this approach helps these startups spend money on other things, like hiring and product development.
 
 ## Onboarding with CompuX: A Step-by-Step Guide
 
@@ -58,7 +58,7 @@ CompuX assigns a specialist who can help you with each step, answer questions, a
 
 ### Definition: Token Operator
 
-A **Token Operator** is an entity that manages the flow of [compute credits](/concepts/compute-credits/) within a marketplace like CompuX. The [token operator](/concepts/token-operator-guide/) issues, distributes, and redeems compute credits. They also help keep the compute credit system secure.
+A **Token Operator** is an entity that manages the flow of [compute credits](../concepts/compute-credits.md) within a marketplace like CompuX. The [token operator](../concepts/token-operator-guide.md) issues, distributes, and redeems compute credits. They also help keep the compute credit system secure.
 
 ## Maximizing Your Compute Credit Investments: The CompuX Advantage
 
@@ -66,7 +66,7 @@ One of the best things about using the platform is that you can increase your co
 
 ### How can I increase my compute credit investments with CompuX?
 
-CompuX lets you increase your compute credit investments. By investing through the platform, users can get a 25–50% increase in [compute credits](/concepts/compute-credits/). This means a $1 million investment can become $1.25 to $1.5 million in compute credits. To get the most out of your investments, you should think about your compute needs and match your investment strategy to your project goals.
+CompuX lets you increase your compute credit investments. By investing through the platform, users can get a 25–50% increase in [compute credits](../concepts/compute-credits.md). This means a $1 million investment can become $1.25 to $1.5 million in compute credits. To get the most out of your investments, you should think about your compute needs and match your investment strategy to your project goals.
 
 ### How does CompuX compare to other cloud computing platforms?
 
@@ -90,7 +90,7 @@ The platform matches startups with providers based on compute needs, budget, and
 
 ### Definition: Blockable Credits
 
-[Blockable credits](/concepts/blockable-credits/) are compute credits that can be saved for specific projects. This lets AI startups make sure they have the compute resources they need when they need them. [blockable credits](/concepts/blockable-credits/) give you more control over compute spending.
+[Blockable credits](../concepts/blockable-credits.md) are compute credits that can be saved for specific projects. This lets AI startups make sure they have the compute resources they need when they need them. [blockable credits](../concepts/blockable-credits.md) give you more control over compute spending.
 
 ## Understanding CompuX Compute Credits
 

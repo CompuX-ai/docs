@@ -58,7 +58,7 @@ The demand for GPUs is rapidly increasing, driven by the growth of AI, gaming, a
 
 CompuX helps AI startups access GPUs from various cloud providers powered by different GPU chip makers through compute credits. By providing a marketplace for compute credits, CompuX enables startups to optimize their compute spend and access the hardware they need to develop and deploy their AI models. This is particularly important for startups that may not have the resources to purchase and maintain their own GPU infrastructure. CompuX offers a path to affordable compute resources.
 
-CompuX acts as a "Compute Credit Transfusion Engine", offering $1M in financing that translates into significantly more compute per dollar. This 25-50% multiplier provides a large boost to AI startups, enabling them to experiment with different GPU configurations and optimize their models for performance and cost-effectiveness. By partnering with various cloud providers, CompuX offers access to a wide range of GPUs from different chip makers, giving startups the flexibility to choose the best hardware for their specific needs. CompuX contrasts sharply with traditional cloud credit programs, which often cap at $100-350K and expire in 12-24 months. To learn more about how CompuX can help your startup, see [CompuX vs cloud credits](/compare/compux-vs-cloud-credits/).
+CompuX acts as a "Compute Credit Transfusion Engine", offering $1M in financing that translates into significantly more compute per dollar. This 25-50% multiplier provides a large boost to AI startups, enabling them to experiment with different GPU configurations and optimize their models for performance and cost-effectiveness. By partnering with various cloud providers, CompuX offers access to a wide range of GPUs from different chip makers, giving startups the flexibility to choose the best hardware for their specific needs. CompuX contrasts sharply with traditional cloud credit programs, which often cap at $100-350K and expire in 12-24 months. To learn more about how CompuX can help your startup, see [CompuX vs cloud credits](../compare/compux-vs-cloud-credits.md).
 
 ## Choosing the Right GPU for Your Needs
 
@@ -86,11 +86,11 @@ Beyond gaming, GPUs are widely used in AI, data science, data centers, scientifi
 
 ### How can AI startups benefit from using GPUs?
 
-AI startups can benefit from GPUs by accelerating the [training-heavy startups](/use-cases/training-heavy-startups/) and [inference-heavy startups](/use-cases/inference-heavy-startups/) of their AI models. GPUs enable faster processing of large datasets and complex algorithms, leading to quicker development cycles and improved performance.
+AI startups can benefit from GPUs by accelerating the [training-heavy startups](../use-cases/training-heavy-startups.md) and [inference-heavy startups](../use-cases/inference-heavy-startups.md) of their AI models. GPUs enable faster processing of large datasets and complex algorithms, leading to quicker development cycles and improved performance.
 
 ### How does CompuX help AI startups access GPU resources?
 
-CompuX provides a marketplace where AI startups can access compute credits to use GPUs from various cloud providers powered by different GPU chip makers. This helps startups optimize their compute spend and access the hardware they need to develop and deploy their AI models. For a closer look at other options, see [GPU pricing comparison 2026](/compare/gpu-pricing-comparison-2026/) and [cheap LLM API alternatives](/compare/cheap-llm-api-alternatives/).
+CompuX provides a marketplace where AI startups can access compute credits to use GPUs from various cloud providers powered by different GPU chip makers. This helps startups optimize their compute spend and access the hardware they need to develop and deploy their AI models. For a closer look at other options, see [GPU pricing comparison 2026](../compare/gpu-pricing-comparison-2026.md) and [cheap LLM API alternatives](../compare/cheap-llm-api-alternatives.md).
 
 ### What factors should I consider when choosing a GPU for AI/ML workloads?
 
@@ -102,10 +102,10 @@ The future of GPU technology is likely to involve further advancements in archit
 
 ## Gpu Chip Maker: Related Terms
 
-* [Compute Credits](/concepts/compute-credits/)
-* [Token Operator](/concepts/token-operator-guide/)
-* [Compute Marketplace](/concepts/compute-credit-marketplace/)
-* [GPU Utilization](/concepts/gpu-utilization/)
+* [Compute Credits](compute-credits.md)
+* [Token Operator](token-operator-guide.md)
+* [Compute Marketplace](compute-credit-marketplace.md)
+* [GPU Utilization](gpu-utilization.md)
 
 ## Gpu Chip Maker: Get Started
 

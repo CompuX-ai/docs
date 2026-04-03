@@ -1,26 +1,26 @@
 # Default Recovery in Compute Lending: Speed, Certainty, Advantage
 
-Default recovery in compute lending is what [compute financing for lenders](/use-cases/compute-financing-for-lenders/) do to get their money back when borrowers don't follow the loan terms. It often means taking and selling the compute resources used as collateral. Good default recovery is very important for lenders.
+Default recovery in compute lending is what [compute financing for lenders](../use-cases/compute-financing-for-lenders.md) do to get their money back when borrowers don't follow the loan terms. It often means taking and selling the compute resources used as collateral. Good default recovery is very important for lenders.
 
 **Key Takeaways:**
 
 * **Speed is critical** — Faster recovery means fewer losses. It also means quicker redeployment of capital.
-* **Certainty reduces risk** — Clear recovery steps make compute lending more appealing to [compute financing for lenders](/use-cases/compute-financing-for-lenders/).
-* **Blockable AI [compute credits](/concepts/compute-credits/)** — CompuX uses a new method: blockable AI credits as loan collateral.
+* **Certainty reduces risk** — Clear recovery steps make compute lending more appealing to [compute financing for lenders](../use-cases/compute-financing-for-lenders.md).
+* **Blockable AI [compute credits](../concepts/compute-credits.md)** — CompuX uses a new method: blockable AI credits as loan collateral.
 * **Recovery rates** — Tech asset-backed loans average 70-90% recovery. Compute-specific data is still new.
 * **Legal frameworks** — Clear agreements and smart contracts offer key legal safeguards.
 
 ## Understanding Default Recovery in Compute Lending
 
-Default recovery in compute lending is how a [compute financing for lenders](/use-cases/compute-financing-for-lenders/) gets their funds back. This happens when a borrower doesn't meet their loan obligations for compute resources. It usually means taking and selling the assets used as collateral. The aim is to cut financial losses. Good default recovery is key to building trust. It also encourages participation in compute lending.
+Default recovery in compute lending is how a [compute financing for lenders](../use-cases/compute-financing-for-lenders.md) gets their funds back. This happens when a borrower doesn't meet their loan obligations for compute resources. It usually means taking and selling the assets used as collateral. The aim is to cut financial losses. Good default recovery is key to building trust. It also encourages participation in compute lending.
 
 ### What happens when a borrower defaults on a compute lending agreement?
 
-When a borrower defaults, several steps are taken to recover the resources. First, the [compute financing for lenders](/use-cases/compute-financing-for-lenders/) sends a notice of default. If they don't, the lender can seize the collateral. For CompuX, this is often blockable [compute credits](/concepts/compute-credits/). These credits can then be sold to recover the loan amount. The lending agreement spells out the specific actions and timelines.
+When a borrower defaults, several steps are taken to recover the resources. First, the [compute financing for lenders](../use-cases/compute-financing-for-lenders.md) sends a notice of default. If they don't, the lender can seize the collateral. For CompuX, this is often blockable [compute credits](../concepts/compute-credits.md). These credits can then be sold to recover the loan amount. The lending agreement spells out the specific actions and timelines.
 
 ### What is the average recovery rate for compute lending defaults on CompuX?
 
-The compute lending market is fairly new. CompuX aims for high recovery rates using blockable AI [compute credits](/concepts/compute-credits/). Traditional asset-backed loans in tech see recovery rates of 70-90%. The approach it uses is designed to meet or beat these numbers. It does this by using a liquid and accessible form of collateral. The exact rate can change. It depends on loan terms, the value of [compute credits](/concepts/compute-credits/) at the time of sale, and market conditions.
+The compute lending market is fairly new. CompuX aims for high recovery rates using blockable AI [compute credits](../concepts/compute-credits.md). Traditional asset-backed loans in tech see recovery rates of 70-90%. The approach it uses is designed to meet or beat these numbers. It does this by using a liquid and accessible form of collateral. The exact rate can change. It depends on loan terms, the value of [compute credits](../concepts/compute-credits.md) at the time of sale, and market conditions.
 
 ### Definition: Compute Lending
 
@@ -36,7 +36,7 @@ Speed and certainty in default recovery are very important for lenders in comput
 
 ### How quickly can lenders recover assets through CompuX's platform?
 
-CompuX is designed for fast asset recovery. By using blockable [AI credits](/faq/how-compute-credits-work/) as collateral, lenders can start selling them almost right away after a default. This is different from traditional methods. Those methods can involve long legal processes. They can also cause delays in accessing and selling physical assets. The speed of recovery can greatly reduce losses. This is especially true with how quickly compute resource prices change.
+CompuX is designed for fast asset recovery. By using blockable [AI credits](how-compute-credits-work.md) as collateral, lenders can start selling them almost right away after a default. This is different from traditional methods. Those methods can involve long legal processes. They can also cause delays in accessing and selling physical assets. The speed of recovery can greatly reduce losses. This is especially true with how quickly compute resource prices change.
 
 ### What are the advantages of using blockable AI credits for default recovery?
 
@@ -54,11 +54,11 @@ Traditional asset-backed loans often involve complex legal steps. They also invo
 | Recovery Cost | Low | High |
 | Asset Accessibility | Immediate | Delayed |
 
-Speed and certainty are key in compute lending. This is because of the fast pace of tech changes. This shows the need for efficient resource management and lending. GPU prices dropped 40% from their 2023 peak ([Epoch AI](https://epochai.org/data/epochdb/notable-ai-models), 2025). This highlights the need for quick sales. Quick sales help avoid losses from asset depreciation. By using blockable AI credits, it aims to offer a more reliable and efficient default recovery process. It seeks to be better than traditional methods. The number of [GPU cloud startups](/use-cases/gpu-cloud-startups/) providers has grown rapidly in recent years between 2023 and 2025 (Epoch AI). This also shows the growing need for efficient compute resource allocation. It also shows the role of compute lending in giving access to these resources.
+Speed and certainty are key in compute lending. This is because of the fast pace of tech changes. This shows the need for efficient resource management and lending. GPU prices dropped 40% from their 2023 peak ([Epoch AI](https://epochai.org/data/epochdb/notable-ai-models), 2025). This highlights the need for quick sales. Quick sales help avoid losses from asset depreciation. By using blockable AI credits, it aims to offer a more reliable and efficient default recovery process. It seeks to be better than traditional methods. The number of [GPU cloud startups](../use-cases/gpu-cloud-startups.md) providers has grown rapidly in recent years between 2023 and 2025 (Epoch AI). This also shows the growing need for efficient compute resource allocation. It also shows the role of compute lending in giving access to these resources.
 
 ## What advantages do blockable AI credits offer as loan collateral?
 
-CompuX has a unique advantage in compute lending. These credits are a pre-paid amount of compute resources. They can be sold quickly if there's a default. It also lowers the risks of traditional asset-backed lending. The [token operator](/concepts/token-operator-guide/) manages the credits.
+CompuX has a unique advantage in compute lending. These credits are a pre-paid amount of compute resources. They can be sold quickly if there's a default. It also lowers the risks of traditional asset-backed lending. The [token operator](../concepts/token-operator-guide.md) manages the credits.
 
 ### How does CompuX's blockable AI credit system work as collateral?
 
@@ -72,7 +72,7 @@ Using blockable AI credits for default recovery has several advantages. These cr
 
 These are in the form of blockable AI credits. This includes access to powerful GPUs like H100s, and cloud-based compute services. CompuX supports 50+ models from leading providers including OpenAI, Anthropic, Google, Meta, and Mistral. This lets borrowers promise the resources that best fit their needs. It also gives lenders diverse and valuable collateral options. CompuX's innovative approach to compute lending uses blockable AI credits as collateral. This meets a need for secure and efficient lending in the AI space. training state-of-the-art models requires massive compute investment (Epoch AI, 2025). This means the stakes are high for AI startups. Access to reliable compute resources is key. By offering a secure and liquid form of collateral, it lowers the risks of compute lending.
 
-This encourages more lenders to join the market. Demand for [inference-heavy startups](/use-cases/inference-heavy-startups/) compute is rising. This highlights the importance of flexible and efficient access to compute resources. Blockable AI credits provide a way to meet this demand. They also manage lending risks. Cloud credit programs often cap at $100-350K. They also expire in 12-24 months.
+This encourages more lenders to join the market. Demand for [inference-heavy startups](../use-cases/inference-heavy-startups.md) compute is rising. This highlights the importance of flexible and efficient access to compute resources. Blockable AI credits provide a way to meet this demand. They also manage lending risks. Cloud credit programs often cap at $100-350K. They also expire in 12-24 months.
 
 ## How does CompuX ensure rapid default recovery for lenders?
 
@@ -124,7 +124,7 @@ Lenders can diversify their compute lending portfolio to lower risk. They can do
 
 Before making a compute loan, lenders should check the borrower carefully. This includes checking the borrower's creditworthiness, financial stability, and business plan. Lenders should also see if the borrower can use the compute resources well. They should also check if they can make enough money to repay the loan. Also, lenders should check the borrower's legal compliance. They should make sure they have the licenses and permits to operate their business.
 
-Good risk management is key for compute lending to last. This is because of how fast the AI industry changes. This means lenders need to carefully check the risks of different use cases and borrowers. By using strong due diligence, diversifying portfolios, and using collateral, lenders can lower these risks. Competition among [GPU cloud startups](/use-cases/gpu-cloud-startups/) providers is rising. The number has grown rapidly in recent years between 2023 and 2025 (Epoch AI). This highlights how important it is for lenders to stay informed about market trends and pricing. Compute lending default recovery rates average 70-90%.
+Good risk management is key for compute lending to last. This is because of how fast the AI industry changes. This means lenders need to carefully check the risks of different use cases and borrowers. By using strong due diligence, diversifying portfolios, and using collateral, lenders can lower these risks. Competition among [GPU cloud startups](../use-cases/gpu-cloud-startups.md) providers is rising. The number has grown rapidly in recent years between 2023 and 2025 (Epoch AI). This highlights how important it is for lenders to stay informed about market trends and pricing. Compute lending default recovery rates average 70-90%.
 
 ## Legal Considerations in Compute Lending Agreements
 

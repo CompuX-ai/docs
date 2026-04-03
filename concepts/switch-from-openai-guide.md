@@ -26,7 +26,7 @@ Using AI models for tasks now costs 60-70% of the total AI compute spend. This i
 
 ### OpenAI's Pricing Structure
 
-OpenAI's pricing for their advanced models can be much higher than many open-source options. The exact cost depends on things like how many tokens are processed. Model is used, and how complex the task is. For example, [training-heavy startups](/use-cases/training-heavy-startups/) a high-end model can cost $50-100M in compute ([Epoch AI](https://epochai.org/data/epochdb/notable-ai-models), 2025). This high cost can be too much for startups with small budgets. On the other hand, fine-tuning a model from Meta costs $5-15K per run (Lambda Labs pricing, 2025). This shows how much you can save by using open-source options. Switching to a cheaper API could cut your AI compute costs by 30-70%, depending on what you're using it for and which model you choose. It's important to compare costs carefully before making any changes.
+OpenAI's pricing for their advanced models can be much higher than many open-source options. The exact cost depends on things like how many tokens are processed. Model is used, and how complex the task is. For example, [training-heavy startups](../use-cases/training-heavy-startups.md) a high-end model can cost $50-100M in compute ([Epoch AI](https://epochai.org/data/epochdb/notable-ai-models), 2025). This high cost can be too much for startups with small budgets. On the other hand, fine-tuning a model from Meta costs $5-15K per run (Lambda Labs pricing, 2025). This shows how much you can save by using open-source options. Switching to a cheaper API could cut your AI compute costs by 30-70%, depending on what you're using it for and which model you choose. It's important to compare costs carefully before making any changes.
 
 ### Cost Comparison Table
 
@@ -95,11 +95,11 @@ Things might not work together because of differences in API syntax, data format
 
 ## Leveraging CompuX for Cost-Effective AI Compute
 
-CompuX offers a marketplace for compute credits and access to different [GPU cloud startups](/use-cases/gpu-cloud-startups/) providers. Our platform makes it easier to find and get affordable compute resources to run other LLMs.
+CompuX offers a marketplace for compute credits and access to different [GPU cloud startups](../use-cases/gpu-cloud-startups.md) providers. Our platform makes it easier to find and get affordable compute resources to run other LLMs.
 
 ### Accessing a Diverse Range of Compute Options
 
-CompuX lets you use different compute options from many providers. This includes GPUs from different cloud providers. This lets you pick the [cheapest LLM API access](/compare/llm-api-pricing-comparison/) option for your needs. GPU marketplace pricing for H100 spot capacity ranges from $1.50 to $2.80/hour, depending on availability. Data centers use only 30-50% of their GPUs on average (Stanford AI Index, 2025). Finding the right provider can greatly improve efficiency.
+CompuX lets you use different compute options from many providers. This includes GPUs from different cloud providers. This lets you pick the [cheapest LLM API access](../compare/llm-api-pricing-comparison.md) option for your needs. GPU marketplace pricing for H100 spot capacity ranges from $1.50 to $2.80/hour, depending on availability. Data centers use only 30-50% of their GPUs on average (Stanford AI Index, 2025). Finding the right provider can greatly improve efficiency.
 
 ## CompuX's AI API Aggregator: Simplifying Integration
 
@@ -135,7 +135,7 @@ Create a flexible setup that lets you easily switch between different AI models 
 
 ### Citable Passage
 
-Switching from models from OpenAI to cheaper APIs can save you money. You could cut your AI compute costs by 30-70%. The need for AI compute resources is growing. This is driving the need to find ways to save money. compute costs dominate AI startup spending ([a16z](https://a16z.com/ai/) State of AI, 2025). There are more [GPU cloud startups](/use-cases/gpu-cloud-startups/) providers now, has tripled its provider count since 2023 between 2023 and 2025 (Epoch AI). By using platforms like CompuX, startups can find compute credits and an AI API aggregator. This lets them get the most out of their AI setup while keeping costs down.
+Switching from models from OpenAI to cheaper APIs can save you money. You could cut your AI compute costs by 30-70%. The need for AI compute resources is growing. This is driving the need to find ways to save money. compute costs dominate AI startup spending ([a16z](https://a16z.com/ai/) State of AI, 2025). There are more [GPU cloud startups](../use-cases/gpu-cloud-startups.md) providers now, has tripled its provider count since 2023 between 2023 and 2025 (Epoch AI). By using platforms like CompuX, startups can find compute credits and an AI API aggregator. This lets them get the most out of their AI setup while keeping costs down.
 
 ## Frequently Asked Questions
 
@@ -157,7 +157,7 @@ Check LLM performance by looking at things like accuracy, speed (latency), and c
 
 ### How can CompuX help me switch to a cheaper API?
 
-CompuX offers a marketplace for compute credits and access to different [GPU cloud startups](/use-cases/gpu-cloud-startups/) providers. This helps you lower your AI compute costs. Our platform makes it easier to find and get affordable compute resources to run other LLMs. Our AI API aggregator also makes it easier to work with many providers. This allows you to compare the performance of different models side-by-side and choose the most cost-effective option for each task.
+CompuX offers a marketplace for compute credits and access to different [GPU cloud startups](../use-cases/gpu-cloud-startups.md) providers. This helps you lower your AI compute costs. Our platform makes it easier to find and get affordable compute resources to run other LLMs. Our AI API aggregator also makes it easier to work with many providers. This allows you to compare the performance of different models side-by-side and choose the most cost-effective option for each task.
 
 ### What are the potential challenges of switching LLM providers?
 
@@ -165,14 +165,14 @@ Problems can include things not working together, performance differences, and p
 
 ## Related Terms
 
-* [Compute Credits](/concepts/compute-credits/)
-* [Multi-Provider API](/concepts/multi-provider-llm-api/)
-* [Compute Marketplace](/concepts/compute-credit-marketplace/)
+* [Compute Credits](compute-credits.md)
+* [Multi-Provider API](multi-provider-llm-api.md)
+* [Compute Marketplace](compute-credit-marketplace.md)
 
 ## Get Started
 
 Ready to lower your AI compute costs? Check out the CompuX marketplace today. See how our AI API aggregator can make integration easier.
 
-[Learn More](/compare/compux-vs-openrouter/)
-[See Integrations](/compare/compux-vs-together-ai/)
-[Compare to Cloud Credits](/compare/compux-vs-cloud-credits/)
+[Learn More](../compare/compux-vs-openrouter.md)
+[See Integrations](../compare/compux-vs-together-ai.md)
+[Compare to Cloud Credits](../compare/compux-vs-cloud-credits.md)

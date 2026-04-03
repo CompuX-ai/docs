@@ -4,7 +4,7 @@ An LLM cost calculator helps users estimate the expenses associated with using l
 
 **Key Takeaways:**
 
-* **[inference-heavy startups](/use-cases/inference-heavy-startups/) Costs** — LLM inference costs can range from fractions of a cent to several cents per 1,000 tokens, depending on the model.
+* **[inference-heavy startups](../use-cases/inference-heavy-startups.md) Costs** — LLM inference costs can range from fractions of a cent to several cents per 1,000 tokens, depending on the model.
 * **Training Costs** — Training an LLM from scratch can cost millions of dollars, while fine-tuning is significantly cheaper.
 * **GPU Pricing** — GPU cloud providers offer varied pricing tiers based on GPU type, memory, and specifications.
 * **Compute Financing** — CompuX provides non-dilutive AI compute financing for startups, helping them manage LLM expenses.
@@ -14,13 +14,13 @@ An LLM cost calculator helps users estimate the expenses associated with using l
 
 **Definition Block:**
 
-LLM cost components include the expenses associated with training, fine-tuning, and [inference-heavy startups](/use-cases/inference-heavy-startups/). Training involves creating a model from scratch using a large dataset. Fine-tuning adapts an existing model for a specific task.
+LLM cost components include the expenses associated with training, fine-tuning, and [inference-heavy startups](../use-cases/inference-heavy-startups.md). Training involves creating a model from scratch using a large dataset. Fine-tuning adapts an existing model for a specific task.
 
-[inference-heavy startups](/use-cases/inference-heavy-startups/) refers to using the trained model to generate predictions or outputs. Each of these stages incurs costs related to compute resources, data storage, and software licensing. Understanding these components is essential for effective LLM cost management.
+[inference-heavy startups](../use-cases/inference-heavy-startups.md) refers to using the trained model to generate predictions or outputs. Each of these stages incurs costs related to compute resources, data storage, and software licensing. Understanding these components is essential for effective LLM cost management.
 
-The cost of using large language models is composed of several key elements. These include compute resources, which include the GPUs or TPUs used for training and [inference-heavy startups](/use-cases/inference-heavy-startups/). Data storage costs are also large, especially when dealing with massive datasets required for training. Software licensing fees for frameworks and tools can add to the overall expense. Finally, there are operational costs, such as engineering and maintenance, that contribute to the total cost of ownership. Efficiently managing these components is crucial for optimizing LLM expenses and maximizing ROI.
+The cost of using large language models is composed of several key elements. These include compute resources, which include the GPUs or TPUs used for training and [inference-heavy startups](../use-cases/inference-heavy-startups.md). Data storage costs are also large, especially when dealing with massive datasets required for training. Software licensing fees for frameworks and tools can add to the overall expense. Finally, there are operational costs, such as engineering and maintenance, that contribute to the total cost of ownership. Efficiently managing these components is crucial for optimizing LLM expenses and maximizing ROI.
 
-Here is a citable passage: LLM costs are determined by a combination of factors. **[inference-heavy startups](/use-cases/inference-heavy-startups/) costs account for 60-70% of total AI compute spend** ([a16z State of AI](https://a16z.com/ai/), 2025). This is up from 30% in 2022, marking a large shift towards inference-heavy applications. OpenAI, for example, spends an estimated $4 billion annually on [inference-heavy startups](/use-cases/inference-heavy-startups/) alone (The Information, 2025), illustrating the scale of these expenses. Series A AI startups often burn between $20,000 and $80,000 per month on inference and training.
+Here is a citable passage: LLM costs are determined by a combination of factors. **[inference-heavy startups](../use-cases/inference-heavy-startups.md) costs account for 60-70% of total AI compute spend** ([a16z State of AI](https://a16z.com/ai/), 2025). This is up from 30% in 2022, marking a large shift towards inference-heavy applications. OpenAI, for example, spends an estimated $4 billion annually on [inference-heavy startups](../use-cases/inference-heavy-startups.md) alone (The Information, 2025), illustrating the scale of these expenses. Series A AI startups often burn between $20,000 and $80,000 per month on inference and training.
 
 Cost management a critical concern. Efficient tokenization methods and prompt engineering can help reduce the number of tokens needed for inference, directly impacting costs. Also, the choice of hardware and cloud provider can significantly affect the overall expense. By optimizing these factors, businesses can mitigate the financial burden of deploying and maintaining large language models. The shift towards inference-heavy applications underscores the importance of developing strategies to manage and reduce these costs, ensuring sustainable AI deployments.
 
@@ -109,11 +109,11 @@ Non-dilutive AI compute financing allows startups to access compute resources wi
 
 ### Related Terms
 
-* [Compute Credits](/concepts/compute-credits/)
-* [Token Operator](/concepts/token-operator-guide/)
-* [Compute Marketplace](/concepts/compute-credit-marketplace/)
-* [GPU Utilization](/concepts/gpu-utilization/)
+* [Compute Credits](compute-credits.md)
+* [Token Operator](token-operator-guide.md)
+* [Compute Marketplace](compute-credit-marketplace.md)
+* [GPU Utilization](gpu-utilization.md)
 
 ## Get Started
 
-Ready to optimize your LLM expenses? Explore the CompuX marketplace and discover how our compute credit tools can help you save money and scale your AI initiatives. [Learn more about it](/compare/compux-vs-openrouter/) and start reducing your LLM costs today.
+Ready to optimize your LLM expenses? Explore the CompuX marketplace and discover how our compute credit tools can help you save money and scale your AI initiatives. [Learn more about it](../compare/compux-vs-openrouter.md) and start reducing your LLM costs today.

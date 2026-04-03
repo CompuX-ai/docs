@@ -1,13 +1,13 @@
 # AI Compute Credit Financing: A New Asset Class For Lenders
 
-AI compute credit financing is a new asset class. These [compute credits](/concepts/compute-credits/) let people use the computing power they need to train and use AI models. The need for this resource is growing quickly. CompuX offers a marketplace to help this new type of financing. This is **compute financing for lenders**.
+AI compute credit financing is a new asset class. These [compute credits](../concepts/compute-credits.md) let people use the computing power they need to train and use AI models. The need for this resource is growing quickly. CompuX offers a marketplace to help this new type of financing. This is **compute financing for lenders**.
 
 **Key Takeaways:**
 
 * **Market Growth** — Worldwide AI infrastructure spending hit $150 billion in 2025, per [IDC](https://www.idc.com/), a clear signal of the industry's capital intensity. This shows big growth potential for AI compute credit financing [IDC Worldwide AI Spending Guide](https://www.idc.com/getdoc.jsp?containerId=prUS52691024).
 * **Compute Costs** — AI startups spend 30-50% of their funding on compute resources. This shows how important it is to have good financing options ([a16z State of AI](https://a16z.com/ai/), 2025).
-* **ROI Potential** — Lenders may see strong returns by financing [compute credits](/concepts/compute-credits/). This is because compute is very important in the AI process.
-* **CompuX Solution** — The CompuX marketplace is a safe and clear place for lenders to join in AI compute credit financing. CompuX lowers risks through [blockable credits](/concepts/blockable-credits/).
+* **ROI Potential** — Lenders may see strong returns by financing [compute credits](../concepts/compute-credits.md). This is because compute is very important in the AI process.
+* **CompuX Solution** — The CompuX marketplace is a safe and clear place for lenders to join in AI compute credit financing. CompuX lowers risks through [blockable credits](../concepts/blockable-credits.md).
 
 ## The Challenge: Compute Financing for Lenders
 
@@ -24,10 +24,10 @@ The scale of AI compute demand is reflected in IDC's $150 billion infrastructure
 CompuX connects lenders and AI startups by providing a safe and clear marketplace for AI compute credit financing. The platform turns compute resources into something that can be easily financed. Here are some key benefits:
 
 * **Increased ROI:** Lenders can earn 25-50% more on their investment by financing compute credits through CompuX.
-* **Reduced Risk:** [Blockable credits](/concepts/blockable-credits/) let lenders control how compute credits are used, lowering the risk of misuse.
+* **Reduced Risk:** [Blockable credits](../concepts/blockable-credits.md) let lenders control how compute credits are used, lowering the risk of misuse.
 * **Enhanced Transparency:** The marketplace provides real-time data on compute credit pricing, use, and demand. This gives lenders the information they need to make good decisions.
 
-CompuX acts as a [token operator](/concepts/token-operator-guide/), managing compute credits from when they are created to when they are used. This includes checking if AI startups are able to pay back loans, setting credit limits, and watching compute use. The platform works with 50+ AI models from leading providers including OpenAI, Anthropic, Google, Meta, and Mistral. By making the financing process standard and providing good risk management tools, the marketplace lets lenders confidently invest in the AI compute market.
+CompuX acts as a [token operator](../concepts/token-operator-guide.md), managing compute credits from when they are created to when they are used. This includes checking if AI startups are able to pay back loans, setting credit limits, and watching compute use. The platform works with 50+ AI models from leading providers including OpenAI, Anthropic, Google, Meta, and Mistral. By making the financing process standard and providing good risk management tools, the marketplace lets lenders confidently invest in the AI compute market.
 
 | Feature | it | Traditional Lending |
 | ---------------- | ------------------------------------- | ----------------------------- |
@@ -49,7 +49,7 @@ It checks if they are able to pay back loans and sets a credit limit. 4. **Compu
 
 The platform is designed for lenders who want to add to their investments and use the growth of the AI industry. This includes:
 
-* **[CompuX vs venture debt](/compare/compux-vs-venture-debt/) Funds:** Companies that give debt financing to fast-growing startups.
+* **[CompuX vs venture debt](../compare/compux-vs-venture-debt.md) Funds:** Companies that give debt financing to fast-growing startups.
 * **Specialty Finance Companies:** Lenders focused on specific markets and lending based on assets.
 * **Family Offices:** Private wealth firms looking for different investment chances.
 * **Traditional Banks:** Banks looking to grow their AI lending.
@@ -78,7 +78,7 @@ AI compute credits let you use computing resources, mainly GPUs, to train and us
 
 ### How does CompuX mitigate the risks associated with AI compute credit financing?
 
-CompuX uses different ways to lower risks. This includes checking AI startups carefully, setting credit limits based on their needs. Using [blockable credits](/concepts/blockable-credits/) to control compute use. The platform also watches compute use in real time, letting lenders find and fix problems quickly while keeping financing safe and clear.
+CompuX uses different ways to lower risks. This includes checking AI startups carefully, setting credit limits based on their needs. Using [blockable credits](../concepts/blockable-credits.md) to control compute use. The platform also watches compute use in real time, letting lenders find and fix problems quickly while keeping financing safe and clear.
 
 ### What types of AI models and applications are supported by CompuX?
 
@@ -92,4 +92,4 @@ Lenders can potentially earn 25–50% more on their investment by financing comp
 
 The CompuX marketplace provides real-time data on compute credit pricing, use, and demand. This gives lenders and AI startups the information they need to make good decisions. The marketplace uses a pricing model that changes based on the market, making sure that compute is priced fairly. This clarity builds trust in the AI compute credit financing world. Ready to explore compute financing for lenders? Contact us today to learn how the platform can help you use this new asset class.
 
-[Learn More about Compute Credit Transfusion](/concepts/compute-credit-transfusion-guide/)
+[Learn More about Compute Credit Transfusion](../concepts/compute-credit-transfusion-guide.md)

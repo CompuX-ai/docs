@@ -26,9 +26,9 @@ CompuX solves the compute challenges for **training heavy startups** with afford
 
 ## CompuX: Your Solution for Affordable AI Compute
 
-CompuX offers affordable and scalable compute for **training heavy startups**. We provide a marketplace for [compute credits](/concepts/compute-credits/) that unlocks access to wholesale GPU prices. Our platform helps AI startups by offering a cheaper and more flexible option than regular cloud providers. We also provide ways to pay. This lets startups get the compute they need without giving away ownership, allowing them to keep control of their company. With CompuX, AI startups can focus on new ideas and model building. They won't have to worry about the high costs and limits of regular compute tools.
+CompuX offers affordable and scalable compute for **training heavy startups**. We provide a marketplace for [compute credits](../concepts/compute-credits.md) that unlocks access to wholesale GPU prices. Our platform helps AI startups by offering a cheaper and more flexible option than regular cloud providers. We also provide ways to pay. This lets startups get the compute they need without giving away ownership, allowing them to keep control of their company. With CompuX, AI startups can focus on new ideas and model building. They won't have to worry about the high costs and limits of regular compute tools.
 
-CompuX acts as a "Compute Credit Transfusion Engine." It turns $1 million in financing into $1.25 to $1.5 million in [compute credits](/concepts/compute-credits/), giving startups a 25-50% boost. Our OpenAI-compatible SDK is easy to add. We work as a compute credit marketplace and token operator. We provide a special and helpful service to AI startups, compute providers, and capital partners. We offer a three-sided marketplace connecting these key players. This allows startups to access many GPU options and spend their compute money wisely based on their needs and budget.
+CompuX acts as a "Compute Credit Transfusion Engine." It turns $1 million in financing into $1.25 to $1.5 million in [compute credits](../concepts/compute-credits.md), giving startups a 25-50% boost. Our OpenAI-compatible SDK is easy to add. We work as a compute credit marketplace and token operator. We provide a special and helpful service to AI startups, compute providers, and capital partners. We offer a three-sided marketplace connecting these key players. This allows startups to access many GPU options and spend their compute money wisely based on their needs and budget.
 
 ## Why Choose CompuX for Your AI Startup?
 
@@ -52,7 +52,7 @@ Our platform supports many GPU types, from NVIDIA A100s to H100s. We also offer 
 
 You only pay for the compute you need. We know that AI startups have different money situations. So, we have made our pricing easy to understand, predictable, and able to change. Our compute credit marketplace lets you buy compute credits at wholesale prices. This lowers your compute costs compared to regular cloud providers. We also offer subscription plans to fit different usage and budget needs.
 
-One of the best things about it is that you can buy [blockable credits](/concepts/blockable-credits/). These credits can be used across many compute providers on our platform. We also offer reserved instances for long-term compute needs. By offering flexible pricing and credit options, it helps AI startups manage their compute costs and extend their runway. H100 GPUs are available at $1.50-$2.80 per GPU-hour through spot allocations on compute marketplaces.
+One of the best things about it is that you can buy [blockable credits](../concepts/blockable-credits.md). These credits can be used across many compute providers on our platform. We also offer reserved instances for long-term compute needs. By offering flexible pricing and credit options, it helps AI startups manage their compute costs and extend their runway. H100 GPUs are available at $1.50-$2.80 per GPU-hour through spot allocations on compute marketplaces.
 
 | Pricing Model | Description | Benefits |
 |---|---|---|
@@ -65,7 +65,7 @@ One of the best things about it is that you can buy [blockable credits](/concept
 
 Giving up ownership can be hard, especially for new companies. Our financing tools offer a way to access the compute you need without losing ownership or control of your company. We work with capital partners to provide flexible ways to pay that fit the needs of AI startups. Training clusters consume the lion's share of early-stage AI budgets. This model turns financing into compute credits, which increases the value of your money. This helps startups extend their runway, build their models faster, and launch their products sooner.
 
-By providing ways to pay that keep ownership and increase compute resources, it helps AI startups reach their full potential. As a [token operator](/concepts/token-operator-guide/), it can help with these new financing tools. See how this compares to traditional funding in our [CompuX vs venture debt](/compare/compux-vs-venture-debt/) analysis.
+By providing ways to pay that keep ownership and increase compute resources, it helps AI startups reach their full potential. As a [token operator](../concepts/token-operator-guide.md), it can help with these new financing tools. See how this compares to traditional funding in our [CompuX vs venture debt](../compare/compux-vs-venture-debt.md) analysis.
 
 ## Training Heavy Startups: Frequently Asked Questions
 

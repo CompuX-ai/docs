@@ -1,12 +1,12 @@
 # Reduce LLM Inference Costs: A Guide for Inference-Heavy Startups
 
-For startups that depend on [inference-heavy startups](/use-cases/inference-heavy-startups/), managing expenses is very important. LLM inference costs can quickly use up resources. This **reduce LLM inference costs guide** provides strategies and tools to lower these costs. It focuses on managing GPUs, optimizing budgets, and using efficient billing to save money. We'll explore techniques and how CompuX can help you find affordable AI compute.
+For startups that depend on [inference-heavy startups](../use-cases/inference-heavy-startups.md), managing expenses is very important. LLM inference costs can quickly use up resources. This **reduce LLM inference costs guide** provides strategies and tools to lower these costs. It focuses on managing GPUs, optimizing budgets, and using efficient billing to save money. We'll explore techniques and how CompuX can help you find affordable AI compute.
 
 **Key Takeaways:**
 
-* **[inference-heavy startups](/use-cases/inference-heavy-startups/) Cost Burden** — LLM inference costs can be a large part of total LLM expenses for startups that use a lot of inference.
-* **GPU Optimization** — Optimizing GPU use can lower [inference-heavy startups](/use-cases/inference-heavy-startups/) costs.
-* **API Savings** — Switching to a cheaper LLM API can save money on [inference-heavy startups](/use-cases/inference-heavy-startups/) costs.
+* **[inference-heavy startups](../use-cases/inference-heavy-startups.md) Cost Burden** — LLM inference costs can be a large part of total LLM expenses for startups that use a lot of inference.
+* **GPU Optimization** — Optimizing GPU use can lower [inference-heavy startups](../use-cases/inference-heavy-startups.md) costs.
+* **API Savings** — Switching to a cheaper LLM API can save money on [inference-heavy startups](../use-cases/inference-heavy-startups.md) costs.
 * **Budget Discipline** — Managing your budget and tracking costs are key to controlling LLM expenses.
 * **CompuX Advantage** — CompuX offers a marketplace for AI compute credits. CompuX provides access to affordable GPU resources and compute financing options.
 
@@ -14,7 +14,7 @@ For startups that depend on [inference-heavy startups](/use-cases/inference-heav
 
 **Definition Block:**
 
-LLM [inference-heavy startups](/use-cases/inference-heavy-startups/) cost is the expense of using a trained large language model (LLM) to make predictions or outputs on new data. This cost comes from the computing resources, like GPUs, needed to run the model and the pricing of the LLM APIs used. For startups, understanding and managing these costs is important for growth. Large language models (LLMs) are changing industries. However, the costs of running them, especially for [inference-heavy startups](/use-cases/inference-heavy-startups/), can be high. For startups, these costs can quickly become unmanageable if not handled carefully.
+LLM [inference-heavy startups](../use-cases/inference-heavy-startups.md) cost is the expense of using a trained large language model (LLM) to make predictions or outputs on new data. This cost comes from the computing resources, like GPUs, needed to run the model and the pricing of the LLM APIs used. For startups, understanding and managing these costs is important for growth. Large language models (LLMs) are changing industries. However, the costs of running them, especially for [inference-heavy startups](../use-cases/inference-heavy-startups.md), can be high. For startups, these costs can quickly become unmanageable if not handled carefully.
 
 Inference, which is using a trained model to make predictions, often needs a lot of computing resources, leading to high expenses. Understanding what drives LLM inference costs is the first step in lowering them. By finding areas where costs can be lowered, startups can get the most from their AI investments. This includes looking at different LLM APIs, optimizing GPU use, and using efficient caching.
 
@@ -70,7 +70,7 @@ Managing your budget well is important for controlling LLM inference costs. Sett
 
 ## Leveraging CompuX for Affordable LLM Inference Compute
 
-CompuX offers a marketplace for AI compute credits. CompuX lets users compare pricing across different providers, manage budgets, and optimize GPU use. By using CompuX, startups can lower their LLM inference costs and extend their runway. See [CompuX vs venture debt](/compare/compux-vs-venture-debt/) and [CompuX vs direct providers](/compare/compux-vs-direct-providers/) for a comparison. CompuX functions as a token operator managing credit lifecycle and API routing, operates across the full AI compute supply chain. CompuX's OpenAI-compatible SDK serves as a drop-in replacement, simplifying integration. CompuX's "Compute Credit Transfusion Engine" provides financing, which translates to compute credits, offering a multiplier. CompuX lets startups maximize their compute resources while staying flexible.
+CompuX offers a marketplace for AI compute credits. CompuX lets users compare pricing across different providers, manage budgets, and optimize GPU use. By using CompuX, startups can lower their LLM inference costs and extend their runway. See [CompuX vs venture debt](../compare/compux-vs-venture-debt.md) and [CompuX vs direct providers](../compare/compux-vs-direct-providers.md) for a comparison. CompuX functions as a token operator managing credit lifecycle and API routing, operates across the full AI compute supply chain. CompuX's OpenAI-compatible SDK serves as a drop-in replacement, simplifying integration. CompuX's "Compute Credit Transfusion Engine" provides financing, which translates to compute credits, offering a multiplier. CompuX lets startups maximize their compute resources while staying flexible.
 
 ## Optimizing Billing and Cost Tracking
 
@@ -96,7 +96,7 @@ You can optimize GPU use through techniques like batch processing (grouping requ
 
 ### What are some cost-effective LLM API alternatives?
 
-Consider exploring open-source models or smaller, more efficient models that meet your needs. Also, compare pricing across different providers like OpenAI, Anthropic, Google, Meta, Mistral, Cohere. AI21 to find the [cheapest LLM API access](/compare/llm-api-pricing-comparison/) option. Switching to a cheaper LLM API can save money on inference costs. For instance, using a smaller model like OpenAI's GPT-3.5 Turbo instead of OpenAI's GPT-4 can significantly reduce costs, sometimes by as much as 50%.
+Consider exploring open-source models or smaller, more efficient models that meet your needs. Also, compare pricing across different providers like OpenAI, Anthropic, Google, Meta, Mistral, Cohere. AI21 to find the [cheapest LLM API access](../compare/llm-api-pricing-comparison.md) option. Switching to a cheaper LLM API can save money on inference costs. For instance, using a smaller model like OpenAI's GPT-3.5 Turbo instead of OpenAI's GPT-4 can significantly reduce costs, sometimes by as much as 50%.
 
 ### How does CompuX help startups reduce LLM inference costs?
 
@@ -108,12 +108,12 @@ Set budget limits, track expenses, forecast needs, use cost allocation strategie
 
 ## Related Terms
 
-* [Compute Credits](/concepts/compute-credits/)
-* [Compute Marketplace](/concepts/compute-credit-marketplace/)
-* [GPU Utilization](/concepts/gpu-utilization/)
-* [Blockable Credits](/concepts/blockable-credits/)
-* [Multi-Provider API](/concepts/multi-provider-llm-api/)
-* [Marginal Cost Arbitrage](/concepts/marginal-cost-arbitrage/)
+* [Compute Credits](compute-credits.md)
+* [Compute Marketplace](compute-credit-marketplace.md)
+* [GPU Utilization](gpu-utilization.md)
+* [Blockable Credits](blockable-credits.md)
+* [Multi-Provider API](multi-provider-llm-api.md)
+* [Marginal Cost Arbitrage](marginal-cost-arbitrage.md)
 
 ## Get Started
 

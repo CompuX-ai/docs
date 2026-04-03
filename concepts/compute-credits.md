@@ -8,7 +8,7 @@ Compute credits are the currency of the cloud. They represent a specific amount 
 * **Cost Savings** — Using compute credits can lead to large cost savings compared to on-demand pricing.
 * **AI/ML Benefits** — Compute credits are particularly useful for AI and machine learning workloads due to their high compute demands.
 * **CompuX Marketplace** — CompuX offers a marketplace for AI compute credits, providing access to wholesale prices and financing options.
-* **Blockable Credits** — CompuX offers blockable compute credits as [blockable credit collateral](/faq/blockable-credit-collateral/) for compute lending, de-risking compute credit investment.
+* **Blockable Credits** — CompuX offers blockable compute credits as [blockable credit collateral](../faq/blockable-credit-collateral.md) for compute lending, de-risking compute credit investment.
 * **Portability** — AI compute credits decouple GPU access from cloud contracts. Buy once, use across multiple providers through a single API.
 * **Financing Multiplier** — Financing multiplies credit value. Bulk purchasing discounts get passed through to the buyer as bonus credits.
 * **Scalability** — The credit model scales from small experiments to large deployments using the same API and format.
@@ -21,7 +21,7 @@ Compute credits are units that measure the consumption of cloud resources. CPU t
 
 **Compute Credits:** A unit of measurement used by cloud providers to quantify the consumption of computing resources such as CPU, GPU, memory, and storage. They act as a pre-paid or allocated form of currency to pay for cloud services, providing flexibility and potential cost savings compared to on-demand pricing. Understanding compute credits is crucial for managing cloud expenses, particularly for AI and machine learning workloads with substantial resource requirements.
 
-The demand for cloud-based AI compute has exploded in recent years. This surge highlights the growing reliance on cloud resources for [training-heavy startups](/use-cases/training-heavy-startups/) and deploying AI models. Compute credits provide a mechanism for AI startups and enterprises to access these resources in a cost-effective manner. These credits can be used across a range of AI-related tasks. From training large language models to running [inference-heavy startups](/use-cases/inference-heavy-startups/) on deployed applications. The flexibility of compute credits allows organizations to scale their compute resources up or down as needed. Optimizing their spending and ensuring they only pay for what they use. This is especially valuable in the rapidly evolving field of AI, where compute requirements can change quickly.
+The demand for cloud-based AI compute has exploded in recent years. This surge highlights the growing reliance on cloud resources for [training-heavy startups](../use-cases/training-heavy-startups.md) and deploying AI models. Compute credits provide a mechanism for AI startups and enterprises to access these resources in a cost-effective manner. These credits can be used across a range of AI-related tasks. From training large language models to running [inference-heavy startups](../use-cases/inference-heavy-startups.md) on deployed applications. The flexibility of compute credits allows organizations to scale their compute resources up or down as needed. Optimizing their spending and ensuring they only pay for what they use. This is especially valuable in the rapidly evolving field of AI, where compute requirements can change quickly.
 
 ## How Compute Credits Work
 
@@ -50,7 +50,7 @@ Using compute credits offers several advantages, primarily related to cost savin
 
 ## Compute Credits for AI and Machine Learning
 
-Compute credits are particularly well-suited for AI and machine learning (ML) workloads. This is due to the intensive computational demands of these applications. Training complex models and running [inference-heavy startups](/use-cases/inference-heavy-startups/) at scale require large amounts of processing power, memory, and storage. Compute credits provide a flexible and cost-effective way to access these resources. AI/ML practitioners can scale their workloads as needed without incurring exorbitant costs.
+Compute credits are particularly well-suited for AI and machine learning (ML) workloads. This is due to the intensive computational demands of these applications. Training complex models and running [inference-heavy startups](../use-cases/inference-heavy-startups.md) at scale require large amounts of processing power, memory, and storage. Compute credits provide a flexible and cost-effective way to access these resources. AI/ML practitioners can scale their workloads as needed without incurring exorbitant costs.
 
 Serving AI models in production now consumes more compute than training them. Compute credits can help mitigate these costs. By leveraging compute credits, AI/ML teams can experiment with different models and architectures, optimize their algorithms. Deploy their applications more efficiently. This is especially important for startups and small businesses that may not have the capital to invest in dedicated hardware infrastructure. Compute credits level the playing field. Enabling these organizations to compete with larger players in the AI/ML space.
 
@@ -68,29 +68,29 @@ Set up alerts to notify you when your credit balance reaches a certain threshold
 
 ## AI Compute Credits vs Cloud Subscriptions
 
-AI compute credits differ from traditional cloud subscriptions in key ways for startups managing tight budgets. First, portability: credits work across multiple providers through one API endpoint, while cloud subscriptions lock you into a single vendor. A startup using [OpenAI-compatible API](/concepts/openai-api-alternatives/) calls can route the same code to models from OpenAI, Anthropic on AWS Bedrock, or open-source models on Lambda Labs. The credit system handles routing based on price and availability. Second, budgeting: credits are pre-purchased and finite, giving CFOs a hard cap on compute spend per quarter. Third, financing: credits can serve as [blockable credit collateral](/concepts/blockable-credits/) for compute lending, something impossible with cloud subscriptions. Fourth, pricing: credits benefit from marketplace competition across multiple providers, while cloud subscriptions reflect one vendor's margin. Fifth, commitment: credits carry no minimum term — use them this month or next quarter, with no reserved instance penalties.
+AI compute credits differ from traditional cloud subscriptions in key ways for startups managing tight budgets. First, portability: credits work across multiple providers through one API endpoint, while cloud subscriptions lock you into a single vendor. A startup using [OpenAI-compatible API](openai-api-alternatives.md) calls can route the same code to models from OpenAI, Anthropic on AWS Bedrock, or open-source models on Lambda Labs. The credit system handles routing based on price and availability. Second, budgeting: credits are pre-purchased and finite, giving CFOs a hard cap on compute spend per quarter. Third, financing: credits can serve as [blockable credit collateral](blockable-credits.md) for compute lending, something impossible with cloud subscriptions. Fourth, pricing: credits benefit from marketplace competition across multiple providers, while cloud subscriptions reflect one vendor's margin. Fifth, commitment: credits carry no minimum term — use them this month or next quarter, with no reserved instance penalties.
 
-The tradeoff: cloud subscriptions offer provider-specific features (custom VMs, managed databases, networking) that credit-based compute marketplaces don't replicate. AI compute credits are specifically optimized for [inference-heavy startups](/use-cases/inference-heavy-startups/) and training workloads, not general cloud infrastructure.
+The tradeoff: cloud subscriptions offer provider-specific features (custom VMs, managed databases, networking) that credit-based compute marketplaces don't replicate. AI compute credits are specifically optimized for [inference-heavy startups](../use-cases/inference-heavy-startups.md) and training workloads, not general cloud infrastructure.
 
 ## Types of AI Compute Credits
 
-Three credit types serve different workload patterns and financial structures. Standard credits are purchased at current market rates and consumed immediately. Best for variable workloads where monthly volume fluctuates. Reserved credits lock in a fixed per-credit price for a period at a discount, ideal for production [inference-heavy startups](/use-cases/inference-heavy-startups/) APIs with predictable daily token volume. Financed credits combine bulk purchasing with capital: a lender provides a facility, the [compute credit marketplace](/concepts/compute-credit-marketplace/) purchases GPU capacity at wholesale rates. The startup receives credits worth more than the facility amount. Repayment happens over a period at an APR. If the startup defaults, unused credits are [blockable](/faq/blockable-credit-collateral/). They freeze through API controls and the lender recovers a portion of principal. Each credit type maps to a financial profile: standard for exploration-phase startups, reserved for production-phase companies with stable [inference-heavy startups](/use-cases/inference-heavy-startups/) loads. Financed for growth-phase companies where compute is the primary scaling bottleneck.
+Three credit types serve different workload patterns and financial structures. Standard credits are purchased at current market rates and consumed immediately. Best for variable workloads where monthly volume fluctuates. Reserved credits lock in a fixed per-credit price for a period at a discount, ideal for production [inference-heavy startups](../use-cases/inference-heavy-startups.md) APIs with predictable daily token volume. Financed credits combine bulk purchasing with capital: a lender provides a facility, the [compute credit marketplace](compute-credit-marketplace.md) purchases GPU capacity at wholesale rates. The startup receives credits worth more than the facility amount. Repayment happens over a period at an APR. If the startup defaults, unused credits are [blockable](../faq/blockable-credit-collateral.md). They freeze through API controls and the lender recovers a portion of principal. Each credit type maps to a financial profile: standard for exploration-phase startups, reserved for production-phase companies with stable [inference-heavy startups](../use-cases/inference-heavy-startups.md) loads. Financed for growth-phase companies where compute is the primary scaling bottleneck.
 
 ## AI Compute Credits Pricing and Economics
 
-AI compute credit pricing follows supply-demand dynamics across GPU spot markets. Provider utilization is the primary driver: when data centers run below capacity, spot credit prices drop as providers compete for any revenue from idle GPUs. Time of day creates predictable patterns. Credits cost less during off-peak hours versus business hours when training jobs and batch [inference-heavy startups](/use-cases/inference-heavy-startups/) compete for capacity. Model routing adds a third layer: the [LLM routing](/concepts/llm-routing/) system automatically selects the [cheapest LLM API access](/compare/llm-api-pricing-comparison/) available provider for each request based on model, latency requirements, and real-time spot pricing.
+AI compute credit pricing follows supply-demand dynamics across GPU spot markets. Provider utilization is the primary driver: when data centers run below capacity, spot credit prices drop as providers compete for any revenue from idle GPUs. Time of day creates predictable patterns. Credits cost less during off-peak hours versus business hours when training jobs and batch [inference-heavy startups](../use-cases/inference-heavy-startups.md) compete for capacity. Model routing adds a third layer: the [LLM routing](llm-routing.md) system automatically selects the [cheapest LLM API access](../compare/llm-api-pricing-comparison.md) available provider for each request based on model, latency requirements, and real-time spot pricing.
 
 ## CompuX: Your Marketplace for AI Compute Credits
 
 CompuX is a marketplace specifically designed for AI compute credits. Offering a platform for startups, compute providers, and capital partners to connect and transact. CompuX provides access to wholesale prices on compute credits. Enabling AI companies to significantly reduce their compute spending. CompuX also offers financing options. Allowing startups to acquire the compute resources they need without straining their cash flow.
 
-One of the unique features of CompuX is its offering of blockable compute credits. These can be used as [blockable credit collateral](/faq/blockable-credit-collateral/) for compute lending. This innovative approach de-risks compute credit investment and unlocks new opportunities for capital partners. By providing a centralized marketplace for AI compute credits, CompuX aims to simplify the process of acquiring and managing these resources. Making it easier for AI companies to focus on innovation and growth. See how CompuX compares to [CompuX vs cloud credits](/compare/compux-vs-cloud-credits/) and [CompuX vs Lambda Labs](/compare/compux-vs-lambda-labs/). Consider also the differences between [CompuX vs cloud credits](/compare/compux-vs-cloud-credits/).
+One of the unique features of CompuX is its offering of blockable compute credits. These can be used as [blockable credit collateral](../faq/blockable-credit-collateral.md) for compute lending. This innovative approach de-risks compute credit investment and unlocks new opportunities for capital partners. By providing a centralized marketplace for AI compute credits, CompuX aims to simplify the process of acquiring and managing these resources. Making it easier for AI companies to focus on innovation and growth. See how CompuX compares to [CompuX vs cloud credits](../compare/compux-vs-cloud-credits.md) and [CompuX vs Lambda Labs](../compare/compux-vs-lambda-labs.md). Consider also the differences between [CompuX vs cloud credits](../compare/compux-vs-cloud-credits.md).
 
 ## Frequently Asked Questions
 
 ### What is the difference between compute credits and cloud credits?
 
-Compute credits are a specific type of cloud credit tied to the consumption of computing resources like CPU, GPU, memory, and storage. [CompuX vs cloud credits](/compare/compux-vs-cloud-credits/), on the other hand, is a broader term that can include various types of credits. Those for software licenses, support services, or other cloud-related offerings.
+Compute credits are a specific type of cloud credit tied to the consumption of computing resources like CPU, GPU, memory, and storage. [CompuX vs cloud credits](../compare/compux-vs-cloud-credits.md), on the other hand, is a broader term that can include various types of credits. Those for software licenses, support services, or other cloud-related offerings.
 
 ### How do I calculate my compute credit usage?
 
@@ -110,7 +110,7 @@ The transferability of compute credits depends on the specific terms and conditi
 
 ### How do compute credits help with AI/ML workloads?
 
-Compute credits provide a flexible and cost-effective way to access the intensive computational resources required for AI/ML workloads. Such as training models and running [inference-heavy startups](/use-cases/inference-heavy-startups/) at scale.
+Compute credits provide a flexible and cost-effective way to access the intensive computational resources required for AI/ML workloads. Such as training models and running [inference-heavy startups](../use-cases/inference-heavy-startups.md) at scale.
 
 ### What are the risks associated with buying compute credits?
 
@@ -122,11 +122,11 @@ CompuX offers financing options that allow AI companies to acquire the compute r
 
 ### What are blockable compute credits?
 
-Blockable compute credits are a unique offering from CompuX. They can be used as [blockable credit collateral](/faq/blockable-credit-collateral/) for compute lending. De-risking compute credit investment for capital partners.
+Blockable compute credits are a unique offering from CompuX. They can be used as [blockable credit collateral](../faq/blockable-credit-collateral.md) for compute lending. De-risking compute credit investment for capital partners.
 
 ### What are AI compute credits and how do they work?
 
-AI compute credits are pre-purchased units of GPU processing power. You buy credits through a marketplace, then spend them by making API calls to run AI models. Each call — text generation, embedding, fine-tuning — deducts credits based on the model and token count. Credits work across multiple cloud providers through a single OpenAI-compatible API endpoint. You pick the model, CompuX picks the [cheapest LLM API access](/compare/cheap-llm-api-alternatives/) LLM API access available GPU.
+AI compute credits are pre-purchased units of GPU processing power. You buy credits through a marketplace, then spend them by making API calls to run AI models. Each call — text generation, embedding, fine-tuning — deducts credits based on the model and token count. Credits work across multiple cloud providers through a single OpenAI-compatible API endpoint. You pick the model, CompuX picks the [cheapest LLM API access](../compare/cheap-llm-api-alternatives.md) LLM API access available GPU.
 
 ### How much do AI compute credits cost compared to direct cloud pricing?
 
@@ -134,7 +134,7 @@ AI compute credits cost less than direct cloud pricing, depending on volume and 
 
 ### Can I use AI compute credits with my existing code?
 
-Yes. Credit-based platforms like CompuX provide an [drop-in API replacement](/concepts/openai-api-alternatives/) SDK. You change one base URL in your code and immediately access credits across all marketplace providers. No model retraining, no prompt changes, no infrastructure migration. The same code that calls OpenAI directly works through the credit marketplace. It just costs less per token and routes across multiple providers for redundancy.
+Yes. Credit-based platforms like CompuX provide an [drop-in API replacement](openai-api-alternatives.md) SDK. You change one base URL in your code and immediately access credits across all marketplace providers. No model retraining, no prompt changes, no infrastructure migration. The same code that calls OpenAI directly works through the credit marketplace. It just costs less per token and routes across multiple providers for redundancy.
 
 ### What happens when my AI compute credits run out?
 
@@ -146,10 +146,10 @@ Standard credits are typically non-refundable but never expire — unused credit
 
 ## Related Terms
 
-* [Compute Marketplace](/concepts/compute-credit-marketplace/)
-* [GPU Utilization](/concepts/gpu-utilization/)
-* [Multi-Provider API](/concepts/multi-provider-llm-api/)
-* [Token Operator](/concepts/token-operator-guide/)
-* [Compute Financing](/concepts/compute-credit-transfusion-guide/)
-* [Blockable Collateral](/concepts/blockable-credits/)
-* [LLM Routing](/concepts/llm-routing/)
+* [Compute Marketplace](compute-credit-marketplace.md)
+* [GPU Utilization](gpu-utilization.md)
+* [Multi-Provider API](multi-provider-llm-api.md)
+* [Token Operator](token-operator-guide.md)
+* [Compute Financing](compute-credit-transfusion-guide.md)
+* [Blockable Collateral](blockable-credits.md)
+* [LLM Routing](llm-routing.md)

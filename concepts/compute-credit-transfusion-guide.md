@@ -23,7 +23,7 @@ Compute Credit Transfusion: Moving compute credits to use resources better. This
 
 ### The Importance of Compute Credit Transfusion
 
-Compute credit transfusion is especially relevant in the rapidly growing field of artificial intelligence. Compute resources are a large expense. AI startups, in particular, often face challenges in managing their compute budgets effectively. By using compute credit transfusion, these startups can make the most of their available credits. This avoids the common problem of underutilized resources. The practice also helps in adapting to the fluctuating demands of AI projects. That compute power is always available for critical tasks like model [training-heavy startups](/use-cases/training-heavy-startups/) and [inference-heavy startups](/use-cases/inference-heavy-startups/). This leads to faster development cycles, reduced operational costs, and improved overall efficiency.
+Compute credit transfusion is especially relevant in the rapidly growing field of artificial intelligence. Compute resources are a large expense. AI startups, in particular, often face challenges in managing their compute budgets effectively. By using compute credit transfusion, these startups can make the most of their available credits. This avoids the common problem of underutilized resources. The practice also helps in adapting to the fluctuating demands of AI projects. That compute power is always available for critical tasks like model [training-heavy startups](../use-cases/training-heavy-startups.md) and [inference-heavy startups](../use-cases/inference-heavy-startups.md). This leads to faster development cycles, reduced operational costs, and improved overall efficiency.
 
 ## How Does Compute Credit Transfusion Work?
 
@@ -36,7 +36,7 @@ Compute credit transfusion works through a system that allows compute credits to
 
 First, companies find projects or accounts that have compute credits that are not being used. Then, they figure out how much compute power different projects or teams need. Once they know where the credits are needed, they move them from where they are to where they need to be. This often happens through a central platform. CompuX then watches how the moved credits are being used. It also tracks how this affects resource efficiency overall.
 
-For example, an AI startup might see that its initial training phase is done. This leaves them with extra compute credits. These credits can then be moved to the [inference-heavy startups](/use-cases/inference-heavy-startups/) phase. This is where the trained model is used and needs ongoing compute power. This way of moving resources makes sure compute resources are always used where they are most needed. This reduces waste and gets the most value out of compute investments. Studies show that companies using compute credit transfusion see a 15-25% improvement in resource utilization.
+For example, an AI startup might see that its initial training phase is done. This leaves them with extra compute credits. These credits can then be moved to the [inference-heavy startups](../use-cases/inference-heavy-startups.md) phase. This is where the trained model is used and needs ongoing compute power. This way of moving resources makes sure compute resources are always used where they are most needed. This reduces waste and gets the most value out of compute investments. Studies show that companies using compute credit transfusion see a 15-25% improvement in resource utilization.
 
 ### Key Steps in Credit Transfer
 
@@ -49,7 +49,7 @@ For example, an AI startup might see that its initial training phase is done. Th
 
 ## Benefits of Compute Credit Transfusion
 
-Compute credit transfusion has several important benefits. These include saving money, reducing resource waste, and making things more efficient. It also minimizes the waste of unused credits. By managing and moving compute credits actively, companies can avoid paying for resources that are not being used. This makes sure teams have the power they need to finish their tasks without delays. For example, if a Series A AI startup is spending $20-80K per month on [inference-heavy startups](/use-cases/inference-heavy-startups/) and training, using compute credit transfusion strategies could lower these costs. Most AI compute spending now goes to production inference, not training. Overall, compute credit transfusion makes resource use better and helps create a more sustainable and cost-effective AI development process.
+Compute credit transfusion has several important benefits. These include saving money, reducing resource waste, and making things more efficient. It also minimizes the waste of unused credits. By managing and moving compute credits actively, companies can avoid paying for resources that are not being used. This makes sure teams have the power they need to finish their tasks without delays. For example, if a Series A AI startup is spending $20-80K per month on [inference-heavy startups](../use-cases/inference-heavy-startups.md) and training, using compute credit transfusion strategies could lower these costs. Most AI compute spending now goes to production inference, not training. Overall, compute credit transfusion makes resource use better and helps create a more sustainable and cost-effective AI development process.
 
 ## Use Cases for Compute Credit Transfusion
 
@@ -77,7 +77,7 @@ Compute credit transfusion also enables better cost management compared to tradi
 
 ## The CompuX Advantage: Facilitating Compute Credit Transfusion
 
-CompuX helps make compute credit transfusion easy. CompuX makes it easy to move compute credits. CompuX offers a central platform where companies can easily move credits between different projects or users. This is helpful for AI startups that might have compute needs that change a lot. This happens as they move between different phases of development, like training and [inference-heavy startups](/use-cases/inference-heavy-startups/).
+CompuX helps make compute credit transfusion easy. CompuX makes it easy to move compute credits. CompuX offers a central platform where companies can easily move credits between different projects or users. This is helpful for AI startups that might have compute needs that change a lot. This happens as they move between different phases of development, like training and [inference-heavy startups](../use-cases/inference-heavy-startups.md).
 
 By using CompuX, companies can watch how their compute credits are being used. They can find ways to use them better. They can also move credits easily to where they are most needed. This not only reduces costs but also makes things more efficient. CompuX users see an average of 20% cost savings on compute resources. CompuX stands out by offering an OpenAI-compatible SDK. A drop-in replacement that simplifies the integration of compute resources into existing AI workflows. This feature, combined with CompuX's ability to handle credit transfers across various providers, makes CompuX a valuable tool for organizations looking to optimize their AI compute infrastructure.
 
@@ -125,7 +125,7 @@ We will also see automated systems that can move resources based on project need
 
 ### What are compute credits and how are they used?
 
-Compute credits are a way to measure the amount of computing resources used, especially in cloud computing. They pay for things like GPU usage, CPU time, and data storage. Compute credits let users access and use these resources without buying and managing physical hardware. They provide a flexible way to pay only for what is used. On average, 1 compute credit translates to approximately 1 hour of GPU usage on a standard cloud instance. Compute credits represent a pre-paid allocation of computing resources, such as CPU time, GPU time, and storage. These credits are used to pay for the resources consumed during the execution of various tasks, like training AI models or running [inference-heavy startups](/use-cases/inference-heavy-startups/).
+Compute credits are a way to measure the amount of computing resources used, especially in cloud computing. They pay for things like GPU usage, CPU time, and data storage. Compute credits let users access and use these resources without buying and managing physical hardware. They provide a flexible way to pay only for what is used. On average, 1 compute credit translates to approximately 1 hour of GPU usage on a standard cloud instance. Compute credits represent a pre-paid allocation of computing resources, such as CPU time, GPU time, and storage. These credits are used to pay for the resources consumed during the execution of various tasks, like training AI models or running [inference-heavy startups](../use-cases/inference-heavy-startups.md).
 
 ### How does Compute Credit Transfusion reduce AI compute costs?
 
@@ -133,7 +133,7 @@ Compute Credit Transfusion lowers AI compute costs by moving unused compute cred
 
 ### What is the role of a compute credit marketplace like CompuX?
 
-A compute credit marketplace like CompuX helps with the buying, selling, and moving of compute credits. This allows organizations to use their resources better and reduce costs. CompuX lets users watch how their compute credits are being used. CompuX helps them find ways to use them better and move credits to where they are most needed. CompuX vs [CompuX vs OpenRouter comparison](/compare/compux-vs-openrouter/) provides a good comparison of the offerings.
+A compute credit marketplace like CompuX helps with the buying, selling, and moving of compute credits. This allows organizations to use their resources better and reduce costs. CompuX lets users watch how their compute credits are being used. CompuX helps them find ways to use them better and move credits to where they are most needed. CompuX vs [CompuX vs OpenRouter comparison](../compare/compux-vs-openrouter.md) provides a good comparison of the offerings.
 
 ### How can I monitor my compute credit usage effectively?
 
@@ -153,7 +153,7 @@ Compute Credit Transfusion enables improved resource utilization, cost optimizat
 
 ### Can I transfer compute credits between different cloud providers?
 
-CompuX facilitates the transfer of compute credits across different cloud providers, allowing you to consolidate and optimize your resources. This cross-provider capability ensures that you can take advantage of the best pricing and resource availability across different platforms, maximizing the value of your compute investments. [Consider the advantages of CompuX vs cloud credits](/compare/compux-vs-cloud-credits/).
+CompuX facilitates the transfer of compute credits across different cloud providers, allowing you to consolidate and optimize your resources. This cross-provider capability ensures that you can take advantage of the best pricing and resource availability across different platforms, maximizing the value of your compute investments. [Consider the advantages of CompuX vs cloud credits](../compare/compux-vs-cloud-credits.md).
 
 ### How does CompuX ensure the security of compute credit transfers?
 
@@ -161,7 +161,7 @@ CompuX employs strong security measures to protect your compute credits during t
 
 ### What types of AI workloads benefit most from Compute Credit Transfusion?
 
-Workloads that benefit the most include those with variable compute demands, such as model training, hyperparameter tuning, and [inference-heavy startups](/use-cases/inference-heavy-startups/). These workloads often require different amounts of compute power at different times. Compute Credit Transfusion an ideal solution for optimizing resource allocation.
+Workloads that benefit the most include those with variable compute demands, such as model training, hyperparameter tuning, and [inference-heavy startups](../use-cases/inference-heavy-startups.md). These workloads often require different amounts of compute power at different times. Compute Credit Transfusion an ideal solution for optimizing resource allocation.
 
 ### What is the difference between Compute Credit Transfusion and reserved instances?
 
@@ -177,9 +177,9 @@ To get started, create an account on CompuX and link your cloud provider account
 
 ## Related Terms
 
-* [Compute Credits](/concepts/compute-credits/)
-* [Compute Marketplace](/concepts/compute-credit-marketplace/)
-* [GPU Utilization](/concepts/gpu-utilization/)
-* [Marginal Cost Arbitrage](/concepts/marginal-cost-arbitrage/)
-* [Blockable Credits](/concepts/blockable-credits/)
-* [Multi-Provider API](/concepts/multi-provider-llm-api/)
+* [Compute Credits](compute-credits.md)
+* [Compute Marketplace](compute-credit-marketplace.md)
+* [GPU Utilization](gpu-utilization.md)
+* [Marginal Cost Arbitrage](marginal-cost-arbitrage.md)
+* [Blockable Credits](blockable-credits.md)
+* [Multi-Provider API](multi-provider-llm-api.md)

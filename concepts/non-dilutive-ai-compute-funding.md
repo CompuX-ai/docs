@@ -29,11 +29,11 @@ The marketplace streamlines the process of acquiring compute credits, offering a
 
 Represents a critical role in facilitating access to compute resources. A Layer 5 Token Operator in this context acts as an intermediary that converts capital into compute credits at an advantageous rate. For example, a startup might provide $1 million in financing and receive $1.25 to $1.5 million in compute credits, gaining a 25–50% multiplier. This is large because it addresses the high compute costs that AI startups face.
 
-[training-heavy startups](/use-cases/training-heavy-startups/) state-of-the-art models requires massive compute investment (Epoch AI, 2025). By offering this conversion, it enables startups to maximize their resources and focus on innovation. This model not only provides cost savings but also ensures that startups can access a variety of compute providers, including OpenAI, Anthropic, Google. Meta, without being locked into a single vendor. Thus, it effectively enhances the efficiency and accessibility of AI compute resources.
+[training-heavy startups](../use-cases/training-heavy-startups.md) state-of-the-art models requires massive compute investment (Epoch AI, 2025). By offering this conversion, it enables startups to maximize their resources and focus on innovation. This model not only provides cost savings but also ensures that startups can access a variety of compute providers, including OpenAI, Anthropic, Google. Meta, without being locked into a single vendor. Thus, it effectively enhances the efficiency and accessibility of AI compute resources.
 
 ## Comparing Non-Dilutive Compute Funding to Traditional Options
 
-Traditional funding options for AI startups include venture capital, revenue-based financing, and [CompuX vs venture debt](/compare/compux-vs-venture-debt/). Venture capital involves selling equity in exchange for funding, which dilutes the ownership of the founders and early investors. Revenue-based financing requires startups to repay the funding with a percentage of their revenue. Can strain cash flow, with interest rates ranging from Y% to Z% (Source: RBF provider website). [CompuX vs venture debt](/compare/compux-vs-venture-debt/) typically requires [blockable credit collateral](/faq/blockable-credit-collateral/) and strong financial performance. Can be challenging for early-stage AI startups.
+Traditional funding options for AI startups include venture capital, revenue-based financing, and [CompuX vs venture debt](../compare/compux-vs-venture-debt.md). Venture capital involves selling equity in exchange for funding, which dilutes the ownership of the founders and early investors. Revenue-based financing requires startups to repay the funding with a percentage of their revenue. Can strain cash flow, with interest rates ranging from Y% to Z% (Source: RBF provider website). [CompuX vs venture debt](../compare/compux-vs-venture-debt.md) typically requires [blockable credit collateral](../faq/blockable-credit-collateral.md) and strong financial performance. Can be challenging for early-stage AI startups.
 
 Non-dilutive AI compute funding offers a compelling alternative by providing access to compute resources without these drawbacks.
 
@@ -46,15 +46,15 @@ Non-dilutive AI compute funding offers a compelling alternative by providing acc
 
 ## Benefits of Non-Dilutive AI Compute Funding
 
-The primary benefit of non-dilutive AI compute funding is that it allows startups to retain ownership and control of their company. By avoiding equity dilution, founders maintain a larger share of their company's future success. Also, non-dilutive funding provides access to compute resources at a favorable rate, increasing the efficiency of capital allocation. This is particularly important as Series A AI startups burn $20-80K/month on [inference-heavy startups](/use-cases/inference-heavy-startups/) and [training-heavy startups](/use-cases/training-heavy-startups/).
+The primary benefit of non-dilutive AI compute funding is that it allows startups to retain ownership and control of their company. By avoiding equity dilution, founders maintain a larger share of their company's future success. Also, non-dilutive funding provides access to compute resources at a favorable rate, increasing the efficiency of capital allocation. This is particularly important as Series A AI startups burn $20-80K/month on [inference-heavy startups](../use-cases/inference-heavy-startups.md) and [training-heavy startups](../use-cases/training-heavy-startups.md).
 
 Another large advantage is the flexibility to switch between different compute providers. With CompuX, startups can access models from OpenAI, Anthropic, and Meta, choosing the best options for their specific needs. This multi-provider approach reduces the risk of vendor lock-in and optimizes for cost and performance. For example, open-source model fine-tuning runs at a fraction of proprietary costs ([Lambda Labs](https://lambdalabs.com/service/gpu-cloud#pricing) pricing, 2025).
 
-**Data Point:** AI [inference-heavy startups](/use-cases/inference-heavy-startups/) costs dropped 10x since 2023 ([Stanford AI Index](https://aiindex.stanford.edu/report/)).
+**Data Point:** AI [inference-heavy startups](../use-cases/inference-heavy-startups.md) costs dropped 10x since 2023 ([Stanford AI Index](https://aiindex.stanford.edu/report/)).
 
 ## Who is Non-Dilutive AI Compute Funding For?
 
-Non-dilutive AI compute funding is ideal for AI startups that require large compute resources but want to avoid equity dilution or revenue-based debt. This includes companies focused on training-heavy applications, [inference-heavy startups](/use-cases/inference-heavy-startups/) services, and AI development tools. Startups in sectors like natural language processing, computer vision, and machine learning can particularly benefit from this type of funding. For example, a Series A startup spending $50K/month on compute can use non-dilutive funding to extend their runway and scale their operations more efficiently.
+Non-dilutive AI compute funding is ideal for AI startups that require large compute resources but want to avoid equity dilution or revenue-based debt. This includes companies focused on training-heavy applications, [inference-heavy startups](../use-cases/inference-heavy-startups.md) services, and AI development tools. Startups in sectors like natural language processing, computer vision, and machine learning can particularly benefit from this type of funding. For example, a Series A startup spending $50K/month on compute can use non-dilutive funding to extend their runway and scale their operations more efficiently.
 
 A startup using models from OpenAI and Anthropic can benefit from the marketplace's flexibility and cost optimization. By using the platform, these startups can access the compute resources they need to grow their business without sacrificing ownership or control.
 
@@ -82,24 +82,24 @@ CompuX provides a marketplace for AI compute credits, connecting startups with c
 
 ### What types of AI startups can benefit from non-dilutive compute funding?
 
-Startups focused on training-heavy applications, [inference-heavy startups](/use-cases/inference-heavy-startups/) services, and AI development tools can particularly benefit from non-dilutive compute funding. This includes companies in sectors like natural language processing, computer vision, and machine learning.
+Startups focused on training-heavy applications, [inference-heavy startups](../use-cases/inference-heavy-startups.md) services, and AI development tools can particularly benefit from non-dilutive compute funding. This includes companies in sectors like natural language processing, computer vision, and machine learning.
 
 ### What are the alternatives to non-dilutive AI compute funding?
 
-Alternatives include venture capital, revenue-based financing, [CompuX vs venture debt](/compare/compux-vs-venture-debt/), and cloud credit programs. Cloud credit programs cap at $100-350K and expire in 12-24 months.
+Alternatives include venture capital, revenue-based financing, [CompuX vs venture debt](../compare/compux-vs-venture-debt.md), and cloud credit programs. Cloud credit programs cap at $100-350K and expire in 12-24 months.
 
 ### How do I apply for non-dilutive AI compute funding through CompuX?
 
-Startups can apply for a capital facility through CompuX, which is then converted into compute credits. CompuX offers an [drop-in API replacement](/concepts/openai-api-alternatives/) SDK for easy integration.
+Startups can apply for a capital facility through CompuX, which is then converted into compute credits. CompuX offers an [drop-in API replacement](openai-api-alternatives.md) SDK for easy integration.
 
 ## Related Terms
 
-* [Compute Credits](/concepts/compute-credits/)
-* [Compute Marketplace](/concepts/compute-credit-marketplace/)
-* [Multi-Provider API](/concepts/multi-provider-llm-api/)
-* [Blockable Credits](/concepts/blockable-credits/)
-* [GPU Utilization](/concepts/gpu-utilization/)
+* [Compute Credits](compute-credits.md)
+* [Compute Marketplace](compute-credit-marketplace.md)
+* [Multi-Provider API](multi-provider-llm-api.md)
+* [Blockable Credits](blockable-credits.md)
+* [GPU Utilization](gpu-utilization.md)
 
 ## Get Started
 
-Ready to fuel your AI growth without equity loss? Explore the CompuX platform today and discover how our [Compute Credit Transfusion Engine](/concepts/compute-credit-transfusion-guide/) can transform your capital into valuable compute resources. Learn More
+Ready to fuel your AI growth without equity loss? Explore the CompuX platform today and discover how our [Compute Credit Transfusion Engine](compute-credit-transfusion-guide.md) can transform your capital into valuable compute resources. Learn More

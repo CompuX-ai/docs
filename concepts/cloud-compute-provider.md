@@ -7,7 +7,7 @@ A cloud compute provider delivers computing services—including servers, storag
 * **Market Growth** — The global cloud computing market is projected to reach $1.6 trillion by 2030, highlighting large growth (Global Market Insights).
 * **Market Share** — AWS, Azure, and Google Cloud collectively hold over 70% of the cloud market share, dominating the industry ([Canalys](https://www.canalys.com/newsroom)).
 
-* **[Inference-heavy Startups](/use-cases/inference-heavy-startups/) Growth** — Inference workloads now account for over 60% of total AI compute spend, outpacing training as production AI deployments scale ([a16z Research](https://a16z.com/ai/)).
+* **[Inference-heavy Startups](../use-cases/inference-heavy-startups.md) Growth** — Inference workloads now account for over 60% of total AI compute spend, outpacing training as production AI deployments scale ([a16z Research](https://a16z.com/ai/)).
 * **GPU Price Drop** — GPU rental prices have fallen 40–60% since 2024 as the supply crunch resolved and new capacity came online ([SemiAnalysis](https://www.semianalysis.com/)).
 
 ## What is a Cloud Compute Provider?
@@ -39,7 +39,7 @@ Several major players dominate the cloud compute provider market. Amazon Web Ser
 | **Google Cloud** | Innovation in AI/ML, strong data analytics capabilities. | Smaller market share than AWS and Azure. |
 | **Smaller Providers** | Can have lower prices, and better customer service. | May not have as many services available. |
 
-AWS, Azure, and Google Cloud collectively hold over 70% of the cloud market share (Canalys). Each provider has its strengths and weaknesses, making it important to evaluate your specific needs before choosing a provider. For AI startups, the rise of specialized [GPU cloud startups](/use-cases/gpu-cloud-startups/) providers presents an intriguing option as well.
+AWS, Azure, and Google Cloud collectively hold over 70% of the cloud market share (Canalys). Each provider has its strengths and weaknesses, making it important to evaluate your specific needs before choosing a provider. For AI startups, the rise of specialized [GPU cloud startups](../use-cases/gpu-cloud-startups.md) providers presents an intriguing option as well.
 
 ## Key Considerations When Choosing a Cloud Provider
 
@@ -69,7 +69,7 @@ Choosing the right pricing model depends on your usage patterns and budget. By c
 
 ## The Rise of GPU-as-a-Service for AI/ML Workloads
 
-The increasing demand for AI and machine learning has fueled the growth of GPU-as-a-Service (GPUaaS). GPUs are essential for [training-heavy startups](/use-cases/training-heavy-startups/) and running AI models, but they can be expensive to purchase and maintain. GPUaaS allows users to rent GPU resources on demand, providing a cost-effective way to access the computing power needed for AI workloads. GPUaaS offerings provide access to high-performance GPUs, such as NVIDIA A100 and H100, without the need for upfront investment. Users can scale their GPU resources up or down as needed, paying only for what they use. This flexibility is particularly valuable for AI startups and researchers who may have fluctuating compute demands.
+The increasing demand for AI and machine learning has fueled the growth of GPU-as-a-Service (GPUaaS). GPUs are essential for [training-heavy startups](../use-cases/training-heavy-startups.md) and running AI models, but they can be expensive to purchase and maintain. GPUaaS allows users to rent GPU resources on demand, providing a cost-effective way to access the computing power needed for AI workloads. GPUaaS offerings provide access to high-performance GPUs, such as NVIDIA A100 and H100, without the need for upfront investment. Users can scale their GPU resources up or down as needed, paying only for what they use. This flexibility is particularly valuable for AI startups and researchers who may have fluctuating compute demands.
 
 As AI models become more complex and require more computing power, GPUaaS will continue to play a critical role in enabling AI innovation. the GPU supply crunch has largely resolved ([SemiAnalysis](https://www.semianalysis.com/), Q1 2025).
 
@@ -77,7 +77,7 @@ As AI models become more complex and require more computing power, GPUaaS will c
 
 CompuX provides a marketplace for compute credits, connecting AI startups with various cloud compute providers. CompuX offers a unified interface to access and manage compute credits, allowing startups to optimize costs and switch between providers easily. CompuX also provides financing options to help AI startups fund their compute needs. CompuX offers a Compute Credit Transfusion Engine: \$1M financing can translate into \$1.25-1.5M in compute credits, providing a 25-50% multiplier. This empowers AI startups to extend their runway and accelerate their research and development efforts. CompuX acts as a compute credit marketplace and token operator.
 
-For startups exploring alternatives, see how CompuX compares to [GPU pricing comparison 2026](/compare/gpu-pricing-comparison-2026/) and [cheap LLM API alternatives](/compare/cheap-llm-api-alternatives/), and [CompuX vs cloud credits](/compare/compux-vs-cloud-credits/).
+For startups exploring alternatives, see how CompuX compares to [GPU pricing comparison 2026](../compare/gpu-pricing-comparison-2026.md) and [cheap LLM API alternatives](../compare/cheap-llm-api-alternatives.md), and [CompuX vs cloud credits](../compare/compux-vs-cloud-credits.md).
 
 ## Future Trends in Cloud Computing
 
@@ -123,11 +123,11 @@ The different cloud deployment models are public, private, and hybrid. Public cl
 
 ### How is AI driving growth in the cloud computing market?
 
-AI is driving large growth in the cloud computing market by increasing the demand for compute resources. [training-heavy startups](/use-cases/training-heavy-startups/) and running AI models requires substantial computing power, which is readily available through cloud-based GPU resources. As AI adoption continues to grow, the demand for cloud compute will continue to increase. This makes cloud compute providers essential for AI innovation.
+AI is driving large growth in the cloud computing market by increasing the demand for compute resources. [training-heavy startups](../use-cases/training-heavy-startups.md) and running AI models requires substantial computing power, which is readily available through cloud-based GPU resources. As AI adoption continues to grow, the demand for cloud compute will continue to increase. This makes cloud compute providers essential for AI innovation.
 
 ## Related Terms
 
-* [Compute Credits](/concepts/compute-credits/)
-* [Multi-Provider API](/concepts/multi-provider-llm-api/)
-* [GPU Utilization](/concepts/gpu-utilization/)
-* [Marginal Cost Arbitrage](/concepts/marginal-cost-arbitrage/)
+* [Compute Credits](compute-credits.md)
+* [Multi-Provider API](multi-provider-llm-api.md)
+* [GPU Utilization](gpu-utilization.md)
+* [Marginal Cost Arbitrage](marginal-cost-arbitrage.md)

@@ -1,10 +1,10 @@
 # CompuX: The AI Developer's Platform for Compute Resources
 
-Artificial intelligence (AI) is growing fast, and it needs a lot of computing power. This means AI developers need ways to get affordable and efficient compute tools. CompuX is an AI compute marketplace made to meet this need. The platform offers access to wholesale [compute credits](/concepts/compute-credits/) and makes resource management easier. These **AI dev tools** are critical for modern development.
+Artificial intelligence (AI) is growing fast, and it needs a lot of computing power. This means AI developers need ways to get affordable and efficient compute tools. CompuX is an AI compute marketplace made to meet this need. The platform offers access to wholesale [compute credits](../concepts/compute-credits.md) and makes resource management easier. These **AI dev tools** are critical for modern development.
 
 **Key Takeaways:**
 
-* **Cost Savings** — CompuX offers [compute credits](/concepts/compute-credits/) at wholesale prices. This could save AI developers 25-50% compared to regular cloud pricing.
+* **Cost Savings** — CompuX offers [compute credits](../concepts/compute-credits.md) at wholesale prices. This could save AI developers 25-50% compared to regular cloud pricing.
 * **Resource Access** — Many AI developers can't get enough GPU resources. The marketplace provides access to help with this.
 * **Simplified Management** — The platform makes it easier to manage compute resources across different providers using one dashboard.
 * **Flexible Financing** — Flexible financing options let AI developers get the compute resources they need for their projects.
@@ -26,28 +26,28 @@ GPU compute costs can be a substantial burden, consuming 30-50% of an AI startup
 
 ## Introducing CompuX: Your AI Compute Marketplace
 
-CompuX is a compute credit engine, designed to help AI developers with their compute challenges. Our platform gives AI developers access to [compute credits](/concepts/compute-credits/) at wholesale prices. This could increase their compute budget by 25-50%. This means that credit amplification through bulk purchasing and off-peak scheduling in compute credits. It makes compute resource management easier by providing one platform that works with many providers. This means developers don't have to use different accounts and systems, saving them time and effort. We also offer flexible financing options that fit the specific needs of AI projects.
+CompuX is a compute credit engine, designed to help AI developers with their compute challenges. Our platform gives AI developers access to [compute credits](../concepts/compute-credits.md) at wholesale prices. This could increase their compute budget by 25-50%. This means that credit amplification through bulk purchasing and off-peak scheduling in compute credits. It makes compute resource management easier by providing one platform that works with many providers. This means developers don't have to use different accounts and systems, saving them time and effort. We also offer flexible financing options that fit the specific needs of AI projects.
 
 By providing affordable compute and simplifying resource management, it helps AI developers focus on building new AI applications. CompuX works as a compute credit marketplace and token operator, ensuring compute resources are used efficiently and openly.
 
 ## AI Dev Tools: How CompuX Solves This
 
-It solves these problems by providing a single marketplace where AI developers can access [compute credits](/concepts/compute-credits/) at wholesale prices. This can save them 25–50% compared to on-demand cloud pricing. The platform also simplifies compute management with a unified dashboard, so developers don't have to juggle multiple accounts. Flexible financing options are also available to help AI projects get the resources they need. By addressing these key challenges, it empowers AI developers to focus on innovation.
+It solves these problems by providing a single marketplace where AI developers can access [compute credits](../concepts/compute-credits.md) at wholesale prices. This can save them 25–50% compared to on-demand cloud pricing. The platform also simplifies compute management with a unified dashboard, so developers don't have to juggle multiple accounts. Flexible financing options are also available to help AI projects get the resources they need. By addressing these key challenges, it empowers AI developers to focus on innovation.
 
 ## How CompuX Benefits AI Developers
 
-By providing access to [compute credits](/concepts/compute-credits/) at wholesale prices, it helps them save money. This is very important for AI startups and smaller teams with limited budgets. The platform also makes compute management easier, so developers can focus on building and using AI applications instead of dealing with complex infrastructure. Imagine a Series A startup spending $50,000 per month on OpenAI API calls. By switching to the marketplace, they can get the same computing power at a lower cost. This frees up money for hiring or marketing. This shows how it can directly improve a company's finances.
+By providing access to [compute credits](../concepts/compute-credits.md) at wholesale prices, it helps them save money. This is very important for AI startups and smaller teams with limited budgets. The platform also makes compute management easier, so developers can focus on building and using AI applications instead of dealing with complex infrastructure. Imagine a Series A startup spending $50,000 per month on OpenAI API calls. By switching to the marketplace, they can get the same computing power at a lower cost. This frees up money for hiring or marketing. This shows how it can directly improve a company's finances.
 
 We also offer flexible financing options to help AI developers get the compute resources they need to grow their projects. The platform works with different AI development tools and platforms, including LLM API access and OpenAI API alternatives.
 
 ## Access Wholesale Compute Credits for large Savings
 
-One of the main benefits of the platform is access to [compute credits](/concepts/compute-credits/) at wholesale prices. This happens through our marketplace, which connects AI developers with compute providers and capital partners. The savings can be large, with potential discounts of 25–50% compared to regular cloud pricing. This means AI developers can save a lot of money, use their budgets more effectively, and speed up their projects.
+One of the main benefits of the platform is access to [compute credits](../concepts/compute-credits.md) at wholesale prices. This happens through our marketplace, which connects AI developers with compute providers and capital partners. The savings can be large, with potential discounts of 25–50% compared to regular cloud pricing. This means AI developers can save a lot of money, use their budgets more effectively, and speed up their projects.
 
 At today's marketplace spot rates, H100 GPUs cost $1.50-$2.80 per GPU-hour, making compute financing even more impactful. Major cloud providers charge $3.50-$4.50/GPU-hour at on-demand rates. This shows the direct financial benefit of using the marketplace. These savings can be used in other areas of the business, like hiring people, expanding marketing, or developing new features. By lowering the cost of compute, it helps AI developers innovate and grow faster.
 
 Value Prop Statements:
-* Save 25–50% on compute costs with wholesale [compute credits](/concepts/compute-credits/).
+* Save 25–50% on compute costs with wholesale [compute credits](../concepts/compute-credits.md).
 * Get the most out of your compute budget and extend your runway with marketplace financing.
 * Focus on building AI, not managing complex infrastructure with our unified platform.
 
@@ -55,7 +55,7 @@ Value Prop Statements:
 
 Managing compute resources across different providers can be hard and take a lot of time. It makes this easier by providing one platform to manage all your compute needs. This means you don't have to use different accounts, systems, and billing methods. With a unified interface, you can easily set up, monitor, and grow your compute resources from one dashboard. By 2025, more than 40 GPU cloud providers competed for workloads, over three times the 12 that existed in 2023 (Epoch AI). This shows how complex the compute world is becoming and why a unified management solution is needed.
 
-The system acts as a [token operator](/concepts/token-operator-guide/), making sure resources are used efficiently and openly across different providers. This simplifies getting and using compute resources, so AI developers can focus on their main tasks. Our platform also provides detailed data and reports, giving you information about your compute usage and costs.
+The system acts as a [token operator](../concepts/token-operator-guide.md), making sure resources are used efficiently and openly across different providers. This simplifies getting and using compute resources, so AI developers can focus on their main tasks. Our platform also provides detailed data and reports, giving you information about your compute usage and costs.
 
 ## Flexible Compute Financing Options for AI Projects
 
@@ -67,11 +67,11 @@ This may not be enough for long-term AI projects.
 
 AI developers are using CompuX in different ways to overcome compute challenges and speed up their projects. One common use case is startups training large language models (LLMs). Training a GPT-4 class model can cost $50-100 million in compute, according to Epoch AI in 2025. Another use case is companies fine-tuning existing LLMs for specific applications. Fine-tuning Llama 4 70B costs $5,000 to $15,000 per run, based on [Lambda Labs](https://lambdalabs.com/service/gpu-cloud#pricing) pricing in 2025.
 
-A Series A startup spending $20,000 to $80,000 per month on inference and training can greatly reduce their burn rate by switching to the marketplace. Our [blockable credits](/concepts/blockable-credits/) give developers full control of spend.
+A Series A startup spending $20,000 to $80,000 per month on inference and training can greatly reduce their burn rate by switching to the marketplace. Our [blockable credits](../concepts/blockable-credits.md) give developers full control of spend.
 
 ## Getting Started with CompuX for AI Development
 
-[Getting started](/faq/getting-started-compux/) with CompuX is simple. First, you need to create an account on the platform. Once you have an account, you can browse the marketplace to find the compute resources that fit your needs.
+[Getting started](../faq/getting-started-compux.md) with CompuX is simple. First, you need to create an account on the platform. Once you have an account, you can browse the marketplace to find the compute resources that fit your needs.
 
 You can filter by provider, GPU type, pricing, and other things. After you find the resources you want, you can buy compute credits and start using them right away. Our platform also provides detailed instructions and support to help you get the most out of the platform. We offer tutorials, FAQs, and a support team to answer your questions and help with any problems. We want to make it as easy as possible for AI developers to get and manage the compute resources they need to succeed.
 

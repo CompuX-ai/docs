@@ -1,30 +1,30 @@
 # Blockable Credit Collateral: Freeze Mechanics and Price Stability Explained
 
-Blockable credit collateral is a mechanism used to secure loans, particularly in the context of [compute credits](/concepts/compute-credits/) for AI development. CompuX helps mitigate risk for [compute financing for lenders](/use-cases/compute-financing-for-lenders/) and ensures price stability in the compute credit market. CompuX leverages this model to provide accessible and affordable AI compute financing. This is especially important for blockable credit collateral in the AI sector.
+Blockable credit collateral is a mechanism used to secure loans, particularly in the context of [compute credits](../concepts/compute-credits.md) for AI development. CompuX helps mitigate risk for [compute financing for lenders](../use-cases/compute-financing-for-lenders.md) and ensures price stability in the compute credit market. CompuX leverages this model to provide accessible and affordable AI compute financing. This is especially important for blockable credit collateral in the AI sector.
 
 **Key Takeaways:**
 
-* **Blockable [compute credits](/concepts/compute-credits/)** — Act as collateral, reducing risk in compute credit lending.
-* **Freeze Mechanics** — Protect [compute financing for lenders](/use-cases/compute-financing-for-lenders/) by allowing them to seize collateral upon default.
+* **Blockable [compute credits](../concepts/compute-credits.md)** — Act as collateral, reducing risk in compute credit lending.
+* **Freeze Mechanics** — Protect [compute financing for lenders](../use-cases/compute-financing-for-lenders.md) by allowing them to seize collateral upon default.
 * **Price Stability** — Collateralization helps maintain stable pricing in the compute credit market.
 * **LTV Ratios** — Typical loan-to-value ratios range from 50-80%, offering a balance between risk and access.
 * **Reduced Risk** — Collateralized lending lowers default rates compared to uncollateralized options.
 
 ## What is Blockable Credit Collateral?
 
-Blockable credit collateral involves using [compute credits](/concepts/compute-credits/) as security for a loan. These credits can be "blocked" or frozen, preventing the borrower from using them if they fail to meet their loan obligations. This mechanism is particularly relevant in the AI sector. Compute resources are essential for training models and running [inference-heavy startups](/use-cases/inference-heavy-startups/). By using blockable [compute credits](/concepts/compute-credits/) as collateral, [compute financing for lenders](/use-cases/compute-financing-for-lenders/) gain a safety net. Borrowers can access financing they might not otherwise qualify for. This system promotes a more stable and accessible market for AI compute resources.
+Blockable credit collateral involves using [compute credits](../concepts/compute-credits.md) as security for a loan. These credits can be "blocked" or frozen, preventing the borrower from using them if they fail to meet their loan obligations. This mechanism is particularly relevant in the AI sector. Compute resources are essential for training models and running [inference-heavy startups](../use-cases/inference-heavy-startups.md). By using blockable [compute credits](../concepts/compute-credits.md) as collateral, [compute financing for lenders](../use-cases/compute-financing-for-lenders.md) gain a safety net. Borrowers can access financing they might not otherwise qualify for. This system promotes a more stable and accessible market for AI compute resources.
 
 ### What are Blockable AI Credits?
 
-Blockable AI [compute credits](/concepts/compute-credits/) are a form of digital asset representing a specific amount of compute power that can be used on participating platforms. These credits can be locked or "frozen" to serve as collateral for loans.
+Blockable AI [compute credits](../concepts/compute-credits.md) are a form of digital asset representing a specific amount of compute power that can be used on participating platforms. These credits can be locked or "frozen" to serve as collateral for loans.
 
 ### Why use Blockable Credits as collateral?
 
-Using Blockable [compute credits](/concepts/compute-credits/) as collateral reduces risk for [compute financing for lenders](/use-cases/compute-financing-for-lenders/). If a borrower defaults, the lender can seize the credits, recouping some or all of the loan amount. This makes lenders more willing to offer loans, even to startups with limited credit history.
+Using Blockable [compute credits](../concepts/compute-credits.md) as collateral reduces risk for [compute financing for lenders](../use-cases/compute-financing-for-lenders.md). If a borrower defaults, the lender can seize the credits, recouping some or all of the loan amount. This makes lenders more willing to offer loans, even to startups with limited credit history.
 
 ## How Does Collateralization Work in Compute Credit Lending?
 
-Collateralization in compute credit lending involves a borrower pledging [blockable credits](/concepts/blockable-credits/) as security for a loan. The [compute financing for lenders](/use-cases/compute-financing-for-lenders/) assesses the value of the credits and sets a loan-to-value (LTV) ratio. For instance, with a 70% LTV, a borrower pledging $100,000 worth of compute credits could receive a $70,000 loan. If the borrower defaults, the lender can seize and sell the collateral to recover the outstanding loan amount. This process reduces the lender's risk and enables more favorable loan terms for the borrower. Collateralization fosters a more secure and efficient market for compute credit lending, supporting the growth of AI startups.
+Collateralization in compute credit lending involves a borrower pledging [blockable credits](../concepts/blockable-credits.md) as security for a loan. The [compute financing for lenders](../use-cases/compute-financing-for-lenders.md) assesses the value of the credits and sets a loan-to-value (LTV) ratio. For instance, with a 70% LTV, a borrower pledging $100,000 worth of compute credits could receive a $70,000 loan. If the borrower defaults, the lender can seize and sell the collateral to recover the outstanding loan amount. This process reduces the lender's risk and enables more favorable loan terms for the borrower. Collateralization fosters a more secure and efficient market for compute credit lending, supporting the growth of AI startups.
 
 ### What is Loan-to-Value (LTV)?
 
@@ -40,7 +40,7 @@ Collateralization protects lenders from losses by providing an asset. Be seized 
 
 ## Understanding Freeze Mechanics in Blockable Credit Collateral: Protecting Against Default
 
-Freeze mechanics are crucial in [collateralized lending](/concepts/blockable-credits/) as they define the conditions under which the lender can "freeze" or seize the collateral. Typically, a freeze is triggered by a default event, such as missed payments or a large decline in the value of the collateral. Once triggered, the lender can take control of the [blockable credits](/concepts/blockable-credits/), preventing the borrower from using them. The lender can then sell these credits to recover the outstanding loan amount. This process provides a clear and enforceable mechanism for protecting the lender's interests and maintaining the integrity of the lending agreement. In many cases, lenders require a 20-30% overcollateralization to account for market fluctuations.
+Freeze mechanics are crucial in [collateralized lending](../concepts/blockable-credits.md) as they define the conditions under which the lender can "freeze" or seize the collateral. Typically, a freeze is triggered by a default event, such as missed payments or a large decline in the value of the collateral. Once triggered, the lender can take control of the [blockable credits](../concepts/blockable-credits.md), preventing the borrower from using them. The lender can then sell these credits to recover the outstanding loan amount. This process provides a clear and enforceable mechanism for protecting the lender's interests and maintaining the integrity of the lending agreement. In many cases, lenders require a 20-30% overcollateralization to account for market fluctuations.
 
 ### What are the conditions that would trigger a freeze on my Blockable AI Credit collateral?
 
@@ -49,7 +49,7 @@ A freeze on your Blockable AI Credit collateral would typically be triggered by 
 * **Missed Payments**: Failing to make scheduled loan payments by the due date.
 * **Breach of Contract**: Violating any other terms of the loan agreement.
 * **Insolvency**: Filing for bankruptcy or becoming insolvent.
-* **Large Decline in Collateral Value**: If the value of your [blockable credits](/concepts/blockable-credits/) drops below a predetermined threshold, the lender may freeze the collateral to protect their investment.
+* **Large Decline in Collateral Value**: If the value of your [blockable credits](../concepts/blockable-credits.md) drops below a predetermined threshold, the lender may freeze the collateral to protect their investment.
 
 These conditions are designed to protect the lender's interests and ensure the loan can be recovered in the event of default.
 
@@ -78,7 +78,7 @@ Collateralization contributes to price stability by providing a safety net for l
 
 ## CompuX's Approach to Blockable AI Credit Collateral
 
-CompuX utilizes Blockable AI Credits as collateral within its marketplace, creating a secure and efficient network for AI compute financing. CompuX benefits both lenders and borrowers. Lenders gain assurance through the ability to freeze and liquidate credits in case of default. Borrowers gain access to more affordable financing options. By leveraging [blockable credits](/concepts/blockable-credits/), CompuX reduces the risks associated with compute credit lending, fostering a stable and reliable environment for AI startups to thrive. CompuX aims to increase lending volume by 20% year-over-year through CompuX.
+CompuX utilizes Blockable AI Credits as collateral within its marketplace, creating a secure and efficient network for AI compute financing. CompuX benefits both lenders and borrowers. Lenders gain assurance through the ability to freeze and liquidate credits in case of default. Borrowers gain access to more affordable financing options. By leveraging [blockable credits](../concepts/blockable-credits.md), CompuX reduces the risks associated with compute credit lending, fostering a stable and reliable environment for AI startups to thrive. CompuX aims to increase lending volume by 20% year-over-year through CompuX.
 
 ### What are the benefits of using Blockable AI Credits as collateral compared to traditional methods?
 
@@ -105,7 +105,7 @@ CompuX uses a active pricing model that takes these factors into account to prov
 
 ## Benefits of Collateralized Compute Credit Lending with CompuX
 
-Collateralized compute credit lending with CompuX offers several benefits. CompuX reduces risk for lenders, enabling them to provide more accessible and affordable financing to AI startups. Borrowers can access the compute resources they need to train models and run [inference-heavy startups](/use-cases/inference-heavy-startups/) without depleting their cash reserves. This model fosters a more stable and efficient market for AI compute, supporting innovation and growth in the AI industry.
+Collateralized compute credit lending with CompuX offers several benefits. CompuX reduces risk for lenders, enabling them to provide more accessible and affordable financing to AI startups. Borrowers can access the compute resources they need to train models and run [inference-heavy startups](../use-cases/inference-heavy-startups.md) without depleting their cash reserves. This model fosters a more stable and efficient market for AI compute, supporting innovation and growth in the AI industry.
 
 ### How does collateralized lending benefit AI startups?
 
@@ -116,15 +116,15 @@ Collateralized lending benefits AI startups in several ways:
 * **Preservation of Cash**: By using compute credits as collateral, startups can preserve their cash reserves for other critical expenses, such as hiring and marketing.
 * **Flexibility**: Collateralized lending provides startups with the flexibility to scale their compute resources as needed, without being constrained by budget limitations.
 
-These benefits can be particularly large for early-stage AI startups that are burning $20-80K/month on [inference-heavy startups](/use-cases/inference-heavy-startups/) and training, as they can significantly reduce their burn rate averages.
+These benefits can be particularly large for early-stage AI startups that are burning $20-80K/month on [inference-heavy startups](../use-cases/inference-heavy-startups.md) and training, as they can significantly reduce their burn rate averages.
 
 ### What happens to the collateral after the loan is repaid?
 
-Once the loan is fully repaid, the blockable credit collateral is released back to the borrower. The borrower regains full control over the credits and can use them for their intended purpose, such as training AI models or running [inference-heavy startups](/use-cases/inference-heavy-startups/) workloads. The release process begins once final loan payment is confirmed.
+Once the loan is fully repaid, the blockable credit collateral is released back to the borrower. The borrower regains full control over the credits and can use them for their intended purpose, such as training AI models or running [inference-heavy startups](../use-cases/inference-heavy-startups.md) workloads. The release process begins once final loan payment is confirmed.
 
 ## Risks and Mitigation Strategies in Blockable Credit Collateralized Lending
 
-While collateralized lending reduces risk, it is not without its potential drawbacks. One risk is the volatility of compute credit prices, which could impact the value of the collateral. Another risk is the possibility of technical issues or security breaches that could affect the availability or integrity of the [blockable credits](/concepts/blockable-credits/). CompuX employs several mitigation strategies to address these risks, including active LTV ratios, strong security measures. Close monitoring of the compute credit market. CompuX also uses real-time risk assessment models to adjust collateral requirements dynamically.
+While collateralized lending reduces risk, it is not without its potential drawbacks. One risk is the volatility of compute credit prices, which could impact the value of the collateral. Another risk is the possibility of technical issues or security breaches that could affect the availability or integrity of the [blockable credits](../concepts/blockable-credits.md). CompuX employs several mitigation strategies to address these risks, including active LTV ratios, strong security measures. Close monitoring of the compute credit market. CompuX also uses real-time risk assessment models to adjust collateral requirements dynamically.
 
 ### Are there any fees associated with using Blockable AI Credits as collateral?
 
@@ -146,4 +146,4 @@ While collateralized lending reduces risk for lenders, borrowers should be aware
 * **Complexity**: Collateralized lending can be more complex than traditional lending, requiring a thorough understanding of the terms and conditions.
 * **Liquidation Costs**: In the event of default, you may be responsible for liquidation costs, which can reduce the amount of funds returned to you after the collateral is sold.
 
-It is essential to carefully consider these risks before using [blockable credits](/concepts/blockable-credits/) as collateral. Blockable credit collateral is a powerful tool for securing loans in the AI compute market. By understanding the freeze mechanics and how collateralization contributes to price stability, both lenders and borrowers can operate in this space with confidence. CompuX offers a platform for AI startups to access the compute they need via collateralized lending. [Learn more about token operation here.](/concepts/token-operator-guide/)
+It is essential to carefully consider these risks before using [blockable credits](../concepts/blockable-credits.md) as collateral. Blockable credit collateral is a powerful tool for securing loans in the AI compute market. By understanding the freeze mechanics and how collateralization contributes to price stability, both lenders and borrowers can operate in this space with confidence. CompuX offers a platform for AI startups to access the compute they need via collateralized lending. [Learn more about token operation here.](../concepts/token-operator-guide.md)
