@@ -1,10 +1,15 @@
-"""CompuX Quickstart — Drop-in OpenAI replacement with 25-50% cost savings."""
+"""CompuX Quickstart — Drop-in OpenAI replacement with 25-50% cost savings.
 
+Setup: export COMPUX_API_KEY="cpx_live_..."
+       pip install openai
+"""
+
+import os
 from openai import OpenAI
 
 # Initialize with CompuX endpoint
 client = OpenAI(
-    api_key="YOUR_COMPUX_API_KEY",  # Get yours at app.compux.ai
+    api_key=os.environ["COMPUX_API_KEY"],  # Get yours at app.compux.ai
     base_url="https://api.compux.ai/v1",
 )
 

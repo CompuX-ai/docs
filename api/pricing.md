@@ -173,10 +173,11 @@ Set alerts in the dashboard or per API key:
 
 ## Billing
 
-- **Monthly billing** — Credits reset each billing cycle. Unused credits roll over for 90 days.
-- **Annual contracts** — Pay upfront for higher multipliers. Credits valid for 12 months.
-- **Top-ups** — Buy additional credits at any time at your plan's multiplier rate.
+- **Monthly billing** — Unused credits roll over for 90 days from the date of purchase. After 90 days, unused credits expire. You will receive email alerts at 30, 7, and 1 day before expiration.
+- **Annual contracts** — Pay upfront for higher multipliers. Credits valid for 12 months from purchase date. Annual plans include a 10% bonus on top of the financing multiplier.
+- **Top-ups** — Buy additional credits at any time at your plan's multiplier rate. Top-up credits follow the same 90-day (monthly) or 12-month (annual) rollover policy.
 - **Invoicing** — Available for Scale and Enterprise plans.
+- **Downgrade** — You keep remaining credits until they expire. New credits are issued at the lower plan's multiplier.
 
 ## No Hidden Fees
 

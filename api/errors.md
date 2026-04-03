@@ -159,11 +159,12 @@ X-RateLimit-Reset-Requests: 2026-04-03T12:00:03Z
 ### Exponential Backoff (Python)
 
 ```python
+import os
 import time
 from openai import OpenAI, RateLimitError, APIStatusError
 
 client = OpenAI(
-    api_key="YOUR_COMPUX_API_KEY",
+    api_key=os.environ["COMPUX_API_KEY"],
     base_url="https://api.compux.ai/v1",
 )
 

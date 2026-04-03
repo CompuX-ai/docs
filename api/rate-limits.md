@@ -77,15 +77,29 @@ X-RateLimit-Reset-Tokens: 2026-04-03T12:01:00Z
 
 ### Reading Headers in Code
 
+The OpenAI SDK wraps responses in typed objects. To access HTTP headers, use `with_raw_response`:
+
 ```python
-response = client.chat.completions.create(
+import os
+from openai import OpenAI
+
+client = OpenAI(
+    api_key=os.environ["COMPUX_API_KEY"],
+    base_url="https://api.compux.ai/v1",
+)
+
+# Use with_raw_response to access HTTP headers
+raw = client.chat.completions.with_raw_response.create(
     model="gpt-4o",
     messages=[{"role": "user", "content": "Hello"}],
 )
 
-# Access rate limit info from raw response
-print(f"Remaining requests: {response.headers['X-RateLimit-Remaining-Requests']}")
-print(f"Remaining tokens: {response.headers['X-RateLimit-Remaining-Tokens']}")
+print(f"Remaining requests: {raw.headers['X-RateLimit-Remaining-Requests']}")
+print(f"Remaining tokens: {raw.headers['X-RateLimit-Remaining-Tokens']}")
+
+# Parse the actual completion from the raw response
+completion = raw.parse()
+print(completion.choices[0].message.content)
 ```
 
 ## When Limits Are Exceeded
@@ -122,22 +136,27 @@ Retry-After: 3
 Monitor `X-RateLimit-Remaining-Requests` and slow down before hitting the limit:
 
 ```python
+import os
 import time
 from openai import OpenAI
 
-client = OpenAI(api_key="YOUR_KEY", base_url="https://api.compux.ai/v1")
+client = OpenAI(
+    api_key=os.environ["COMPUX_API_KEY"],
+    base_url="https://api.compux.ai/v1",
+)
 
 def throttled_request(messages, min_remaining=50):
-    response = client.chat.completions.create(
+    # Use with_raw_response to access HTTP headers
+    raw = client.chat.completions.with_raw_response.create(
         model="gpt-4o",
         messages=messages,
     )
 
-    remaining = int(response.headers.get("X-RateLimit-Remaining-Requests", 100))
+    remaining = int(raw.headers.get("X-RateLimit-Remaining-Requests", 100))
     if remaining < min_remaining:
         time.sleep(1)  # Slow down when approaching limit
 
-    return response
+    return raw.parse()  # Returns the ChatCompletion object
 ```
 
 ### Batch Processing
@@ -145,10 +164,14 @@ def throttled_request(messages, min_remaining=50):
 For high-volume workloads, spread requests evenly across the rate limit window:
 
 ```python
+import os
 import asyncio
 from openai import AsyncOpenAI
 
-client = AsyncOpenAI(api_key="YOUR_KEY", base_url="https://api.compux.ai/v1")
+client = AsyncOpenAI(
+    api_key=os.environ["COMPUX_API_KEY"],
+    base_url="https://api.compux.ai/v1",
+)
 
 async def process_batch(items, rpm_limit=400):
     """Process items while staying under RPM limit."""

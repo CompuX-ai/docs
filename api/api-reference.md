@@ -157,6 +157,11 @@ curl https://api.compux.ai/v1/embeddings \
   "usage": {
     "prompt_tokens": 5,
     "total_tokens": 5
+  },
+  "x_compux": {
+    "provider": "openai",
+    "credits_used": 0.0001,
+    "credits_remaining": 12497.42
   }
 }
 ```
@@ -235,6 +240,15 @@ CompuX extension — detailed usage breakdown by model and provider.
 curl https://api.compux.ai/v1/account/usage?start_date=2026-04-01&end_date=2026-04-03 \
   -H "Authorization: Bearer $COMPUX_API_KEY"
 ```
+
+**Query Parameters:**
+
+| Parameter | Type | Required | Description |
+|-----------|------|----------|-------------|
+| `start_date` | string | Yes | Start date in `YYYY-MM-DD` format. |
+| `end_date` | string | Yes | End date in `YYYY-MM-DD` format. Max 31-day range. |
+| `group_by` | string | No | Group results: `model` (default), `provider`, or `day`. |
+| `model` | string | No | Filter to a specific model ID. |
 
 **Response (200 OK):**
 
