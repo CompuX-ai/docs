@@ -3,6 +3,167 @@
 > Full knowledge base content for AI agents and LLMs.
 
 ---
+# Section: api
+
+## File: api/quickstart.md
+
+# Quickstart Guide
+
+Get running with the CompuX API in under 5 minutes. CompuX is a drop-in OpenAI replacement — use the OpenAI SDK, change 2 lines.
+
+**Base URL:** `https://api.compux.ai/v1`
+
+**Step 1:** Get your API key at app.compux.ai/register. Keys start with `cpx_live_` (production) or `cpx_test_` (sandbox).
+
+**Step 2:** Install the SDK: `pip install openai` (Python) or `npm install openai` (TypeScript).
+
+**Step 3:** Make your first request:
+
+```python
+import os
+from openai import OpenAI
+
+client = OpenAI(
+    api_key=os.environ["COMPUX_API_KEY"],
+    base_url="https://api.compux.ai/v1",
+)
+
+response = client.chat.completions.create(
+    model="gpt-4o",
+    messages=[{"role": "user", "content": "What are compute credits?"}],
+)
+print(response.choices[0].message.content)
+```
+
+**Migration from OpenAI:** Change `api_key` and add `base_url="https://api.compux.ai/v1"`. Everything else stays the same.
+
+**Works with:** LangChain, LlamaIndex, Vercel AI SDK, Claude Code, and any OpenAI-compatible framework.
+
+## File: api/api-reference.md
+
+# CompuX API Reference
+
+**Base URL:** `https://api.compux.ai/v1`
+
+**Endpoints:**
+- `POST /v1/chat/completions` — Chat completion (OpenAI-compatible)
+- `POST /v1/embeddings` — Vector embeddings
+- `GET /v1/models` — List available models
+- `GET /v1/models/{model_id}` — Get model details
+- `GET /v1/account/credits` — Check credit balance (CompuX extension)
+- `GET /v1/account/usage` — Usage breakdown by model/provider (CompuX extension)
+
+**Authentication:** Bearer token — `Authorization: Bearer YOUR_API_KEY`
+
+**CompuX-specific headers:**
+- `X-CompuX-Provider` — Force specific provider (openai, anthropic, google, mistral)
+- `X-CompuX-Budget-Limit` — Max credits for this request
+- `X-CompuX-Request-ID` — Custom request ID for tracking
+
+**CompuX response extension:**
+```json
+{
+  "x_compux": {
+    "provider": "openai",
+    "credits_used": 0.00218,
+    "credits_remaining": 12497.42
+  }
+}
+```
+
+## File: api/models.md
+
+# Available Models
+
+100+ models across 6 providers. Key models:
+
+**OpenAI:** gpt-4o ($2.50/$10.00 per 1M tokens), gpt-4o-mini ($0.15/$0.60), gpt-4.1 ($2.00/$8.00), gpt-4.1-mini ($0.40/$1.60), gpt-4.1-nano ($0.10/$0.40), o3 ($10/$40), o3-mini ($1.10/$4.40), o4-mini ($1.10/$4.40)
+
+**Anthropic:** claude-opus-4-20250514 ($15/$75), claude-sonnet-4-20250514 ($3/$15), claude-haiku-3-5-20241022 ($0.80/$4)
+
+**Google:** gemini-2.5-pro ($1.25/$10), gemini-2.5-flash ($0.15/$0.60), gemini-2.0-flash ($0.10/$0.40)
+
+**Mistral:** mistral-large-latest ($2/$6), mistral-small-latest ($0.20/$0.60), codestral-latest ($0.30/$0.90)
+
+**Meta:** llama-4-maverick ($0.20/$0.60), llama-4-scout ($0.15/$0.45), llama-3.3-70b ($0.10/$0.30), llama-3.1-8b ($0.05/$0.10)
+
+**DeepSeek:** deepseek-r1 ($0.55/$2.19), deepseek-v3 ($0.27/$1.10)
+
+**Embeddings:** text-embedding-3-large ($0.13/M), text-embedding-3-small ($0.02/M)
+
+Call `GET /v1/models` for real-time list with live pricing.
+
+## File: api/authentication.md
+
+# Authentication
+
+CompuX uses API keys. Every request needs `Authorization: Bearer YOUR_API_KEY`.
+
+**Key types:** Production (`cpx_live_`), Sandbox (`cpx_test_` — no charges, 100 RPM), Restricted (scoped permissions).
+
+**Key scopes:** chat.completions, embeddings, models.read, account.read, account.manage, * (all).
+
+**Security:** Use environment variables, never hardcode. Rotate quarterly. Set IP allowlists and monthly credit limits per key.
+
+**Sandbox:** Same base URL, same models, no charges. Use `cpx_test_` prefix keys for development.
+
+## File: api/errors.md
+
+# Error Handling
+
+**Error format:** `{"error": {"message": "...", "type": "...", "code": "..."}}`
+
+**Key errors:**
+- 400 invalid_request — Bad request/params
+- 400 context_length_exceeded — Input too long for model
+- 401 invalid_api_key — Bad or missing API key
+- 402 insufficient_credits — Out of compute credits
+- 402 credits_blocked — Credits frozen by lender (blockable credits)
+- 403 insufficient_scope — Key lacks required permission
+- 429 rate_limit_exceeded — Too many requests (retry with Retry-After header)
+- 502 provider_error — Upstream provider failed
+- 503 provider_unavailable — Provider temporarily down
+
+**Retry strategy:** Retry 429 and 5xx with exponential backoff. Don't retry 400/401/403.
+
+## File: api/rate-limits.md
+
+# Rate Limits
+
+**By plan (chat completions):**
+- Free: 20 RPM, 40K TPM
+- Sandbox: 100 RPM, 100K TPM
+- Starter: 500 RPM, 500K TPM
+- Growth: 2,000 RPM, 2M TPM
+- Scale: 10,000 RPM, 10M TPM
+- Enterprise: Custom
+
+**Headers:** X-RateLimit-Limit-Requests, X-RateLimit-Remaining-Requests, Retry-After (on 429).
+
+**Sliding 60-second window.** Both input and output tokens count toward TPM.
+
+## File: api/pricing.md
+
+# Pricing
+
+**1 credit = $1 USD** at provider list prices.
+
+**Plans:**
+- Free: 5 credits, $0, 1.0x multiplier
+- Starter: 100 credits, $100/mo, 1.0x
+- Growth: 1,000 credits, $800/mo, 1.25x multiplier (save 20%)
+- Scale: 10,000 credits, $7,000/mo, 1.35x multiplier (save 26%)
+- Enterprise: Custom, up to 1.50x multiplier (save 33%)
+
+**Financing multiplier:** Growth plan — pay $800, get $1,000 in credits. Scale plan — pay $7,000, get $9,450 in credits.
+
+**Cost formula:** Credits = (input_tokens × input_price + output_tokens × output_price) / 1M
+
+**No hidden fees:** No surcharge for streaming, function calling, routing, or data egress.
+
+**Billing:** Monthly. Unused credits roll over 90 days. Annual contracts get higher multipliers.
+
+---
 # Section: concepts
 
 ## File: concepts/ai-asset-backed-lending.md

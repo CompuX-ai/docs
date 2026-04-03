@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/CompuX-ai/docs/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
+  <a href="https://github.com/CompuX-ai/compute-credit-financing/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
   <a href="https://compux.ai"><img src="https://img.shields.io/badge/website-compux.ai-brightgreen" alt="Website"></a>
   <a href="https://docs.compux.ai"><img src="https://img.shields.io/badge/API_Docs-docs.compux.ai-blue" alt="API Docs"></a>
   <a href="https://compux.net"><img src="https://img.shields.io/badge/Learn-Knowledge_Base-orange" alt="Learn"></a>
@@ -62,9 +62,35 @@ response = client.chat.completions.create(
 
 ## Documentation
 
+### API Reference
+
+Everything you need to integrate CompuX into your application:
+
+| Page | What you'll learn |
+|------|-------------------|
+| [Quickstart](api/quickstart.md) | Get running in 5 minutes — Python, TypeScript, Go, cURL |
+| [API Reference](api/api-reference.md) | Endpoints, parameters, request/response schemas |
+| [Available Models](api/models.md) | 100+ models across 6 providers with pricing |
+| [Authentication](api/authentication.md) | API keys, scopes, rotation, sandbox environment |
+| [Error Handling](api/errors.md) | HTTP status codes, error schema, retry logic |
+| [Rate Limits](api/rate-limits.md) | RPM/TPM limits by plan, rate limit headers |
+| [Pricing](api/pricing.md) | Plans, credit costs, financing multipliers, calculator |
+
+### Code Examples
+
+| Example | Language | What it shows |
+|---------|----------|---------------|
+| [quickstart.py](examples/quickstart.py) | Python | Basic chat completion |
+| [quickstart.ts](examples/quickstart.ts) | TypeScript | Chat, streaming, multi-model comparison |
+| [streaming.py](examples/streaming.py) | Python | Real-time token streaming |
+| [error_handling.py](examples/error_handling.py) | Python | Retry logic with exponential backoff |
+| [async_client.py](examples/async_client.py) | Python | High-throughput async with concurrency control |
+| [function_calling.py](examples/function_calling.py) | Python | Tool use / function calling |
+| [langchain_integration.py](examples/langchain_integration.py) | Python | LangChain + CompuX integration |
+
 ### Knowledge Base (Learn)
 
-Deep-dive articles on AI compute economics, financing, and infrastructure.
+Deep-dive articles on AI compute economics, financing, and infrastructure:
 
 | Section | Pages | What you'll learn |
 |---------|-------|-------------------|
@@ -72,15 +98,6 @@ Deep-dive articles on AI compute economics, financing, and infrastructure.
 | [Comparisons](compare/) | 9 | CompuX vs OpenRouter, Together AI, Lambda Labs, venture debt |
 | [Use Cases](use-cases/) | 7 | Startups, lenders, GPU providers, dev tools |
 | [FAQ](faq/) | 10 | Pricing, integration, collateral, getting started |
-
-### API Reference
-
-Full API documentation is available at **[docs.compux.ai](https://docs.compux.ai)**.
-
-- [Chat Completions](https://docs.compux.ai/docs/api-reference/chat-completions) -- OpenAI-compatible endpoint
-- [Authentication](https://docs.compux.ai/docs/authentication/api-keys) -- API keys and JWT auth
-- [Models](https://docs.compux.ai/docs/api-reference/models) -- Available models and providers
-- [Quickstart](https://docs.compux.ai/docs/getting-started/quickstart) -- Get running in 5 minutes
 
 ## Quick Start
 

@@ -2,6 +2,25 @@
 
 All notable changes to CompuX documentation will be documented in this file.
 
+## [1.1.0] - 2026-04-03
+
+### Added
+- Full API documentation: api-reference, models, authentication, errors, rate-limits, pricing, quickstart
+- 5 new code examples: error handling, async client, function calling, TypeScript quickstart, LangChain integration
+- 100+ model catalog with pricing tables across 6 providers (OpenAI, Anthropic, Google, Mistral, Meta, DeepSeek)
+- Plan tiers with financing multiplier documentation (Free → Enterprise, 1.0x-1.5x)
+- Cost calculator with real-world scenario examples
+- Structured error reference with retry strategies (Python + TypeScript)
+- Rate limit documentation by plan tier with proactive throttling patterns
+- API key management: scopes, IP allowlisting, rotation, sandbox environment
+- Framework integration guides: LangChain, LlamaIndex, Vercel AI SDK, Claude Code
+
+### Changed
+- Repository renamed from `docs` to `compute-credit-financing` for SEO
+- README restructured: API docs section added above Knowledge Base
+- llms.txt updated with API documentation and code example links
+- URLs updated from workers.dev to compux.net
+
 ## [1.0.0] - 2026-04-02
 
 ### Added
