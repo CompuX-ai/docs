@@ -1,16 +1,16 @@
 # Lender Portfolio Economics: Deal Sizes, Underwriting, and Returns in AI Compute Credit
 
-[compute financing for lenders](/use-cases/compute-financing-for-lenders/) portfolio economics is critical for understanding the potential of different asset classes, especially in emerging fields like AI compute credit. This involves a deep look at deal sizes, the loan underwriting process, and the returns lenders can anticipate.
+[compute financing for lenders](../use-cases/compute-financing-for-lenders.md) portfolio economics is critical for understanding the potential of different asset classes, especially in emerging fields like AI compute credit. This involves a deep look at deal sizes, the loan underwriting process, and the returns lenders can anticipate.
 
-CompuX helps [compute financing for lenders](/use-cases/compute-financing-for-lenders/) work through this exciting new space by providing access to AI [compute credits](/concepts/compute-credits/) and tools to manage risk and maximize returns.
+CompuX helps [compute financing for lenders](../use-cases/compute-financing-for-lenders.md) work through this exciting new space by providing access to AI [compute credits](../concepts/compute-credits.md) and tools to manage risk and maximize returns.
 
 **Key Takeaways:**
 
-* **Deal Sizes** — AI compute credit deal sizes vary, but a typical Series A startup might require [compute credits](/concepts/compute-credits/) valued between $20,000 to $80,000 per month.
+* **Deal Sizes** — AI compute credit deal sizes vary, but a typical Series A startup might require [compute credits](../concepts/compute-credits.md) valued between $20,000 to $80,000 per month.
 * **Underwriting** — Effective underwriting in AI compute credit involves assessing a startup's AI model performance, compute usage patterns, and burn rate.
-* **Returns** — [compute financing for lenders](/use-cases/compute-financing-for-lenders/) in the AI compute space can expect competitive returns, influenced by interest rates and the creditworthiness of borrowers.
-* **Risk Management** — Managing risk involves strategies like [blockable credits](/concepts/blockable-credits/), portfolio diversification, and continuous monitoring of compute usage.
-* **CompuX Advantage** — CompuX streamlines AI compute credit financing by providing data-driven insights and risk mitigation tools for [compute financing for lenders](/use-cases/compute-financing-for-lenders/).
+* **Returns** — [compute financing for lenders](../use-cases/compute-financing-for-lenders.md) in the AI compute space can expect competitive returns, influenced by interest rates and the creditworthiness of borrowers.
+* **Risk Management** — Managing risk involves strategies like [blockable credits](../concepts/blockable-credits.md), portfolio diversification, and continuous monitoring of compute usage.
+* **CompuX Advantage** — CompuX streamlines AI compute credit financing by providing data-driven insights and risk mitigation tools for [compute financing for lenders](../use-cases/compute-financing-for-lenders.md).
 
 ## Understanding Lender Portfolio Economics
 
@@ -36,11 +36,11 @@ Deal sizes in AI compute credit lending vary based on the stage and needs of the
 
 ### What is the typical deal size for AI compute credit lending?
 
-The typical deal size for AI compute credit lending varies depending on the startup's stage and compute needs. A Series A startup might require compute credits valued at $20,000 to $80,000 per month. A more mature Series B or C company could need significantly more. These figures depend on the scale of their AI models, the intensity of their training or [inference-heavy startups](/use-cases/inference-heavy-startups/) workloads, and their overall burn rate. Lenders need to assess these factors to determine the appropriate deal size for each borrower.
+The typical deal size for AI compute credit lending varies depending on the startup's stage and compute needs. A Series A startup might require compute credits valued at $20,000 to $80,000 per month. A more mature Series B or C company could need significantly more. These figures depend on the scale of their AI models, the intensity of their training or [inference-heavy startups](../use-cases/inference-heavy-startups.md) workloads, and their overall burn rate. Lenders need to assess these factors to determine the appropriate deal size for each borrower.
 
 ### How does CompuX facilitate AI compute credit financing?
 
-CompuX facilitates AI compute credit financing by connecting AI startups with lenders who can provide the necessary compute resources. The CompuX marketplace allows lenders to offer compute credits as a service, streamlining the financing process. CompuX also provides tools for assessing the creditworthiness of borrowers, such as data on their compute usage and performance. CompuX acts as a [token operator](/concepts/token-operator-guide/) to enable seamless compute credit transactions.
+CompuX facilitates AI compute credit financing by connecting AI startups with lenders who can provide the necessary compute resources. The CompuX marketplace allows lenders to offer compute credits as a service, streamlining the financing process. CompuX also provides tools for assessing the creditworthiness of borrowers, such as data on their compute usage and performance. CompuX acts as a [token operator](../concepts/token-operator-guide.md) to enable seamless compute credit transactions.
 
 Deal sizes in AI compute credit lending are highly variable, influenced by the startup's stage and compute demands. Early-stage companies may need smaller credit lines, while mature firms require larger ones. CompuX bridges the gap by connecting startups with lenders and providing essential data for good choice-making. For instance, fine-tuning Llama 3 70B costs $5,000 to $15,000 per run, according to [Lambda Labs](https://lambdalabs.com/service/gpu-cloud#pricing) pricing in 2025, highlighting the large compute expenses that AI startups face. CompuX facilitates these transactions by providing a platform for lenders to offer compute credits and startups to access the resources they need. The financing process more efficient and transparent.
 
@@ -60,7 +60,7 @@ Underwriting AI compute credit demands a data-driven methodology. Lenders need t
 
 ## Maximizing Lender Returns in AI Compute Credit
 
-Maximizing lender returns in AI compute credit requires a strategic approach to pricing, risk management, and portfolio diversification. Lenders need to set interest rates that reflect the risk profile of each borrower while remaining competitive in the market. Effective risk management strategies, such as [blockable credits](/concepts/blockable-credits/), can also help boost returns by minimizing losses.
+Maximizing lender returns in AI compute credit requires a strategic approach to pricing, risk management, and portfolio diversification. Lenders need to set interest rates that reflect the risk profile of each borrower while remaining competitive in the market. Effective risk management strategies, such as [blockable credits](../concepts/blockable-credits.md), can also help boost returns by minimizing losses.
 
 ### What are the expected returns for lenders in AI compute credit?
 
@@ -68,9 +68,9 @@ Expected returns for lenders in AI compute credit can be attractive. Vary depend
 
 ### How does blockable credit collateral mitigate risk?
 
-Blockable credit collateral mitigates risk by providing lenders with a mechanism to recover their investment in the event of a default. With [blockable credits](/concepts/blockable-credits/), lenders can restrict a borrower's access to compute resources if they fail to make payments. This ensures that the lender can recover the remaining value of the compute credits, reducing their losses. This feature makes AI compute credit a more secure asset class for lenders.
+Blockable credit collateral mitigates risk by providing lenders with a mechanism to recover their investment in the event of a default. With [blockable credits](../concepts/blockable-credits.md), lenders can restrict a borrower's access to compute resources if they fail to make payments. This ensures that the lender can recover the remaining value of the compute credits, reducing their losses. This feature makes AI compute credit a more secure asset class for lenders.
 
-Maximizing lender returns in AI compute credit requires strategic pricing, strong risk management, and portfolio diversification. Interest rates typically range from 8% to 15%, influenced by borrower risk profiles. CompuX enhances security through blockable credit collateral, enabling lenders to restrict compute access upon default. According to [The Information](https://www.theinformation.com/), OpenAI spends an estimated $4B annually on [inference-heavy startups](/use-cases/inference-heavy-startups/) alone, highlighting the large value of compute resources. By leveraging tools like [blockable credits](/concepts/blockable-credits/), lenders can secure their investments and optimize returns in this active market.
+Maximizing lender returns in AI compute credit requires strategic pricing, strong risk management, and portfolio diversification. Interest rates typically range from 8% to 15%, influenced by borrower risk profiles. CompuX enhances security through blockable credit collateral, enabling lenders to restrict compute access upon default. According to [The Information](https://www.theinformation.com/), OpenAI spends an estimated $4B annually on [inference-heavy startups](../use-cases/inference-heavy-startups.md) alone, highlighting the large value of compute resources. By leveraging tools like [blockable credits](../concepts/blockable-credits.md), lenders can secure their investments and optimize returns in this active market.
 
 ## Managing Risk in AI Compute Credit Portfolios
 
@@ -82,9 +82,9 @@ Several risks are associated with AI compute credit lending. These include the r
 
 ### How does CompuX help lenders manage risk in AI compute credit portfolios?
 
-CompuX helps lenders manage risk in AI compute credit portfolios in several ways. First, CompuX provides data-driven insights into the creditworthiness of borrowers. Second, CompuX offers [blockable credits](/concepts/blockable-credits/) as collateral, reducing the risk of loss in the event of default. Third, it facilitates portfolio diversification by providing access to a wide range of AI startups. Finally, it monitors compute usage in real-time, allowing lenders to identify potential risks early on.
+CompuX helps lenders manage risk in AI compute credit portfolios in several ways. First, CompuX provides data-driven insights into the creditworthiness of borrowers. Second, CompuX offers [blockable credits](../concepts/blockable-credits.md) as collateral, reducing the risk of loss in the event of default. Third, it facilitates portfolio diversification by providing access to a wide range of AI startups. Finally, it monitors compute usage in real-time, allowing lenders to identify potential risks early on.
 
-Managing risk is paramount in AI compute credit portfolios. Key risks include borrower default, technological obsolescence, and market volatility. CompuX mitigates these risks through data-driven borrower assessments, [blockable credits](/concepts/blockable-credits/), portfolio diversification, and real-time compute usage monitoring. According to [SemiAnalysis](https://www.semianalysis.com/), the GPU supply crunch has largely resolved in Q1 2025, demonstrating the rapid changes in the compute market. It equips lenders with the tools and insights needed to work through these complexities and protect their investments.
+Managing risk is paramount in AI compute credit portfolios. Key risks include borrower default, technological obsolescence, and market volatility. CompuX mitigates these risks through data-driven borrower assessments, [blockable credits](../concepts/blockable-credits.md), portfolio diversification, and real-time compute usage monitoring. According to [SemiAnalysis](https://www.semianalysis.com/), the GPU supply crunch has largely resolved in Q1 2025, demonstrating the rapid changes in the compute market. It equips lenders with the tools and insights needed to work through these complexities and protect their investments.
 
 ## CompuX: Your Gateway to AI Compute Credit Financing
 

@@ -1,6 +1,6 @@
 # Inference-Heavy Startups: Cut LLM Costs with CompuX
 
-For AI startups working with Large Language Models, inference costs can quickly become a major expense. CompuX provides a solution with a marketplace for AI [compute credits](/concepts/compute-credits/), access to affordable GPU resources. Tools to manage your compute budget.
+For AI startups working with Large Language Models, inference costs can quickly become a major expense. CompuX provides a solution with a marketplace for AI [compute credits](../concepts/compute-credits.md), access to affordable GPU resources. Tools to manage your compute budget.
 
 **Key Takeaways:**
 
@@ -27,25 +27,25 @@ Inference-heavy startups face large challenges due to the high costs and complex
 
 The platform addresses these challenges by providing a comprehensive solution that offers:
 
-* **Affordable [compute credits](/concepts/compute-credits/):** A marketplace where startups can access discounted GPU resources. Startups can save 25-50% on compute costs.
+* **Affordable [compute credits](../concepts/compute-credits.md):** A marketplace where startups can access discounted GPU resources. Startups can save 25-50% on compute costs.
 * **Performance Optimization Tools:** Profiling tools to identify and eliminate bottlenecks in inference pipelines. These tools can help reduce latency by up to 50%.
 * **Budget Management Features:** Tools for setting spending limits, tracking usage, and receiving alerts. These tools help startups stay within their budgets and avoid overspending.
-* **Financing Options:** Access to capital partners who can provide funding for compute resources. The financing program offers up to $1.5M in [compute credits](/concepts/compute-credits/).
+* **Financing Options:** Access to capital partners who can provide funding for compute resources. The financing program offers up to $1.5M in [compute credits](../concepts/compute-credits.md).
 * **Easy Integration:** An OpenAI-compatible SDK for seamless integration with existing workflows. The SDK allows for integration within a few hours.
 
 ## CompuX: Your Gateway to Affordable GPU Compute for Inference
 
 CompuX acts as a "Compute Credit Transfusion Engine," providing a marketplace connecting AI startups, compute providers, and capital partners. We offer an OpenAI-compatible SDK, allowing for easy integration. The platform is more than a marketplace — as a token operator, the service offers a full solution for managing compute resources. Learn more about [Financing Options for Scaling Your Inference Workloads](#financing-options-for-scaling-your-inference-workloads).
 
-* Access a marketplace of AI [compute credits](/concepts/compute-credits/).
-* Use an [drop-in API replacement](/concepts/openai-api-alternatives/) SDK for easy integration.
+* Access a marketplace of AI [compute credits](../concepts/compute-credits.md).
+* Use an [drop-in API replacement](../concepts/openai-api-alternatives.md) SDK for easy integration.
 * Benefit from a 25–50% multiplier on compute credit financing.
 
 By connecting you with multiple compute providers, it ensures that you always have access to the resources you need at the best price.
 
 ## Unlock large Cost Savings with CompuX's AI Compute Marketplace
 
-The AI compute marketplace enables you to unlock cost savings on your inference workloads. By providing access to a network of compute providers, we can offer [compute credits](/concepts/compute-credits/) at a discount compared to traditional cloud providers. This is especially important, considering inference can account for up to 80% of total LLM operational expenses. This is a great benefit for **inference-heavy startups**.
+The AI compute marketplace enables you to unlock cost savings on your inference workloads. By providing access to a network of compute providers, we can offer [compute credits](../concepts/compute-credits.md) at a discount compared to traditional cloud providers. This is especially important, considering inference can account for up to 80% of total LLM operational expenses. This is a great benefit for **inference-heavy startups**.
 
 Our marketplace provides a competitive environment where compute providers offer their resources at the most attractive prices, allowing you to optimize your compute spend.
 
@@ -56,11 +56,11 @@ Our marketplace provides a competitive environment where compute providers offer
 | Financing Options   | Available through capital partners   | Limited                     |
 | Cost Savings        | Up to 50%                            | Minimal                     |
 
-A Series A startup spending $200K/month on OpenAI API calls can cut costs by switching to the marketplace. By leveraging discounted [compute credits](/concepts/compute-credits/) and optimized GPU resources through the platform, startups gain immediate savings. This allows them to keep their current inference capacity while reducing their monthly spend by 25–50%. The savings can then be used for other things, like product development or marketing, helping them grow faster. This not only improves their finances but also helps them come up with new ideas and compete in the AI market.
+A Series A startup spending $200K/month on OpenAI API calls can cut costs by switching to the marketplace. By leveraging discounted [compute credits](../concepts/compute-credits.md) and optimized GPU resources through the platform, startups gain immediate savings. This allows them to keep their current inference capacity while reducing their monthly spend by 25–50%. The savings can then be used for other things, like product development or marketing, helping them grow faster. This not only improves their finances but also helps them come up with new ideas and compete in the AI market.
 
 ## Optimize Inference Performance and Reduce Latency
 
-Beyond cost savings, it helps you optimize inference performance and reduce latency. Optimized inference can reduce latency by up to 50% compared to unoptimized implementations. Lower latency means a better user experience. This is important for things like chatbots and recommendation systems. By using [blockable credits](/concepts/blockable-credits/) on the platform, you can make sure that your inference workloads always have the resources they need. This prevents performance problems during busy times.
+Beyond cost savings, it helps you optimize inference performance and reduce latency. Optimized inference can reduce latency by up to 50% compared to unoptimized implementations. Lower latency means a better user experience. This is important for things like chatbots and recommendation systems. By using [blockable credits](../concepts/blockable-credits.md) on the platform, you can make sure that your inference workloads always have the resources they need. This prevents performance problems during busy times.
 
 This is key for **inference-heavy startups** that need quick response times. According to the Stanford AI Index, the average data center GPU use is 30-50% in 2025. This shows that there is room for better performance through better resource use and workload optimization. This lets you get the most out of your investment. By optimizing your inference performance, you can deliver a better user experience and gain an edge in the market.
 
@@ -74,9 +74,9 @@ compute is typically the largest line item for AI startups, according to a16z's 
 
 ## Financing Options for Scaling Your Inference Workloads
 
-Scaling AI inference workloads costs money, and the platform addresses this directly. That's why we offer financing options to help startups get the compute resources they need. Our "Compute Credit Transfusion Engine" model provides $1M in financing, turning it into $1.25-1.5M in compute through bulk purchasing — a 25-50% multiplier. Learn more about [how compute credits work](/faq/how-compute-credits-work/) in practice. This financing model lets you grow your AI development without giving up ownership of your company. We work with capital partners who understand AI compute and want to invest in startups.
+Scaling AI inference workloads costs money, and the platform addresses this directly. That's why we offer financing options to help startups get the compute resources they need. Our "Compute Credit Transfusion Engine" model provides $1M in financing, turning it into $1.25-1.5M in compute through bulk purchasing — a 25-50% multiplier. Learn more about [how compute credits work](../faq/how-compute-credits-work.md) in practice. This financing model lets you grow your AI development without giving up ownership of your company. We work with capital partners who understand AI compute and want to invest in startups.
 
-By using the financing options, you can focus on building your product and growing your business. You won't have to worry as much about the cost of compute. The [token operator](/concepts/token-operator-guide/) model makes sure that the compute credits are used properly.
+By using the financing options, you can focus on building your product and growing your business. You won't have to worry as much about the cost of compute. The [token operator](../concepts/token-operator-guide.md) model makes sure that the compute credits are used properly.
 
 ## Use Cases: How Startups are Leveraging CompuX for Inference
 

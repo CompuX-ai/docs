@@ -13,7 +13,7 @@ Provider integration, including setup and API, lets compute providers connect wi
 
 Integrating with CompuX gives compute providers a chance to get into the fast-growing AI market. AI startups need more compute resources. They often spend 30-50% of their funding on compute infrastructure. By joining the marketplace, providers can get new revenue, use their GPUs better. Be part of a clear compute credit marketplace. The platform also lets providers offer their resources to more people, including startups they might not reach otherwise. The streamlined integration process makes it easier for providers to connect and make money from their GPUs. This **provider integration growth** can significantly boost your revenue.
 
-The AI infrastructure market was worth $150B in 2025, according to [IDC](https://www.idc.com/), showing big growth. Many AI startups need external GPUs for [training-heavy startups](/use-cases/training-heavy-startups/) and [inference-heavy startups](/use-cases/inference-heavy-startups/). Integrating with a dedicated marketplace lets compute providers tap into this demand and increase revenue. A Series A AI startup might spend $20-80K per month on [inference-heavy startups](/use-cases/inference-heavy-startups/) and [training-heavy startups](/use-cases/training-heavy-startups/), creating a large need for GPUs. The provider market tripled in two years: Epoch AI counted over 40 [GPU cloud startups](/use-cases/gpu-cloud-startups/) vendors by 2025, up from 12 in 2023. This means it's important to stand out and use resources well.
+The AI infrastructure market was worth $150B in 2025, according to [IDC](https://www.idc.com/), showing big growth. Many AI startups need external GPUs for [training-heavy startups](../use-cases/training-heavy-startups.md) and [inference-heavy startups](../use-cases/inference-heavy-startups.md). Integrating with a dedicated marketplace lets compute providers tap into this demand and increase revenue. A Series A AI startup might spend $20-80K per month on [inference-heavy startups](../use-cases/inference-heavy-startups.md) and [training-heavy startups](../use-cases/training-heavy-startups.md), creating a large need for GPUs. The provider market tripled in two years: Epoch AI counted over 40 [GPU cloud startups](../use-cases/gpu-cloud-startups.md) vendors by 2025, up from 12 in 2023. This means it's important to stand out and use resources well.
 
 ## What are the steps for integrating with CompuX as a compute provider?
 
@@ -57,10 +57,10 @@ The platform ensures fair pricing for compute providers. These include:
 
 * **Active Pricing:** Providers can set their own prices for their GPUs. They can change prices based on demand and availability.
 * **Marketplace Transparency:** it offers a clear compute credit marketplace. Providers can see the current market prices for similar resources.
-* **Blockable [compute credits](/concepts/compute-credits/):** [Blockable credits](/concepts/blockable-credits/) make sure providers are paid fairly for their compute resources. This is true even if AI startups try to lower prices.
+* **Blockable [compute credits](../concepts/compute-credits.md):** [Blockable credits](../concepts/blockable-credits.md) make sure providers are paid fairly for their compute resources. This is true even if AI startups try to lower prices.
 * **Dispute Resolution:** The platform offers a way to solve pricing disagreements between providers and AI startups.
 
-H100 spot capacity on aggregation marketplaces runs $1.50-$2.80/GPU-hour, well below hyperscaler list prices. Fair pricing is important for a good compute credit marketplace. it acts as a [token operator](/concepts/token-operator-guide/) to help these transactions.
+H100 spot capacity on aggregation marketplaces runs $1.50-$2.80/GPU-hour, well below hyperscaler list prices. Fair pricing is important for a good compute credit marketplace. it acts as a [token operator](../concepts/token-operator-guide.md) to help these transactions.
 
 ## Frequently Asked Questions About Provider Integration
 
@@ -78,15 +78,15 @@ CompuX offers full support during integration. This includes detailed documentat
 
 ### How does CompuX ensure fair pricing for compute providers?
 
-CompuX ensures fair pricing through active pricing, marketplace transparency, and [blockable credits](/concepts/blockable-credits/). Providers can set their own prices for their GPUs. They can change prices based on demand and availability. The marketplace lets providers see current market rates. [blockable credits](/concepts/blockable-credits/) guarantee fair payment, even if AI startups try to lower prices.
+CompuX ensures fair pricing through active pricing, marketplace transparency, and [blockable credits](../concepts/blockable-credits.md). Providers can set their own prices for their GPUs. They can change prices based on demand and availability. The marketplace lets providers see current market rates. [blockable credits](../concepts/blockable-credits.md) guarantee fair payment, even if AI startups try to lower prices.
 
 ### What types of GPUs are most in demand from AI startups on CompuX?
 
-AI startups on the marketplace often want high-performance GPUs like NVIDIA H100, A100, and V100. These GPUs are good for tough AI tasks, like training and [inference-heavy startups](/use-cases/inference-heavy-startups/). But, there's also demand for other GPUs, depending on what the AI startup needs. For example, some startups might need older GPUs for cost reasons, while others may need specialized GPUs for particular tasks.
+AI startups on the marketplace often want high-performance GPUs like NVIDIA H100, A100, and V100. These GPUs are good for tough AI tasks, like training and [inference-heavy startups](../use-cases/inference-heavy-startups.md). But, there's also demand for other GPUs, depending on what the AI startup needs. For example, some startups might need older GPUs for cost reasons, while others may need specialized GPUs for particular tasks.
 
 ### How does CompuX handle billing and payments for compute resources?
 
-CompuX handles billing and payments through a clear and automatic system. AI startups buy [compute credits](/concepts/compute-credits/) to pay for compute use. Providers get paid based on how much their resources are used. The platform handles all billing and payment processing. This ensures that providers are paid quickly and correctly. Smart contracts are used to automate payments and ensure transparency.
+CompuX handles billing and payments through a clear and automatic system. AI startups buy [compute credits](../concepts/compute-credits.md) to pay for compute use. Providers get paid based on how much their resources are used. The platform handles all billing and payment processing. This ensures that providers are paid quickly and correctly. Smart contracts are used to automate payments and ensure transparency.
 
 ### What security measures are in place to protect my compute infrastructure?
 

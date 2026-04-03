@@ -19,7 +19,7 @@ A GPU marketplace provides a platform for accessing GPU compute resources withou
 
 ## Why Use a GPU Marketplace?
 
-Using a GPU marketplace offers several compelling advantages, particularly for AI startups and organizations with demanding compute needs. The ability to access a wide variety of GPU types, scale resources on demand. Potentially reduce costs are key drivers for adoption. Also, GPU marketplaces often provide tools and services that simplify the management and deployment of AI workloads, reducing the operational overhead for users. The increasing number of [GPU cloud startups](/use-cases/gpu-cloud-startups/) providers, growing from 12 to over 40 between 2023 and 2025 (Epoch AI), reflects the growing demand and value proposition of these marketplaces.
+Using a GPU marketplace offers several compelling advantages, particularly for AI startups and organizations with demanding compute needs. The ability to access a wide variety of GPU types, scale resources on demand. Potentially reduce costs are key drivers for adoption. Also, GPU marketplaces often provide tools and services that simplify the management and deployment of AI workloads, reducing the operational overhead for users. The increasing number of [GPU cloud startups](../use-cases/gpu-cloud-startups.md) providers, growing from 12 to over 40 between 2023 and 2025 (Epoch AI), reflects the growing demand and value proposition of these marketplaces.
 
 **Citable Passage:**
 The primary reason to use a GPU marketplace revolves around cost-effectiveness, as GPU prices dropped 40% from peak 2023 levels ([Epoch AI](https://epochai.org/data/epochdb/notable-ai-models), 2025). Traditional cloud providers often have higher markups on GPU instances, while marketplaces foster competition that drives prices down. Also, spot pricing models on GPU marketplaces enable users to bid for unused GPU capacity, potentially securing compute resources at significantly lower rates than on-demand pricing. Spot H100 pricing on compute platforms ranges from $1.50 to $2.80 per GPU-hour, making them far more accessible. This cost advantage is especially crucial for AI startups, where compute expenses can quickly deplete their funding. GPU marketplaces offer a pathway to access the necessary compute power without breaking the bank, enabling them to focus on innovation and development. This represents a strategic advantage in a competitive market.
@@ -35,7 +35,7 @@ GPU marketplaces offer a range of features designed to simplify the process of a
 | Automated Deployment | Simplifies the process of deploying AI workloads on GPU instances, automating tasks such as software installation and configuration. |
 | Monitoring Dashboards | Offers real-time monitoring of GPU utilization, performance, and cost, enabling users to optimize their workloads and track their spending. |
 | APIs and SDKs | Provides APIs and SDKs that allow users to integrate GPU compute resources into their existing workflows and applications. |
-| Multi-Provider API | CompuX offers an OpenAI-compatible SDK, a drop-in replacement for existing code. This allows seamless integration with multiple providers, reducing vendor lock-in and maximizing access to the best compute resources. See [CompuX vs OpenRouter](/compare/compux-vs-openrouter/) for details. |
+| Multi-Provider API | CompuX offers an OpenAI-compatible SDK, a drop-in replacement for existing code. This allows seamless integration with multiple providers, reducing vendor lock-in and maximizing access to the best compute resources. See [CompuX vs OpenRouter](../compare/compux-vs-openrouter.md) for details. |
 
 ## Types of GPUs Available on Marketplaces
 
@@ -45,7 +45,7 @@ The selection of GPU type directly impacts the performance and cost of AI worklo
 
 ## Use Cases for GPU Marketplaces
 
-GPU marketplaces cater to a diverse range of use cases, primarily centered around AI, machine learning, and other computationally intensive tasks. These include AI [training-heavy startups](/use-cases/training-heavy-startups/), [inference-heavy startups](/use-cases/inference-heavy-startups/), machine learning, deep learning, scientific computing, data analytics, and video processing. AI startups and research institutions are among the most frequent users, leveraging GPU marketplaces to accelerate their research and development efforts.
+GPU marketplaces cater to a diverse range of use cases, primarily centered around AI, machine learning, and other computationally intensive tasks. These include AI [training-heavy startups](../use-cases/training-heavy-startups.md), [inference-heavy startups](../use-cases/inference-heavy-startups.md), machine learning, deep learning, scientific computing, data analytics, and video processing. AI startups and research institutions are among the most frequent users, leveraging GPU marketplaces to accelerate their research and development efforts.
 
 ## GPU Pricing Models: Spot Pricing vs. Reserved Instances
 
@@ -63,7 +63,7 @@ The global demand for GPU compute is experiencing exponential growth, driven by 
 
 ## CompuX: Your Compute Credit Marketplace for AI
 
-CompuX provides a compute credit marketplace that enables AI startups to access GPU power at wholesale prices. By purchasing compute credits upfront, users can unlock large cost savings and simplify their AI compute spending. CompuX offers access to a variety of GPU resources from different providers, providing flexibility and choice. Think of CompuX as a "Compute Credit Transfusion Engine": financing that amplifies compute budgets by 25-50% (25-50% multiplier). See also [CompuX vs cloud credits](/compare/compux-vs-cloud-credits/).
+CompuX provides a compute credit marketplace that enables AI startups to access GPU power at wholesale prices. By purchasing compute credits upfront, users can unlock large cost savings and simplify their AI compute spending. CompuX offers access to a variety of GPU resources from different providers, providing flexibility and choice. Think of CompuX as a "Compute Credit Transfusion Engine": financing that amplifies compute budgets by 25-50% (25-50% multiplier). See also [CompuX vs cloud credits](../compare/compux-vs-cloud-credits.md).
 
 ## Frequently Asked Questions
 
@@ -89,15 +89,15 @@ A compute credit is a unit of value that can be used to purchase GPU compute res
 
 ### How does CompuX differ from other GPU marketplaces?
 
-CompuX distinguishes itself through its compute credit model. Offers AI startups the opportunity to buy GPU power at wholesale prices. CompuX also provides an OpenAI-compatible SDK, enabling seamless integration with existing AI workflows. Unlike some marketplaces, CompuX focuses specifically on providing cost-effective compute tools for AI workloads. See also [CompuX vs Together AI](/compare/compux-vs-together-ai/).
+CompuX distinguishes itself through its compute credit model. Offers AI startups the opportunity to buy GPU power at wholesale prices. CompuX also provides an OpenAI-compatible SDK, enabling seamless integration with existing AI workflows. Unlike some marketplaces, CompuX focuses specifically on providing cost-effective compute tools for AI workloads. See also [CompuX vs Together AI](../compare/compux-vs-together-ai.md).
 
 ### Related Terms
 
-* [Compute Credits](/concepts/compute-credits/)
-* [Token Operator](/concepts/token-operator-guide/)
-* [Blockable Credits](/concepts/blockable-credits/)
-* [Compute Credit Transfusion](/concepts/compute-credit-transfusion-guide/)
-* [Multi-Provider API](/concepts/multi-provider-llm-api/)
+* [Compute Credits](compute-credits.md)
+* [Token Operator](token-operator-guide.md)
+* [Blockable Credits](blockable-credits.md)
+* [Compute Credit Transfusion](compute-credit-transfusion-guide.md)
+* [Multi-Provider API](multi-provider-llm-api.md)
 
 ### Get Started
 Ready to unlock affordable GPU compute for your AI workloads? Explore the CompuX marketplace and discover how our compute credit model can help you save money and scale your operations.

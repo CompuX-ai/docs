@@ -1,16 +1,16 @@
 # Understanding GPU Cloud Provider Partnerships: Benefits, Types, and Challenges
 
-[GPU cloud startups](/use-cases/gpu-cloud-startups/) provider partnerships happen when companies that offer GPU cloud services work with other groups. These alliances aim to reach more customers, use resources better, and encourage new ideas, especially in AI and machine learning.
+[GPU cloud startups](../use-cases/gpu-cloud-startups.md) provider partnerships happen when companies that offer GPU cloud services work with other groups. These alliances aim to reach more customers, use resources better, and encourage new ideas, especially in AI and machine learning.
 
 These relationships are becoming more important for companies that want to stay competitive in the AI market. This page explains the benefits of a GPU provider partnership.
 
 **Key Takeaways:**
 
 * **Market Growth** — The AI infrastructure market reached $150B in 2025, showing the need to manage GPU resources well [IDC Worldwide AI Spending Guide](https://www.idc.com/getdoc.jsp?containerId=prUS52691024).
-* **Resource Optimization** — [GPU cloud startups](/use-cases/gpu-cloud-startups/) provider partnerships help use GPUs better. On average, data centers only use 30-50% of their GPUs ([Stanford AI Index](https://aiindex.stanford.edu/report/), 2025).
+* **Resource Optimization** — [GPU cloud startups](../use-cases/gpu-cloud-startups.md) provider partnerships help use GPUs better. On average, data centers only use 30-50% of their GPUs ([Stanford AI Index](https://aiindex.stanford.edu/report/), 2025).
 * **Cost Reduction** — Partnerships can lower GPU costs for AI startups. This lets them use their money more effectively and last longer.
-* **Partnership Growth** — The [GPU cloud startups](/use-cases/gpu-cloud-startups/) market expanded from 12 providers to more than 40 between 2023 and 2025 ([Epoch AI](https://epochai.org/data/epochdb/notable-ai-models)). This shows that there are more chances for partnerships (Epoch AI).
-* **Compute Spend** — Series A AI startups often spend $20-80K per month on [inference-heavy startups](/use-cases/inference-heavy-startups/) and training. This makes saving money very important.
+* **Partnership Growth** — The [GPU cloud startups](../use-cases/gpu-cloud-startups.md) market expanded from 12 providers to more than 40 between 2023 and 2025 ([Epoch AI](https://epochai.org/data/epochdb/notable-ai-models)). This shows that there are more chances for partnerships (Epoch AI).
+* **Compute Spend** — Series A AI startups often spend $20-80K per month on [inference-heavy startups](../use-cases/inference-heavy-startups.md) and training. This makes saving money very important.
 
 ## What are GPU Cloud Provider Partnerships?
 
@@ -60,15 +60,15 @@ compute costs dominate AI startup spending, making cost savings very important (
 
 Platforms are very important in helping and managing GPU cloud provider partnerships. These platforms provide a central place where GPU cloud providers can connect with AI startups and other users looking for compute resources. By making it easier to find and manage partnerships, platforms help organizations use resources better and lower costs. Platforms also offer tools to check performance, track usage, and manage billing.
 
-[inference-heavy startups](/use-cases/inference-heavy-startups/) the majority of AI compute now goes to inference workloads spending, so managing resources well is vital ([a16z](https://a16z.com/ai/) State of AI, 2025). Platforms help with this by providing one place to access GPU resources from different providers. For example, an AI startup can use a platform to compare the prices and performance of different GPU cloud providers.
+[inference-heavy startups](../use-cases/inference-heavy-startups.md) the majority of AI compute now goes to inference workloads spending, so managing resources well is vital ([a16z](https://a16z.com/ai/) State of AI, 2025). Platforms help with this by providing one place to access GPU resources from different providers. For example, an AI startup can use a platform to compare the prices and performance of different GPU cloud providers.
 
-Then, they can choose the [cheapest LLM API access](/compare/llm-api-pricing-comparison/) option for their needs. Also, platforms can automate many of the tasks related to managing partnerships. This frees up time and resources for partners to focus on new ideas and growth. Platforms are essential for making the AI world more efficient and collaborative.
+Then, they can choose the [cheapest LLM API access](../compare/llm-api-pricing-comparison.md) option for their needs. Also, platforms can automate many of the tasks related to managing partnerships. This frees up time and resources for partners to focus on new ideas and growth. Platforms are essential for making the AI world more efficient and collaborative.
 
 ## CompuX: Facilitating GPU Cloud Provider Partnerships
 
-CompuX is a compute credit marketplace made to help GPU cloud provider partnerships. It does this by serves startups, providers, and investors through a unified marketplace. CompuX has an OpenAI-compatible SDK. OpenAI, Anthropic, Google, Meta, and Mistral. CompuX acts as a compute credit marketplace and token operator, making it easier to access and manage compute resources. CompuX helps save money by offering a multiplier effect on compute credits. For example, $1M in financing can become $1.25-1.5M in compute credits. This is very helpful since Series A AI startups often spend $20-80K per month on [inference-heavy startups](/use-cases/inference-heavy-startups/) and training.
+CompuX is a compute credit marketplace made to help GPU cloud provider partnerships. It does this by serves startups, providers, and investors through a unified marketplace. CompuX has an OpenAI-compatible SDK. OpenAI, Anthropic, Google, Meta, and Mistral. CompuX acts as a compute credit marketplace and token operator, making it easier to access and manage compute resources. CompuX helps save money by offering a multiplier effect on compute credits. For example, $1M in financing can become $1.25-1.5M in compute credits. This is very helpful since Series A AI startups often spend $20-80K per month on [inference-heavy startups](../use-cases/inference-heavy-startups.md) and training.
 
-By providing a central marketplace and managing compute credits well, it lets GPU cloud providers reach more people. It also allows AI startups to access the resources they need to create new things and grow. See how it compares to other platforms like [GPU pricing comparison 2026](/compare/gpu-pricing-comparison-2026/) and [cheap LLM API alternatives](/compare/cheap-llm-api-alternatives/), and [CompuX vs cloud credits](/compare/compux-vs-cloud-credits/).
+By providing a central marketplace and managing compute credits well, it lets GPU cloud providers reach more people. It also allows AI startups to access the resources they need to create new things and grow. See how it compares to other platforms like [GPU pricing comparison 2026](../compare/gpu-pricing-comparison-2026.md) and [cheap LLM API alternatives](../compare/cheap-llm-api-alternatives.md), and [CompuX vs cloud credits](../compare/compux-vs-cloud-credits.md).
 
 ## Frequently Asked Questions
 
@@ -98,11 +98,11 @@ Compute credits can lower costs by giving users cheaper access to GPU resources.
 
 ## Related Terms
 
-* [Compute Credits](/concepts/compute-credits/)
-* [Compute Marketplace](/concepts/compute-credit-marketplace/)
-* [GPU Utilization](/concepts/gpu-utilization/)
-* [Marginal Cost Arbitrage](/concepts/marginal-cost-arbitrage/)
-* [Multi-Provider API](/concepts/multi-provider-llm-api/)
+* [Compute Credits](compute-credits.md)
+* [Compute Marketplace](compute-credit-marketplace.md)
+* [GPU Utilization](gpu-utilization.md)
+* [Marginal Cost Arbitrage](marginal-cost-arbitrage.md)
+* [Multi-Provider API](multi-provider-llm-api.md)
 
 ## Get Started
 

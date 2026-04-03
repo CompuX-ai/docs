@@ -6,8 +6,8 @@
 
 * **Cost Savings** — GPU credits can lower compute costs a lot. These costs often use 30-50% of an AI startup's money, according to [a16z State of AI](https://a16z.com/ai/), 2025.
 * **Access to Resources** — Credits give access to advanced GPUs, like H100s. These are key for training and using AI models. H100 availability is up 60% from last year, says [SemiAnalysis](https://www.semianalysis.com/), Q1 2025.
-* **Non-Dilutive Financing** — Platforms like CompuX offer compute credits as a way to get money without giving up company shares — see our [CompuX vs venture debt](/compare/compux-vs-venture-debt/) comparison. This lets startups grow their AI work while keeping their equity.
-* **Market Growth** — The AI infrastructure market is growing fast. It will reach $150 billion in 2025. This shows how important it is to manage compute resources well. Learn [how compute credits work](/faq/how-compute-credits-work/) in practice, according to IDC Worldwide AI Spending Guide.
+* **Non-Dilutive Financing** — Platforms like CompuX offer compute credits as a way to get money without giving up company shares — see our [CompuX vs venture debt](../compare/compux-vs-venture-debt.md) comparison. This lets startups grow their AI work while keeping their equity.
+* **Market Growth** — The AI infrastructure market is growing fast. It will reach $150 billion in 2025. This shows how important it is to manage compute resources well. Learn [how compute credits work](../faq/how-compute-credits-work.md) in practice, according to IDC Worldwide AI Spending Guide.
 * **Optimized Utilization** — Using GPUs in the best way is very important. Studies show that doing this can greatly lower compute costs.
 
 ## Understanding GPU Credits and Their Importance for AI Startups
@@ -20,17 +20,17 @@ For AI startups, having access to strong GPUs is not just a nice thing to have, 
 
 The importance of **GPU credits for startups** is huge. They help startups overcome money problems, access advanced hardware, and speed up their machine learning work. Many AI startups have trouble getting enough GPU resources. The costs can be too high, and they are often hard to find. These credits offer a way to get powerful compute resources at a lower cost.
 
-This lets startups train complex models, do large-scale [inference-heavy startups](/use-cases/inference-heavy-startups/), and create new AI programs. Cloud companies and special marketplaces offer these credits through different programs. These include deals, grants, and ways to get money. By using GPU credits, startups can focus on new ideas and growth. They don't have to worry as much about the money needed to buy and keep expensive hardware. This access is very important in the fast-changing AI world, where computing power directly leads to a competitive edge. See how [Compute Credits](/concepts/compute-credits/) work. According to a recent study, startups using GPU credits can see a 20-30% reduction in compute costs.
+This lets startups train complex models, do large-scale [inference-heavy startups](../use-cases/inference-heavy-startups.md), and create new AI programs. Cloud companies and special marketplaces offer these credits through different programs. These include deals, grants, and ways to get money. By using GPU credits, startups can focus on new ideas and growth. They don't have to worry as much about the money needed to buy and keep expensive hardware. This access is very important in the fast-changing AI world, where computing power directly leads to a competitive edge. See how [Compute Credits](compute-credits.md) work. According to a recent study, startups using GPU credits can see a 20-30% reduction in compute costs.
 
 ## Why AI Startups Need GPU Credits
 
-AI startups need a lot of computing power. They require a lot of processing power to train complex machine learning models, perform [inference-heavy startups](/use-cases/inference-heavy-startups/) at scale, and develop new AI applications. The cost of this computing can be high. It often uses a large part of a startup's money. According to a16z's State of AI report in 2025, AI startups spend 30-50% of their funding on compute resources. This money problem can slow growth and limit the ability to try new things.
+AI startups need a lot of computing power. They require a lot of processing power to train complex machine learning models, perform [inference-heavy startups](../use-cases/inference-heavy-startups.md) at scale, and develop new AI applications. The cost of this computing can be high. It often uses a large part of a startup's money. According to a16z's State of AI report in 2025, AI startups spend 30-50% of their funding on compute resources. This money problem can slow growth and limit the ability to try new things.
 
 **GPU credits for startups** offer a key way to get the needed computing power without using up too much money. They let startups use money for other important things, including hiring people and marketing their products.
 
-GPU credits are very important for AI startups that don't have many resources. They help them compete with bigger, more established companies. They make it easier to get started, give everyone access to computing power. Help new ideas grow by letting them train complex models and perform [inference-heavy startups](/use-cases/inference-heavy-startups/) at scale. Training advanced models like GPT-4 can cost between $50-100 million in compute, according to Epoch AI in 2025.
+GPU credits are very important for AI startups that don't have many resources. They help them compete with bigger, more established companies. They make it easier to get started, give everyone access to computing power. Help new ideas grow by letting them train complex models and perform [inference-heavy startups](../use-cases/inference-heavy-startups.md) at scale. Training advanced models like GPT-4 can cost between $50-100 million in compute, according to Epoch AI in 2025.
 
-Without access to affordable computing resources, many startups would not be able to create and use advanced AI tools. GPU credits make things fairer. They let startups focus on new ideas and product development instead of worrying about compute costs. This benefits both startups and the whole industry. See how [Compute Marketplace](/concepts/compute-credit-marketplace/) works.
+Without access to affordable computing resources, many startups would not be able to create and use advanced AI tools. GPU credits make things fairer. They let startups focus on new ideas and product development instead of worrying about compute costs. This benefits both startups and the whole industry. See how [Compute Marketplace](compute-credit-marketplace.md) works.
 
 ## How to Qualify for GPU Credits: A Step-by-Step Guide
 
@@ -62,15 +62,15 @@ Managing GPU credits well is very important for getting the most out of them. Th
 
 Making the most of GPU use is key for getting the most value from GPU credits. AI startups can maximize ROI by watching GPU use, making code better, and using cheap compute options like spot instances. On average, data centers only use 30-50% of their GPUs ([Stanford AI Index](https://aiindex.stanford.edu/report/), 2025). This shows that there is a lot of room for improvement.
 
-Tools for watching GPU use can help find problems and areas for improvement. Making code better, such as by using efficient algorithms and data structures, can also lower compute needs. Using compute resources when they are not as busy can also lower costs. Many cloud companies offer discounts during these times. Also, choosing the right types of resources for different jobs is important. For example, using cheaper GPUs for [inference-heavy startups](/use-cases/inference-heavy-startups/) tasks can save money.
+Tools for watching GPU use can help find problems and areas for improvement. Making code better, such as by using efficient algorithms and data structures, can also lower compute needs. Using compute resources when they are not as busy can also lower costs. Many cloud companies offer discounts during these times. Also, choosing the right types of resources for different jobs is important. For example, using cheaper GPUs for [inference-heavy startups](../use-cases/inference-heavy-startups.md) tasks can save money.
 
 ## CompuX: Your Marketplace for AI Compute Credits
 
 CompuX offers a new way to handle AI compute by providing a marketplace for compute credits. CompuX works as a "Compute Credit Transfusion Engine," providing $1 million in financing. This turns into $1.25-1.5 million in compute credits. This is a 25-50% increase, offering big savings for AI startups. CompuX works as a three-sided marketplace. It brings together all participants in the AI compute network. This unique system lets startups access GPU resources at wholesale prices, which greatly lowers their compute costs.
 
-This platform is different because it offers ways to get money without giving up company shares. See our [CompuX vs venture debt](/compare/compux-vs-venture-debt/) comparison. It also has a single platform for managing compute credits across different providers. CompuX provides AI startups with a marketplace for compute credits, non-dilutive financing. A single platform for managing compute resources. CompuX's OpenAI-compatible SDK serves as a simple replacement.
+This platform is different because it offers ways to get money without giving up company shares. See our [CompuX vs venture debt](../compare/compux-vs-venture-debt.md) comparison. It also has a single platform for managing compute credits across different providers. CompuX provides AI startups with a marketplace for compute credits, non-dilutive financing. A single platform for managing compute resources. CompuX's OpenAI-compatible SDK serves as a simple replacement.
 
-CompuX works as a token operator. Series A AI startups often spend $20-80,000 per month on [inference-heavy startups](/use-cases/inference-heavy-startups/) and training. By using CompuX, these startups can greatly lower their compute costs and have more money to work with. See how [Compute Credits](/concepts/compute-credits/) work.
+CompuX works as a token operator. Series A AI startups often spend $20-80,000 per month on [inference-heavy startups](../use-cases/inference-heavy-startups.md) and training. By using CompuX, these startups can greatly lower their compute costs and have more money to work with. See how [Compute Credits](compute-credits.md) work.
 
 ## The Future of AI Compute and GPU Credits
 
@@ -82,11 +82,11 @@ GPU credits will become more important in helping AI innovation and giving every
 
 ### What are GPU Credits and How Do They Work?
 
-GPU credits are like virtual money. They let AI startups use GPU compute resources from cloud companies or special marketplaces. Startups can get these credits through deals, grants, or ways to get money. They allow startups to use strong GPUs for machine learning jobs without spending a lot of cash right away. These credits can often be used for tasks like model training and [inference-heavy startups](/use-cases/inference-heavy-startups/).
+GPU credits are like virtual money. They let AI startups use GPU compute resources from cloud companies or special marketplaces. Startups can get these credits through deals, grants, or ways to get money. They allow startups to use strong GPUs for machine learning jobs without spending a lot of cash right away. These credits can often be used for tasks like model training and [inference-heavy startups](../use-cases/inference-heavy-startups.md).
 
 ### Why are GPU Credits Important for AI Startups?
 
-GPU credits are very important for AI startups. They provide access to key compute resources that would otherwise be too expensive. They make it easier to get started. This lets startups train complex models, perform [inference-heavy startups](/use-cases/inference-heavy-startups/) at scale. Create new AI programs without using up all their money. This levels the playing field, allowing smaller companies to compete with larger ones.
+GPU credits are very important for AI startups. They provide access to key compute resources that would otherwise be too expensive. They make it easier to get started. This lets startups train complex models, perform [inference-heavy startups](../use-cases/inference-heavy-startups.md) at scale. Create new AI programs without using up all their money. This levels the playing field, allowing smaller companies to compete with larger ones.
 
 ### How can AI Startups Qualify for GPU Credits?
 
@@ -102,12 +102,12 @@ To manage GPU credits well, you need to carefully watch GPU use. You should also
 
 ### What are the Benefits of Using CompuX for GPU Credits?
 
-CompuX offers a marketplace for AI compute credits. This lets startups access GPU resources at wholesale prices. CompuX provides ways to get money without giving up company shares — see our [CompuX vs venture debt](/compare/compux-vs-venture-debt/) comparison. It also has a single platform for managing compute credits across different providers. This helps AI startups grow their machine learning work efficiently. This can lead to large cost savings and improved resource allocation.
+CompuX offers a marketplace for AI compute credits. This lets startups access GPU resources at wholesale prices. CompuX provides ways to get money without giving up company shares — see our [CompuX vs venture debt](../compare/compux-vs-venture-debt.md) comparison. It also has a single platform for managing compute credits across different providers. This helps AI startups grow their machine learning work efficiently. This can lead to large cost savings and improved resource allocation.
 
 ## Related Terms
 
-* [Compute Credits](/concepts/compute-credits/)
-* [Token Operator](/concepts/token-operator-guide/)
-* [Compute Marketplace](/concepts/compute-credit-marketplace/)
-* [GPU Utilization](/concepts/gpu-utilization/)
-* [Marginal Cost Arbitrage](/concepts/marginal-cost-arbitrage/)
+* [Compute Credits](compute-credits.md)
+* [Token Operator](token-operator-guide.md)
+* [Compute Marketplace](compute-credit-marketplace.md)
+* [GPU Utilization](gpu-utilization.md)
+* [Marginal Cost Arbitrage](marginal-cost-arbitrage.md)

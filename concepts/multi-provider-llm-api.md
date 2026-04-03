@@ -7,7 +7,7 @@ A multi-provider LLM API is a unified interface. CompuX simplifies integration a
 * **Unified Access** — A multi-provider LLM API offers a single interface to access models from OpenAI, Anthropic, Google, Meta, and others.
 * **Cost Savings** — Enterprises can potentially reduce costs by leveraging different LLM providers based on performance and pricing.
 * **Flexibility** — Users gain the ability to switch between providers to optimize for specific tasks or mitigate risks associated with single-provider dependency.
-* **Growing Demand** — The number of [GPU cloud startups](/use-cases/gpu-cloud-startups/) providers has grown significantly, from 12 to over 40 between 2023 and 2025, indicating increasing demand for diverse compute options ([Epoch AI](https://epochai.org/data/epochdb/notable-ai-models)).
+* **Growing Demand** — The number of [GPU cloud startups](../use-cases/gpu-cloud-startups.md) providers has grown significantly, from 12 to over 40 between 2023 and 2025, indicating increasing demand for diverse compute options ([Epoch AI](https://epochai.org/data/epochdb/notable-ai-models)).
 
 ## What is a Multi-Provider LLM API?
 
@@ -86,7 +86,7 @@ CompuX addresses the challenges of implementing a multi-provider API strategy. T
 
 One of the most compelling reasons to adopt a multi-provider LLM API is the potential for large cost optimization. Enterprises can reduce costs by strategically leveraging different LLM providers based on performance and pricing. By monitoring the performance and pricing of various models, businesses can route requests to the most cost-effective option for each task. This active optimization can lead to substantial savings. This is especially true for organizations with high volumes of API requests.
 
-For instance, a Series A AI startup burning $20-80K per month on [inference-heavy startups](/use-cases/inference-heavy-startups/) and [training-heavy startups](/use-cases/training-heavy-startups/) can significantly benefit from a multi-provider strategy. By intelligently routing workloads based on model capabilities and pricing, businesses can achieve superior results while minimizing expenses. Also, the ability to switch between providers based on real-time pricing fluctuations can provide additional cost savings. This flexibility is crucial in a rapidly evolving AI market. New models and providers emerge frequently, creating opportunities for arbitrage and cost reduction.
+For instance, a Series A AI startup burning $20-80K per month on [inference-heavy startups](../use-cases/inference-heavy-startups.md) and [training-heavy startups](../use-cases/training-heavy-startups.md) can significantly benefit from a multi-provider strategy. By intelligently routing workloads based on model capabilities and pricing, businesses can achieve superior results while minimizing expenses. Also, the ability to switch between providers based on real-time pricing fluctuations can provide additional cost savings. This flexibility is crucial in a rapidly evolving AI market. New models and providers emerge frequently, creating opportunities for arbitrage and cost reduction.
 
 ## Future Trends in Multi-Provider LLM APIs
 
@@ -110,7 +110,7 @@ A multi-provider LLM API helps with cost optimization. It allows users to select
 
 ### What are some popular multi-provider LLM API platforms?
 
-Some popular multi-provider LLM API platforms include Promptflow, Portkey.ai, [CompuX vs OpenRouter comparison](/compare/compux-vs-openrouter/).ai, Anyscale, and AWS Bedrock. These platforms offer a range of features. Examples include LLM routing, API management, monitoring, and security. They help businesses effectively manage and use multiple LLMs.
+Some popular multi-provider LLM API platforms include Promptflow, Portkey.ai, [CompuX vs OpenRouter comparison](../compare/compux-vs-openrouter.md).ai, Anyscale, and AWS Bedrock. These platforms offer a range of features. Examples include LLM routing, API management, monitoring, and security. They help businesses effectively manage and use multiple LLMs.
 
 ### How does CompuX support multi-provider LLM API solutions?
 
@@ -138,12 +138,12 @@ API aggregation is the process of combining multiple APIs into a single, unified
 
 ## Related Terms
 
-* [Compute Credits](/concepts/compute-credits/)
-* [Compute Marketplace](/concepts/compute-credit-marketplace/)
-* [Token Operator](/concepts/token-operator-guide/)
-* [Blockable Credits](/concepts/blockable-credits/)
-* [Marginal Cost Arbitrage](/concepts/marginal-cost-arbitrage/)
+* [Compute Credits](compute-credits.md)
+* [Compute Marketplace](compute-credit-marketplace.md)
+* [Token Operator](token-operator-guide.md)
+* [Blockable Credits](blockable-credits.md)
+* [Marginal Cost Arbitrage](marginal-cost-arbitrage.md)
 
 ## Get Started
 
-Ready to unlock the power of multi-provider LLMs for your AI startup? Explore the CompuX marketplace to access compute credits and start building innovative AI applications today. [Get Started with CompuX](/faq/getting-started-compux/).
+Ready to unlock the power of multi-provider LLMs for your AI startup? Explore the CompuX marketplace to access compute credits and start building innovative AI applications today. [Get Started with CompuX](../faq/getting-started-compux.md).

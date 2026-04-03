@@ -28,10 +28,10 @@ Cost per token is a basic part of AI budgeting because it directly affects wheth
 
 Without knowing this number, companies might spend too much on compute resources. This can hurt their ability to innovate and grow. By using ways to lower token use and using platforms, businesses can save a lot of money and make sure their AI projects are affordable. The cost per token metric is important for several reasons:
 * It shows clearly how much money is being spent on using AI models, which helps in making accurate budget plans.
-* It makes it easier to compare different AI models to find the [cheapest LLM API access](/compare/llm-api-pricing-comparison/) solution for a specific task.
+* It makes it easier to compare different AI models to find the [cheapest LLM API access](../compare/llm-api-pricing-comparison.md) solution for a specific task.
 * It helps in improving AI applications by using prompt engineering, which can greatly lower token use.
 
-For example, models from different providers have different prices. Knowing the cost per token helps businesses pick the best option. Cost per token data helps in making good decisions. Sure that AI projects give the most value for the money spent. By including this number in their financial plans, organizations can be more efficient and get a better return on their AI investments. [training-heavy startups](/use-cases/training-heavy-startups/) a complex model can cost between $50 and $100 million ([Epoch AI](https://epochai.org/data/epochdb/notable-ai-models), 2025), so understanding this metric is vital.
+For example, models from different providers have different prices. Knowing the cost per token helps businesses pick the best option. Cost per token data helps in making good decisions. Sure that AI projects give the most value for the money spent. By including this number in their financial plans, organizations can be more efficient and get a better return on their AI investments. [training-heavy startups](../use-cases/training-heavy-startups.md) a complex model can cost between $50 and $100 million ([Epoch AI](https://epochai.org/data/epochdb/notable-ai-models), 2025), so understanding this metric is vital.
 
 ## Estimating Token Usage for Different AI Applications
 
@@ -62,19 +62,19 @@ Optimizing token usage is very important for lowering AI compute costs. Prompt e
 
 Also, using techniques like truncation, where you limit how long the input or output is, can help control token use. Watching token use and finding areas to improve is also important. Regularly checking your AI applications and improving your strategies can lead to ongoing cost savings.
 
-[inference-heavy startups](/use-cases/inference-heavy-startups/) now makes up 60-70% of all AI compute spending (a16z State of AI, 2025). Imagine an AI chatbot used for customer support. By improving the prompts used to train the chatbot and limiting how long the answers are, a business can lower token use by 15-20% (internal data, 2025).
+[inference-heavy startups](../use-cases/inference-heavy-startups.md) now makes up 60-70% of all AI compute spending (a16z State of AI, 2025). Imagine an AI chatbot used for customer support. By improving the prompts used to train the chatbot and limiting how long the answers are, a business can lower token use by 15-20% (internal data, 2025).
 
 This can save a lot of money over time, especially for applications that are used a lot. Also, using caching to store and reuse common answers can lower the need to use tokens repeatedly. By using these strategies, organizations can manage their AI compute costs well and get the most out of their money.
 
 ## Leveraging CompuX for Cost-Effective AI Compute
 
-CompuX offers a place to buy and sell compute credits. By using CompuX, companies can greatly lower their AI compute costs and improve their budgets. CompuX lets you choose from many compute providers, so users can find the [cheapest LLM API access](/compare/cheap-llm-api-alternatives/) options for what they need. CompuX helps AI startups manage their AI compute costs well. By using CompuX, companies can save a lot of money and focus on innovating instead of worrying about compute costs.
+CompuX offers a place to buy and sell compute credits. By using CompuX, companies can greatly lower their AI compute costs and improve their budgets. CompuX lets you choose from many compute providers, so users can find the [cheapest LLM API access](../compare/cheap-llm-api-alternatives.md) options for what they need. CompuX helps AI startups manage their AI compute costs well. By using CompuX, companies can save a lot of money and focus on innovating instead of worrying about compute costs.
 
 For example, a company that uses models from different providers can switch between them to get the best prices and availability. Also, CompuX makes it easy to buy and manage compute credits, simplifying AI compute budgeting.
 
 [IDC](https://www.idc.com/)'s 2025 Spending Guide values the global AI infrastructure market at $150 billion, and growing. Compared to buying directly from providers, it offers lower costs by providing compute credits at discounted prices. This lets AI startups stay in business longer and spend more money on research and development.
 
-Also, it offers a clear and easy-to-use interface for watching compute use and managing budgets. By working with CompuX, organizations can use the full power of AI without spending too much money. To learn more, see [CompuX vs venture debt](/compare/compux-vs-venture-debt/) and [CompuX vs direct providers](/compare/compux-vs-direct-providers/).
+Also, it offers a clear and easy-to-use interface for watching compute use and managing budgets. By working with CompuX, organizations can use the full power of AI without spending too much money. To learn more, see [CompuX vs venture debt](../compare/compux-vs-venture-debt.md) and [CompuX vs direct providers](../compare/compux-vs-direct-providers.md).
 
 ## Tools and Resources for AI Compute Budget Management
 
@@ -114,9 +114,9 @@ You can use token estimator tools, cost tracking dashboards (like those provided
 
 ## Related Terms
 
-* [Compute Credits](/concepts/compute-credits/)
-* [Compute Marketplace](/concepts/compute-credit-marketplace/)
-* [Multi-Provider API](/concepts/multi-provider-llm-api/)
+* [Compute Credits](compute-credits.md)
+* [Compute Marketplace](compute-credit-marketplace.md)
+* [Multi-Provider API](multi-provider-llm-api.md)
 
 ## Get Started
 

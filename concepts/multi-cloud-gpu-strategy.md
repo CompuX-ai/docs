@@ -26,9 +26,9 @@ This active resource allocation can result in large cost savings. So, a multi-cl
 
 ## Benefits of a Multi-Cloud GPU Strategy
 
-A multi-cloud GPU strategy offers several key advantages. One major benefit is cost optimization. By using multiple providers, organizations can choose the most affordable options for different workloads. For example, they might use one provider for [training-heavy startups](/use-cases/training-heavy-startups/) and another for [inference-heavy startups](/use-cases/inference-heavy-startups/), depending on the specific pricing and performance characteristics of each platform. Flexibility is another large advantage. A multi-cloud approach allows companies to avoid vendor lock-in and select the best tools and services from each provider. This can lead to better performance and innovation.
+A multi-cloud GPU strategy offers several key advantages. One major benefit is cost optimization. By using multiple providers, organizations can choose the most affordable options for different workloads. For example, they might use one provider for [training-heavy startups](../use-cases/training-heavy-startups.md) and another for [inference-heavy startups](../use-cases/inference-heavy-startups.md), depending on the specific pricing and performance characteristics of each platform. Flexibility is another large advantage. A multi-cloud approach allows companies to avoid vendor lock-in and select the best tools and services from each provider. This can lead to better performance and innovation.
 
-Another compelling benefit of a multi-cloud GPU strategy is the enhanced resilience it provides. Relying on a single cloud provider creates a single point of failure. If that provider experiences an outage, all GPU-accelerated workloads will be affected. Distributing workloads across multiple clouds mitigates this risk. If one provider goes down, the other providers can continue to operate, ensuring business continuity. The number of [GPU cloud startups](/use-cases/gpu-cloud-startups/) providers tripled between 2023 and 2025 (Epoch AI). This increased competition drives innovation and provides more options for organizations seeking to implement a multi-cloud GPU strategy.
+Another compelling benefit of a multi-cloud GPU strategy is the enhanced resilience it provides. Relying on a single cloud provider creates a single point of failure. If that provider experiences an outage, all GPU-accelerated workloads will be affected. Distributing workloads across multiple clouds mitigates this risk. If one provider goes down, the other providers can continue to operate, ensuring business continuity. The number of [GPU cloud startups](../use-cases/gpu-cloud-startups.md) providers tripled between 2023 and 2025 (Epoch AI). This increased competition drives innovation and provides more options for organizations seeking to implement a multi-cloud GPU strategy.
 
 A multi-cloud setup also enables geographic diversity. Organizations can deploy workloads in different regions to improve performance for users around the world and to comply with local data sovereignty regulations. This is particularly important for companies with a global presence. Also, a multi-cloud GPU strategy can improve GPU utilization rates. Data-center GPUs sit idle more often than not; the [Stanford AI Index](https://aiindex.stanford.edu/report/) (2025) documents utilization rates of 30-50% industry-wide. By dynamically allocating workloads across multiple clouds, organizations can achieve higher utilization rates and reduce wasted resources. This leads to greater efficiency and lower costs.
 
@@ -58,11 +58,11 @@ Finally, organizations should adopt a DevOps culture to promote collaboration an
 
 ## How CompuX Supports Your Multi-Cloud GPU Strategy
 
-CompuX simplifies multi-cloud GPU management and cost optimization. Our marketplace connects AI startups with compute providers, offering access to a wide range of GPU resources across different clouds. We provide a unified platform for acquiring and managing compute credits, reducing the complexities associated with multi-cloud deployments. The OpenAI-compatible SDK allows you to switch between providers with minimal code changes. CompuX also offers financial infrastructure to support multi-cloud GPU strategies. We provide compute credit financing, allowing AI startups to scale their operations without  [training-heavy startups](/use-cases/training-heavy-startups/) their cash flow. This "Compute Credit Transfusion Engine" provides credit amplification through bulk purchasing and off-peak scheduling (25-50% multiplier).
+CompuX simplifies multi-cloud GPU management and cost optimization. Our marketplace connects AI startups with compute providers, offering access to a wide range of GPU resources across different clouds. We provide a unified platform for acquiring and managing compute credits, reducing the complexities associated with multi-cloud deployments. The OpenAI-compatible SDK allows you to switch between providers with minimal code changes. CompuX also offers financial infrastructure to support multi-cloud GPU strategies. We provide compute credit financing, allowing AI startups to scale their operations without  [training-heavy startups](../use-cases/training-heavy-startups.md) their cash flow. This "Compute Credit Transfusion Engine" provides credit amplification through bulk purchasing and off-peak scheduling (25-50% multiplier).
 
 By leveraging CompuX, organizations can focus on developing their AI models rather than managing the complexities of multi-cloud infrastructure. We act as a compute credit marketplace and token operator. CompuX helps optimize costs by providing access to off-peak compute resources and enabling marginal cost arbitrage. This means you can take advantage of lower prices during periods of reduced demand and switch between providers to access the most cost-effective GPU resources at any given time.
 
-With CompuX, you gain the flexibility and control needed to implement a successful multi-cloud GPU strategy. Compare [CompuX vs OpenRouter](/compare/compux-vs-openrouter/) or [CompuX vs Together AI](/compare/compux-vs-together-ai/) to see how we stack up.
+With CompuX, you gain the flexibility and control needed to implement a successful multi-cloud GPU strategy. Compare [CompuX vs OpenRouter](../compare/compux-vs-openrouter.md) or [CompuX vs Together AI](../compare/compux-vs-together-ai.md) to see how we stack up.
 
 ## Frequently Asked Questions
 
@@ -70,7 +70,7 @@ With CompuX, you gain the flexibility and control needed to implement a successf
 
 The main benefits include cost optimization, greater flexibility, improved resilience, and reduced vendor lock-in. A multi-cloud approach lets you pick the best services and pricing from different providers. You're not stuck with a single vendor's limitations or outages.
 
-[inference-heavy startups](/use-cases/inference-heavy-startups/) the majority of AI compute now goes to inference workloads, up from 30% in 2022 ([a16z](https://a16z.com/ai/) State of AI, 2025). Optimizing this spend is key, and multi-cloud helps. A multi-cloud GPU strategy can reduce costs by 20-40% compared to single-cloud deployments.
+[inference-heavy startups](../use-cases/inference-heavy-startups.md) the majority of AI compute now goes to inference workloads, up from 30% in 2022 ([a16z](https://a16z.com/ai/) State of AI, 2025). Optimizing this spend is key, and multi-cloud helps. A multi-cloud GPU strategy can reduce costs by 20-40% compared to single-cloud deployments.
 
 ### What are the biggest challenges in implementing a multi-cloud GPU strategy?
 
@@ -94,14 +94,14 @@ Cost optimization can be achieved by choosing the most affordable provider for e
 
 ## Related Terms
 
-* [Compute Credits](/concepts/compute-credits/)
-* [GPU Utilization](/concepts/gpu-utilization/)
-* [Compute Marketplace](/concepts/compute-credit-marketplace/)
-* [Multi-Provider API](/concepts/multi-provider-llm-api/)
-* [Marginal Cost Arbitrage](/concepts/marginal-cost-arbitrage/)
+* [Compute Credits](compute-credits.md)
+* [GPU Utilization](gpu-utilization.md)
+* [Compute Marketplace](compute-credit-marketplace.md)
+* [Multi-Provider API](multi-provider-llm-api.md)
+* [Marginal Cost Arbitrage](marginal-cost-arbitrage.md)
 
 ## Get Started
 
-Ready to unlock the power of multi-cloud GPU computing? Explore the CompuX marketplace and discover how CompuX can help you optimize costs, improve resilience, and accelerate your AI initiatives. According to our data, companies using a multi-cloud GPU strategy see a 20% improvement in AI model [training-heavy startups](/use-cases/training-heavy-startups/) times.
+Ready to unlock the power of multi-cloud GPU computing? Explore the CompuX marketplace and discover how CompuX can help you optimize costs, improve resilience, and accelerate your AI initiatives. According to our data, companies using a multi-cloud GPU strategy see a 20% improvement in AI model [training-heavy startups](../use-cases/training-heavy-startups.md) times.
 
 [Get Started with CompuX]

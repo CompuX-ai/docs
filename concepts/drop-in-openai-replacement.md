@@ -21,7 +21,7 @@ A drop-in OpenAI replacement API is a crucial tool for AI startups seeking flexi
 
 Using a drop-in OpenAI replacement API offers several advantages. One of the primary benefits is cost optimization. Different providers offer varying pricing models. By switching to an alternative API, AI startups can potentially reduce their AI infrastructure expenses. Another key advantage is diversification. Relying on a single provider can be risky, as outages or changes in pricing can significantly impact operations. By using multiple APIs from different providers like OpenAI, Anthropic. Meta, companies can mitigate this risk and ensure business continuity. Also, alternative APIs may offer access to specialized models that are better suited for specific tasks, improving performance and accuracy.
 
-Switching to a drop-in OpenAI replacement API can lead to large cost savings for AI startups. For instance, AI teams routinely allocate the majority of their budget to compute ([a16z State of AI](https://a16z.com/ai/), 2025), so any reduction in compute costs can extend their operational lifespan. By leveraging different pricing models and compute credit options, startups can reduce their AI infrastructure expenses. The CompuX marketplace helps to identify where those savings can be found. [CompuX vs cloud credits](/compare/compux-vs-cloud-credits/) can lead to large savings.
+Switching to a drop-in OpenAI replacement API can lead to large cost savings for AI startups. For instance, AI teams routinely allocate the majority of their budget to compute ([a16z State of AI](https://a16z.com/ai/), 2025), so any reduction in compute costs can extend their operational lifespan. By leveraging different pricing models and compute credit options, startups can reduce their AI infrastructure expenses. The CompuX marketplace helps to identify where those savings can be found. [CompuX vs cloud credits](../compare/compux-vs-cloud-credits.md) can lead to large savings.
 
 ## Key Features to Look for in an OpenAI Alternative
 
@@ -42,7 +42,7 @@ When evaluating drop-in OpenAI replacement APIs, several key features should be 
 
 Cost savings are a major driver for adopting drop-in OpenAI alternatives. AI startups spend a large portion of their funding on compute resources. By switching to alternative APIs, these startups can reduce their operational expenses and extend their runway. The ability to switch between providers allows them to take advantage of competitive pricing and optimize their spending based on usage patterns.
 
-The potential for cost savings with drop-in OpenAI alternatives is large, especially considering that AI teams routinely allocate the majority of their budget to compute ([a16z](https://a16z.com/ai/) State of AI, 2025). For a Series A AI startup burning $20-80K/month on [inference-heavy startups](/use-cases/inference-heavy-startups/) and [training-heavy startups](/use-cases/training-heavy-startups/), even a 20-30% reduction in compute costs can free up valuable capital for other critical areas like product development and marketing. This cost optimization can be achieved through several mechanisms. First, alternative providers may offer more competitive pricing for similar performance levels. Second, by diversifying across multiple providers, startups can use spot pricing and off-peak compute options to further reduce costs. Finally, platforms like CompuX offer compute credit programs that can provide additional discounts and incentives. In the end, the ability to seamlessly switch between APIs and optimize compute spending is a key advantage for AI startups looking to maximize their resources and extend their runway. [CompuX vs OpenRouter](/compare/compux-vs-openrouter/) can help reduce costs.
+The potential for cost savings with drop-in OpenAI alternatives is large, especially considering that AI teams routinely allocate the majority of their budget to compute ([a16z](https://a16z.com/ai/) State of AI, 2025). For a Series A AI startup burning $20-80K/month on [inference-heavy startups](../use-cases/inference-heavy-startups.md) and [training-heavy startups](../use-cases/training-heavy-startups.md), even a 20-30% reduction in compute costs can free up valuable capital for other critical areas like product development and marketing. This cost optimization can be achieved through several mechanisms. First, alternative providers may offer more competitive pricing for similar performance levels. Second, by diversifying across multiple providers, startups can use spot pricing and off-peak compute options to further reduce costs. Finally, platforms like CompuX offer compute credit programs that can provide additional discounts and incentives. In the end, the ability to seamlessly switch between APIs and optimize compute spending is a key advantage for AI startups looking to maximize their resources and extend their runway. [CompuX vs OpenRouter](../compare/compux-vs-openrouter.md) can help reduce costs.
 
 ## Performance Benchmarks: Comparing OpenAI and Alternatives
 
@@ -60,7 +60,7 @@ Switching to a drop-in OpenAI replacement API requires careful planning and exec
 
 CompuX provides a marketplace to discover and access various drop-in OpenAI replacement APIs. CompuX offers a range of providers, including OpenAI, Anthropic, Google. Meta, allowing you to compare different options and select the best fit for your needs. CompuX also simplifies the process of switching APIs and managing AI infrastructure expenses with compute credit options. CompuX acts as a central hub for AI startups looking to explore drop-in OpenAI replacement APIs. It aggregates a variety of providers, including OpenAI, Anthropic, Google, Meta. Mistral, making it easy to compare different options and find the best fit for your specific requirements. By offering a range of providers, it allows AI startups to diversify their compute resources and mitigate the risk of vendor lock-in.
 
-Also to providing access to a wide range of APIs, it also simplifies the process of managing AI infrastructure expenses. Also, it provides tools and resources to help developers switch between APIs seamlessly, reducing the time and effort required to integrate new models into existing applications. [CompuX vs Together AI](/compare/compux-vs-together-ai/) can help you decide.
+Also to providing access to a wide range of APIs, it also simplifies the process of managing AI infrastructure expenses. Also, it provides tools and resources to help developers switch between APIs seamlessly, reducing the time and effort required to integrate new models into existing applications. [CompuX vs Together AI](../compare/compux-vs-together-ai.md) can help you decide.
 
 ## Why CompuX for Your AI API Needs?
 
@@ -98,10 +98,10 @@ The accuracy of drop-in replacements can vary depending on the specific model an
 
 ## Related Terms
 
-* [Compute Credits](/concepts/compute-credits/)
-* [Compute Marketplace](/concepts/compute-credit-marketplace/)
-* [Multi-Provider API](/concepts/multi-provider-llm-api/)
-* [Token Operator](/concepts/token-operator-guide/)
+* [Compute Credits](compute-credits.md)
+* [Compute Marketplace](compute-credit-marketplace.md)
+* [Multi-Provider API](multi-provider-llm-api.md)
+* [Token Operator](token-operator-guide.md)
 
 ## Get Started
 

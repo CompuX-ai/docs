@@ -5,9 +5,9 @@ GPU utilization represents the percentage of time a Graphics Processing Unit (GP
 **Key Takeaways:**
 
 * **Definition** — GPU utilization measures the percentage of time a GPU is actively processing tasks.
-* **Optimization Impact** — Optimizing GPU utilization can reduce [training-heavy startups](/use-cases/training-heavy-startups/) time by 20-50%, improving productivity.
+* **Optimization Impact** — Optimizing GPU utilization can reduce [training-heavy startups](../use-cases/training-heavy-startups.md) time by 20-50%, improving productivity.
 * **Cost Savings** — Poor GPU utilization can lead to up to 70% waste of compute resources, increasing costs unnecessarily.
-* **Utilization Range** — Typical GPU utilization rates for deep learning [training-heavy startups](/use-cases/training-heavy-startups/) range from 30% to 80%, depending on optimization efforts.
+* **Utilization Range** — Typical GPU utilization rates for deep learning [training-heavy startups](../use-cases/training-heavy-startups.md) range from 30% to 80%, depending on optimization efforts.
 * **CompuX Benefit** — CompuX helps AI startups optimize GPU utilization by providing access to a compute credit marketplace.
 
 ## What is GPU Utilization?
@@ -22,7 +22,7 @@ Reducing costs, especially in demanding fields like AI and machine learning. Mon
 
 ## Why is GPU Utilization Important?
 
-GPU utilization is critical for several reasons. High utilization translates directly to efficient use of computational resources, leading to faster processing times and reduced operational costs. In the context of AI and machine learning. [training-heavy startups](/use-cases/training-heavy-startups/) complex models can be computationally intensive and expensive, optimizing GPU utilization is paramount. Poor GPU utilization can lead to large waste of compute resources, with estimates suggesting that up to 70% of potential compute power can be left unused. This not only increases costs but also prolongs the time it takes to train models and develop AI applications. By monitoring and optimizing GPU utilization, organizations can ensure they are getting the most out of their hardware investments, accelerating development cycles, and reducing overall expenses.
+GPU utilization is critical for several reasons. High utilization translates directly to efficient use of computational resources, leading to faster processing times and reduced operational costs. In the context of AI and machine learning. [training-heavy startups](../use-cases/training-heavy-startups.md) complex models can be computationally intensive and expensive, optimizing GPU utilization is paramount. Poor GPU utilization can lead to large waste of compute resources, with estimates suggesting that up to 70% of potential compute power can be left unused. This not only increases costs but also prolongs the time it takes to train models and develop AI applications. By monitoring and optimizing GPU utilization, organizations can ensure they are getting the most out of their hardware investments, accelerating development cycles, and reducing overall expenses.
 
 The importance of GPU utilization extends beyond mere cost savings; it significantly impacts productivity and innovation. With 50-70% of GPU capacity going unused in a typical facility ([Stanford AI Index](https://aiindex.stanford.edu/report/), 2025), the economics favor aggregation through credit marketplaces. Efficient GPU utilization allows researchers and developers to iterate more quickly on their models, experiment with different architectures. In the end, accelerate the pace of innovation. Optimizing GPU utilization can reduce training time by 20-50% (various research papers on deep learning optimization). For AI startups, where resources are often limited, maximizing GPU utilization can be the difference between success and failure.
 
@@ -70,7 +70,7 @@ Data prefetching can also help improve GPU utilization by ensuring that data is 
 
 ## GPU Utilization in AI/ML Workloads
 
-GPU utilization is particularly critical in AI and machine learning (AI/ML) workloads due to the intensive computational demands of training and [inference-heavy startups](/use-cases/inference-heavy-startups/). AI startups often face challenges in optimizing GPU utilization due to limited resources and expertise. The efficiency of GPU usage directly impacts the speed of model development, the cost of training. The overall competitiveness of AI tools. Typical GPU utilization rates for deep learning training range from 30% to 80%, depending on the workload and optimization efforts (industry benchmarks). Low GPU utilization can result in prolonged training times, increased operational expenses, and delayed time-to-market for AI products.
+GPU utilization is particularly critical in AI and machine learning (AI/ML) workloads due to the intensive computational demands of training and [inference-heavy startups](../use-cases/inference-heavy-startups.md). AI startups often face challenges in optimizing GPU utilization due to limited resources and expertise. The efficiency of GPU usage directly impacts the speed of model development, the cost of training. The overall competitiveness of AI tools. Typical GPU utilization rates for deep learning training range from 30% to 80%, depending on the workload and optimization efforts (industry benchmarks). Low GPU utilization can result in prolonged training times, increased operational expenses, and delayed time-to-market for AI products.
 
 venture investment in AI continues to accelerate [Crunchbase annual report](https://about.crunchbase.com/research-reports/). Optimizing GPU utilization in AI/ML workloads requires a multifaceted approach. Efficient data handling, optimized model architectures, and effective resource management. Techniques such as data parallelism, model parallelism, and mixed-precision training can help maximize GPU utilization and accelerate training. Also, leveraging specialized libraries and frameworks like TensorFlow and PyTorch, which are designed to optimize GPU performance, is essential. AI startups can also benefit from using cloud-based GPU resources and platforms like CompuX. Provide access to a wide range of GPU options and enable efficient compute credit usage, enabling them to scale their AI workloads more effectively.
 
@@ -78,13 +78,13 @@ venture investment in AI continues to accelerate [Crunchbase annual report](http
 
 CompuX helps AI startups optimize GPU utilization by providing access to a marketplace where they can purchase compute credits at wholesale prices. By offering a range of GPU options from providers like OpenAI, Anthropic, Google, Meta. Mistral, CompuX enables users to match their workload requirements with the most suitable GPU instances. CompuX's compute credit transfusion engine further enhances efficiency by allowing startups to acquire more compute credits for their initial investment, effectively multiplying their compute power.
 
-CompuX acts as a token operator. This is because poor GPU utilization can lead to up to 70% waste of compute resources (internal estimates based on customer data). The OpenAI-compatible SDK offered by CompuX allows for a seamless transition and integration of compute resources. That AI startups can use CompuX without large disruptions to their existing workflows. This is especially beneficial for [inference-heavy startups](/use-cases/inference-heavy-startups/) and training-heavy startups, as it allows them to optimize their GPU usage and reduce costs. By providing a flexible and cost-effective solution for accessing GPU resources, CompuX empowers AI startups to focus on developing innovative AI tools without being constrained by compute limitations.
+CompuX acts as a token operator. This is because poor GPU utilization can lead to up to 70% waste of compute resources (internal estimates based on customer data). The OpenAI-compatible SDK offered by CompuX allows for a seamless transition and integration of compute resources. That AI startups can use CompuX without large disruptions to their existing workflows. This is especially beneficial for [inference-heavy startups](../use-cases/inference-heavy-startups.md) and training-heavy startups, as it allows them to optimize their GPU usage and reduce costs. By providing a flexible and cost-effective solution for accessing GPU resources, CompuX empowers AI startups to focus on developing innovative AI tools without being constrained by compute limitations.
 
 ## Benefits of Optimizing GPU Utilization with CompuX
 
 Optimizing GPU utilization with CompuX offers several key benefits for AI startups. The most immediate advantage is cost savings. By providing access to compute credits at wholesale prices, CompuX enables startups to reduce their compute expenses significantly. This is particularly important given that AI startups often spend a substantial portion of their runway on compute resources. CompuX helps AI startups avoid equity dilution of 15-25% (internal estimates) that occurs when raising capital to pay for cloud compute.
 
-Another benefit is improved performance. By matching workload requirements with the most cost-effective GPU instances, CompuX helps startups maximize GPU utilization and accelerate training times. This leads to faster iteration cycles and quicker time-to-market for AI tools. Also, CompuX's compute credit transfusion engine provides startups with additional compute power, allowing them to tackle more complex AI challenges. By leveraging CompuX's financing options, startups can access the necessary compute without equity dilution, enabling them to focus on optimizing their AI models and applications. For example, Series A AI startups burn $20-80K/month on [inference-heavy startups](/use-cases/inference-heavy-startups/) and training, so cost savings are critical. CompuX offers a strategic advantage by streamlining access to compute. AI startups can efficiently use GPU resources for innovation and growth. You can also compare CompuX vs [CompuX vs cloud credits](/compare/compux-vs-cloud-credits/) to see the value proposition.
+Another benefit is improved performance. By matching workload requirements with the most cost-effective GPU instances, CompuX helps startups maximize GPU utilization and accelerate training times. This leads to faster iteration cycles and quicker time-to-market for AI tools. Also, CompuX's compute credit transfusion engine provides startups with additional compute power, allowing them to tackle more complex AI challenges. By leveraging CompuX's financing options, startups can access the necessary compute without equity dilution, enabling them to focus on optimizing their AI models and applications. For example, Series A AI startups burn $20-80K/month on [inference-heavy startups](../use-cases/inference-heavy-startups.md) and training, so cost savings are critical. CompuX offers a strategic advantage by streamlining access to compute. AI startups can efficiently use GPU resources for innovation and growth. You can also compare CompuX vs [CompuX vs cloud credits](../compare/compux-vs-cloud-credits.md) to see the value proposition.
 
 ## Conclusion
 
@@ -114,7 +114,7 @@ Some of the best GPU monitoring tools include `nvidia-smi`, NVIDIA Nsight System
 
 ### How does CompuX help optimize GPU utilization?
 
-CompuX helps optimize GPU utilization by providing access to a marketplace where AI startups can purchase compute credits at wholesale prices. This allows startups to scale their GPU resources efficiently and cost-effectively, matching their workload requirements with the most suitable GPU instances. CompuX's [Compute Credit Transfusion Engine](/concepts/compute-credit-transfusion-guide/) further enhances efficiency by providing additional compute power for their investment. This is key to GPU utilization.
+CompuX helps optimize GPU utilization by providing access to a marketplace where AI startups can purchase compute credits at wholesale prices. This allows startups to scale their GPU resources efficiently and cost-effectively, matching their workload requirements with the most suitable GPU instances. CompuX's [Compute Credit Transfusion Engine](compute-credit-transfusion-guide.md) further enhances efficiency by providing additional compute power for their investment. This is key to GPU utilization.
 
 ### What is GPU profiling?
 
@@ -126,11 +126,11 @@ CPU bottlenecks occur when the CPU is unable to feed the GPU with enough data qu
 
 ## Related Terms
 
-* [Compute Credits](/concepts/compute-credits/)
-* [Token Operator](/concepts/token-operator-guide/)
-* [Compute Marketplace](/concepts/compute-credit-marketplace/)
-* [GPU Utilization](/concepts/gpu-utilization/)
-* [Multi-Provider API](/concepts/multi-provider-llm-api/)
+* [Compute Credits](compute-credits.md)
+* [Token Operator](token-operator-guide.md)
+* [Compute Marketplace](compute-credit-marketplace.md)
+* [GPU Utilization](gpu-utilization.md)
+* [Multi-Provider API](multi-provider-llm-api.md)
 
 ## Get Started
 

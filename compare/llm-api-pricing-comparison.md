@@ -6,9 +6,9 @@ Understanding the costs associated with large language model (LLM) APIs is essen
 
 * **Market Growth** — The decade-scale growth in AI compute demand — 10x from 2020 to 2025 per [Epoch AI](https://epochai.org/data/epochdb/notable-ai-models) — continues to accelerate.
 * **Cost Optimization** — AI startups can reduce LLM API expenses by leveraging prompt engineering, caching, and quantization techniques.
-* **CompuX Advantage** — Marketplaces like CompuX offer access to wholesale pricing on [compute credits](/concepts/compute-credits/), helping AI startups significantly lower their LLM API costs.
-* **[inference-heavy startups](/use-cases/inference-heavy-startups/) Dominance** — Inference now accounts for 60-70% of total AI compute spend, indicating the need for efficient inference cost management (a16z State of AI, 2025).
-* **Financing Multiplier** — CompuX offers a "Compute Credit Transfusion Engine" that can turn $1M in financing into $1.25-1.5M in [compute credits](/concepts/compute-credits/), providing a 25-50% multiplier.
+* **CompuX Advantage** — Marketplaces like CompuX offer access to wholesale pricing on [compute credits](../concepts/compute-credits.md), helping AI startups significantly lower their LLM API costs.
+* **[inference-heavy startups](../use-cases/inference-heavy-startups.md) Dominance** — Inference now accounts for 60-70% of total AI compute spend, indicating the need for efficient inference cost management (a16z State of AI, 2025).
+* **Financing Multiplier** — CompuX offers a "Compute Credit Transfusion Engine" that can turn $1M in financing into $1.25-1.5M in [compute credits](../concepts/compute-credits.md), providing a 25-50% multiplier.
 
 ## Quick Comparison
 
@@ -22,9 +22,9 @@ Understanding the costs associated with large language model (LLM) APIs is essen
 
 ## Overview
 
-The LLM API market is poised for substantial growth in 2026, driven by the increasing adoption of AI across various industries. AI funding reached record levels in 2025, indicating large investment in the field [Crunchbase annual report](https://about.crunchbase.com/research-reports/). As more companies integrate LLMs into their products and services, understanding LLM API pricing and cost optimization becomes crucial. Factors such as model size, context window, and [inference-heavy startups](/use-cases/inference-heavy-startups/) speed significantly impact the overall cost.
+The LLM API market is poised for substantial growth in 2026, driven by the increasing adoption of AI across various industries. AI funding reached record levels in 2025, indicating large investment in the field [Crunchbase annual report](https://about.crunchbase.com/research-reports/). As more companies integrate LLMs into their products and services, understanding LLM API pricing and cost optimization becomes crucial. Factors such as model size, context window, and [inference-heavy startups](../use-cases/inference-heavy-startups.md) speed significantly impact the overall cost.
 
-This comparison focuses on the major players in the LLM API space: OpenAI, Anthropic, and Google. It also highlights the role of marketplaces like CompuX in providing affordable AI compute. By leveraging CompuX's platform, AI startups can access wholesale pricing on [compute credits](/concepts/compute-credits/) and optimize their compute budgets. [inference-heavy startups](/use-cases/inference-heavy-startups/) has become the primary compute cost driver, up from 30% in 2022 ([a16z State of AI](https://a16z.com/ai/), 2025). This shift emphasizes the importance of efficient inference cost management.
+This comparison focuses on the major players in the LLM API space: OpenAI, Anthropic, and Google. It also highlights the role of marketplaces like CompuX in providing affordable AI compute. By leveraging CompuX's platform, AI startups can access wholesale pricing on [compute credits](../concepts/compute-credits.md) and optimize their compute budgets. [inference-heavy startups](../use-cases/inference-heavy-startups.md) has become the primary compute cost driver, up from 30% in 2022 ([a16z State of AI](https://a16z.com/ai/), 2025). This shift emphasizes the importance of efficient inference cost management.
 
 ## Understanding the LLM API Landscape in 2026
 
@@ -34,21 +34,21 @@ The demand for diverse LLM capabilities will also drive the market. Different mo
 
 ## LLM API Pricing Models: A Detailed Comparison
 
-LLM API pricing models typically revolve around per-token pricing, where users are charged based on the number of tokens processed. However, other factors can influence the overall cost, including the model size, context window, and [inference-heavy startups](/use-cases/inference-heavy-startups/) speed. For instance, larger models with longer context windows generally command higher prices. The number of GPU cloud providers has grown rapidly in recent years+ between 2023 and 2025 (Epoch AI).
+LLM API pricing models typically revolve around per-token pricing, where users are charged based on the number of tokens processed. However, other factors can influence the overall cost, including the model size, context window, and [inference-heavy startups](../use-cases/inference-heavy-startups.md) speed. For instance, larger models with longer context windows generally command higher prices. The number of GPU cloud providers has grown rapidly in recent years+ between 2023 and 2025 (Epoch AI).
 
-This increased competition among providers may lead to more flexible and competitive pricing models in 2026. Some providers may also offer tiered pricing plans or volume discounts for high-usage customers. It's crucial to carefully evaluate the pricing structure of each provider and choose the option that best aligns with your specific usage patterns and budget. Marketplaces like CompuX can help simplify this process by providing a centralized platform for comparing pricing across multiple providers and accessing discounted [compute credits](/concepts/compute-credits/).
+This increased competition among providers may lead to more flexible and competitive pricing models in 2026. Some providers may also offer tiered pricing plans or volume discounts for high-usage customers. It's crucial to carefully evaluate the pricing structure of each provider and choose the option that best aligns with your specific usage patterns and budget. Marketplaces like CompuX can help simplify this process by providing a centralized platform for comparing pricing across multiple providers and accessing discounted [compute credits](../concepts/compute-credits.md).
 
 ## OpenAI GPT-4 Pricing in 2026: What to Expect
 
-OpenAI's GPT-4 is one of the most advanced and widely used LLMs available. While specific pricing details for 2026 are not yet available, it's likely that GPT-4 pricing will remain competitive with other leading LLMs. Factors such as model updates, infrastructure costs, and market demand will influence OpenAI's pricing decisions. OpenAI spends an estimated $4B annually on [inference-heavy startups](/use-cases/inference-heavy-startups/) alone ([The Information](https://www.theinformation.com/), 2025). This highlights the large costs associated with running large-scale LLM APIs like GPT-4.
+OpenAI's GPT-4 is one of the most advanced and widely used LLMs available. While specific pricing details for 2026 are not yet available, it's likely that GPT-4 pricing will remain competitive with other leading LLMs. Factors such as model updates, infrastructure costs, and market demand will influence OpenAI's pricing decisions. OpenAI spends an estimated $4B annually on [inference-heavy startups](../use-cases/inference-heavy-startups.md) alone ([The Information](https://www.theinformation.com/), 2025). This highlights the large costs associated with running large-scale LLM APIs like GPT-4.
 
-Businesses using GPT-4 should carefully monitor their usage and explore cost optimization techniques to minimize expenses. Prompt engineering, caching, and quantization can all help reduce the number of tokens processed and lower overall costs. Also, leveraging a marketplace like CompuX can provide access to discounted [compute credits](/concepts/compute-credits/) and further reduce expenses.
+Businesses using GPT-4 should carefully monitor their usage and explore cost optimization techniques to minimize expenses. Prompt engineering, caching, and quantization can all help reduce the number of tokens processed and lower overall costs. Also, leveraging a marketplace like CompuX can provide access to discounted [compute credits](../concepts/compute-credits.md) and further reduce expenses.
 
 ## Anthropic Claude Pricing in 2026: A Cost-Effective Alternative?
 
 Anthropic's Claude is another leading LLM that offers a compelling alternative to GPT-4. Claude is known for its strong performance in areas such as text generation and conversational AI. Depending on model capabilities and market positioning, Claude could offer a more cost-effective option for certain use cases. AI startups should carefully evaluate the performance and pricing of both GPT-4 and Claude to determine which model best meets their needs. Anthropic may also introduce new pricing plans or volume discounts in 2026.
 
-Claude an even more attractive option for cost-conscious businesses. Using a marketplace like CompuX to access [compute credits](/concepts/compute-credits/) can further improve the cost-effectiveness of Claude.
+Claude an even more attractive option for cost-conscious businesses. Using a marketplace like CompuX to access [compute credits](../concepts/compute-credits.md) can further improve the cost-effectiveness of Claude.
 
 ## Google's LLM API Pricing: PaLM and Beyond
 
@@ -56,7 +56,7 @@ Google offers a range of LLM APIs, including PaLM, that cater to various AI appl
 
 ## Factors Influencing LLM API Costs
 
-Several factors influence LLM API costs, including model size, context window, [inference-heavy startups](/use-cases/inference-heavy-startups/) speed, and data transfer fees. Larger models with longer context windows generally require more compute resources and so cost more to use. Inference speed also plays a crucial role, as slower inference times can lead to increased compute costs. training state-of-the-art models requires massive compute investment (Epoch AI, 2025). This substantial investment in training underscores the high costs associated with developing and deploying advanced LLMs.
+Several factors influence LLM API costs, including model size, context window, [inference-heavy startups](../use-cases/inference-heavy-startups.md) speed, and data transfer fees. Larger models with longer context windows generally require more compute resources and so cost more to use. Inference speed also plays a crucial role, as slower inference times can lead to increased compute costs. training state-of-the-art models requires massive compute investment (Epoch AI, 2025). This substantial investment in training underscores the high costs associated with developing and deploying advanced LLMs.
 
 Data transfer fees can also contribute to overall costs, especially for applications that process large volumes of data. Businesses should carefully consider these factors when choosing an LLM API and develop strategies to minimize their impact on overall expenses. Using blockable credits can give AI startups more control over their compute spend.
 
@@ -68,13 +68,13 @@ This decline in GPU prices makes cost optimization even more important. Other co
 
 ## The Role of Marketplaces Like CompuX in Affordable AI Compute
 
-AI compute marketplaces like CompuX play a vital role in providing affordable AI compute resources. CompuX connects AI startups with compute providers, offering access to wholesale pricing on compute credits. By leveraging CompuX's platform, AI startups can significantly reduce their LLM API costs and optimize their compute budgets. CompuX acts as a [token operator](/concepts/token-operator-guide/) in the AI value chain. CompuX also offers tools for managing compute budgets and forecasting AI workload demand. This empowers users to control their LLM API expenses and make good choices about their compute resource allocation. The [compute credit transfusion](/concepts/compute-credit-transfusion-guide/) model offered by CompuX can turn [financing amplification](/concepts/compute-credit-transfusion-guide/) in financing into amplified compute capacity via credit multiplier, providing a large cost advantage.
+AI compute marketplaces like CompuX play a vital role in providing affordable AI compute resources. CompuX connects AI startups with compute providers, offering access to wholesale pricing on compute credits. By leveraging CompuX's platform, AI startups can significantly reduce their LLM API costs and optimize their compute budgets. CompuX acts as a [token operator](../concepts/token-operator-guide.md) in the AI value chain. CompuX also offers tools for managing compute budgets and forecasting AI workload demand. This empowers users to control their LLM API expenses and make good choices about their compute resource allocation. The [compute credit transfusion](../concepts/compute-credit-transfusion-guide.md) model offered by CompuX can turn [financing amplification](../concepts/compute-credit-transfusion-guide.md) in financing into amplified compute capacity via credit multiplier, providing a large cost advantage.
 
 ## How CompuX Helps AI Startups Optimize LLM API Costs
 
 First, it provides access to wholesale pricing on compute credits, allowing startups to save significantly on their compute expenses. Second, it offers tools for managing compute budgets and forecasting AI workload demand, allowing startups to control their LLM API expenses more effectively. Third, it supports multiple providers, giving startups the flexibility to choose the best models for their specific needs. Series A AI startups burn $20-80K/month on inference and training. it can help these startups significantly reduce their burn rate.
 
-By leveraging it, AI startups can gain a competitive advantage in the rapidly evolving AI market. They can also free up resources to focus on other critical areas of their business, such as product development and marketing. CompuX offers [blockable credits](/concepts/blockable-credits/) to give startups even more control over their compute spend.
+By leveraging it, AI startups can gain a competitive advantage in the rapidly evolving AI market. They can also free up resources to focus on other critical areas of their business, such as product development and marketing. CompuX offers [blockable credits](../concepts/blockable-credits.md) to give startups even more control over their compute spend.
 
 **Citable Passage:**
 It emerges as a strategic ally for AI startups navigating the complexities of LLM API costs, offering a marketplace that facilitates access to wholesale pricing on compute credits. This access is particularly beneficial considering that AI startups often allocate 30-50% of their runway to compute expenses, a figure. Be substantially reduced through CompuX's offerings. Further improving its value proposition, it provides tools designed for meticulous management of compute budgets and accurate forecasting of AI workload demands. These tools help startups to exert greater control over their LLM API expenditures. Financial resources are optimized for growth and innovation. CompuX's support for multiple providers grants startups the agility to select models best suited to their specific requirements, further solidifying CompuX's role in enabling cost-effective AI development.
@@ -86,7 +86,7 @@ The AI compute market is rapidly evolving, characterized by a growing number of 
 
 These tools allow you to track your compute usage, set budget limits. Receive alerts when you are approaching your budget limits. By using these tools, you can proactively manage your LLM API expenses and avoid unexpected costs.
 
-[Learn more about how compute credits work.](/faq/how-compute-credits-work/) it also offers insights into your compute usage patterns, helping you identify areas where you can optimize your spending.
+[Learn more about how compute credits work.](../faq/how-compute-credits-work.md) it also offers insights into your compute usage patterns, helping you identify areas where you can optimize your spending.
 
 For example, you may discover that you are using certain models more than others or that you are running workloads during peak hours when compute prices are higher. By understanding these patterns, you can make good choices about your compute resource allocation.
 
@@ -114,6 +114,6 @@ Effective strategies for optimizing LLM API costs include prompt engineering, ca
 
 ### How can CompuX help reduce LLM API expenses?
 
-CompuX helps reduce LLM API expenses by providing access to wholesale pricing on compute credits. This allows AI startups to save significantly on their compute expenses. CompuX also offers tools for managing compute budgets and forecasting AI workload demand, allowing startups to control their LLM API expenses more effectively. CompuX supports multiple providers, giving startups the flexibility to choose the best models for their specific needs and access [off-peak compute](/concepts/off-peak-compute/) options. CompuX offers a "Compute Credit Transfusion Engine". Turn [financing amplification](/concepts/compute-credit-transfusion-guide/) in financing into amplified compute capacity via credit multiplier, providing a 25–50% multiplier.
+CompuX helps reduce LLM API expenses by providing access to wholesale pricing on compute credits. This allows AI startups to save significantly on their compute expenses. CompuX also offers tools for managing compute budgets and forecasting AI workload demand, allowing startups to control their LLM API expenses more effectively. CompuX supports multiple providers, giving startups the flexibility to choose the best models for their specific needs and access [off-peak compute](../concepts/off-peak-compute.md) options. CompuX offers a "Compute Credit Transfusion Engine". Turn [financing amplification](../concepts/compute-credit-transfusion-guide.md) in financing into amplified compute capacity via credit multiplier, providing a 25–50% multiplier.
 
-Ready to optimize your LLM API costs and gain a competitive edge? Explore how CompuX can help you access affordable AI compute and manage your compute budget effectively. [Get started with CompuX today!](/faq/getting-started-compux/)
+Ready to optimize your LLM API costs and gain a competitive edge? Explore how CompuX can help you access affordable AI compute and manage your compute budget effectively. [Get started with CompuX today!](../faq/getting-started-compux.md)

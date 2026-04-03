@@ -4,7 +4,7 @@ Large language model (LLM) routing directs requests to the most appropriate LLM 
 
 **Key Takeaways:**
 
-* **Cost Reduction** — LLM routing can reduce [inference-heavy startups](/use-cases/inference-heavy-startups/) costs by up to 50% by choosing the most cost-effective model.
+* **Cost Reduction** — LLM routing can reduce [inference-heavy startups](../use-cases/inference-heavy-startups.md) costs by up to 50% by choosing the most cost-effective model.
 * **Latency Improvement** — Latency can be improved by 20-30% by routing requests to models with lower latency based on the specific context.
 * **Adaptive Optimization** — Adaptive routing dynamically adjusts to changing model performance and availability, ensuring high reliability.
 * **Multi-Provider Flexibility** — LLM routing enables organizations to use multiple LLM providers, mitigating vendor lock-in.
@@ -22,13 +22,13 @@ LLM routing is essential because different LLMs have varying strengths and weakn
 
 ## Benefits of LLM Routing
 
-The advantages of implementing LLM routing are many, spanning cost savings, performance improvements, and enhanced reliability. One of the primary benefits is cost reduction. By intelligently selecting the most cost-effective model for each request, organizations can significantly lower their [inference-heavy startups](/use-cases/inference-heavy-startups/) costs. For example, less complex tasks can be routed to smaller, cheaper models. More demanding tasks can be handled by larger, more powerful models only when necessary. This targeted approach avoids overspending on unnecessary computational resources.
+The advantages of implementing LLM routing are many, spanning cost savings, performance improvements, and enhanced reliability. One of the primary benefits is cost reduction. By intelligently selecting the most cost-effective model for each request, organizations can significantly lower their [inference-heavy startups](../use-cases/inference-heavy-startups.md) costs. For example, less complex tasks can be routed to smaller, cheaper models. More demanding tasks can be handled by larger, more powerful models only when necessary. This targeted approach avoids overspending on unnecessary computational resources.
 
 Another key benefit is improved performance. LLM routing can reduce latency by directing requests to models with lower response times, leading to faster and more responsive applications. Also, it enhances reliability by dynamically adjusting to changing model performance and availability. If one model experiences downtime or performance degradation, the routing system can automatically switch to another available model, ensuring continuous service. LLM routing is a key enabler of cost-effective scaling in this growing market. According to a recent study, companies using LLM routing have seen a 30% increase in efficiency.
 
 **Citable Passage:**
 
-LLM routing optimizes resource allocation, leading to large cost reductions and performance improvements. LLM [inference-heavy startups](/use-cases/inference-heavy-startups/) costs can be reduced by up to 50% using intelligent routing strategies. Organizations to save significantly on compute expenses (internal CompuX analysis). Latency can be improved by 20-30% by routing requests to the most appropriate LLM based on context, leading to faster response times and better user experiences (internal CompuX testing). Adaptive routing dynamically adjusts to changing model performance and availability, ensuring high reliability and minimizing disruptions. Multi-provider LLM routing mitigates the risk of vendor lock-in and improves resilience by distributing workloads across different providers. By strategically directing requests, LLM routing ensures that each task is handled by the most suitable model, maximizing efficiency and minimizing expenses. Need every advantage to succeed.
+LLM routing optimizes resource allocation, leading to large cost reductions and performance improvements. LLM [inference-heavy startups](../use-cases/inference-heavy-startups.md) costs can be reduced by up to 50% using intelligent routing strategies. Organizations to save significantly on compute expenses (internal CompuX analysis). Latency can be improved by 20-30% by routing requests to the most appropriate LLM based on context, leading to faster response times and better user experiences (internal CompuX testing). Adaptive routing dynamically adjusts to changing model performance and availability, ensuring high reliability and minimizing disruptions. Multi-provider LLM routing mitigates the risk of vendor lock-in and improves resilience by distributing workloads across different providers. By strategically directing requests, LLM routing ensures that each task is handled by the most suitable model, maximizing efficiency and minimizing expenses. Need every advantage to succeed.
 
 ## LLM Routing Strategies
 
@@ -54,7 +54,7 @@ Latency is also a key consideration, particularly for real-time applications. Da
 
 CompuX provides a marketplace for compute credits that enables users to access a variety of LLMs from different providers, facilitating LLM routing. CompuX offers a unified billing and access system, allowing users to easily switch between models and providers to optimize for cost, performance, and availability. With CompuX, users can use the strengths of different LLMs without the complexity of managing multiple accounts and billing cycles. On average, users see a 20% reduction in costs.
 
-CompuX also offers tools for monitoring and managing compute usage, helping users implement effective LLM routing strategies and reduce [inference-heavy startups](/use-cases/inference-heavy-startups/) costs. By providing detailed insights into compute consumption, CompuX enables users to identify areas for optimization and make good choices about LLM routing. CompuX is a token operator, simplifying access to diverse compute resources. Consider CompuX vs [CompuX vs OpenRouter comparison](/compare/compux-vs-openrouter/) for multi-provider LLM access.
+CompuX also offers tools for monitoring and managing compute usage, helping users implement effective LLM routing strategies and reduce [inference-heavy startups](../use-cases/inference-heavy-startups.md) costs. By providing detailed insights into compute consumption, CompuX enables users to identify areas for optimization and make good choices about LLM routing. CompuX is a token operator, simplifying access to diverse compute resources. Consider CompuX vs [CompuX vs OpenRouter comparison](../compare/compux-vs-openrouter.md) for multi-provider LLM access.
 
 ## Use Cases for LLM Routing
 
@@ -72,13 +72,13 @@ Then, integrate the routing logic into your application. Finally, monitor and ma
 
 Monitoring and managing LLM routing performance is crucial for ensuring that your system is operating effectively and efficiently. Track key metrics such as latency, cost, and accuracy to identify areas for improvement. Use monitoring tools to visualize the performance of your LLMs and routing rules. Set up alerts to notify you of any performance issues or anomalies. Regularly review your routing rules and adjust them as needed to optimize performance. Consider using adaptive routing to dynamically adjust to changing conditions.
 
-By continuously monitoring and managing your LLM routing system, you can ensure that it is delivering the best possible results. OpenAI spends an estimated $4B annually on [inference-heavy startups](/use-cases/inference-heavy-startups/) alone (The Information, 2025), demonstrating the importance of optimizing inference costs through effective routing.
+By continuously monitoring and managing your LLM routing system, you can ensure that it is delivering the best possible results. OpenAI spends an estimated $4B annually on [inference-heavy startups](../use-cases/inference-heavy-startups.md) alone (The Information, 2025), demonstrating the importance of optimizing inference costs through effective routing.
 
 ## Future Trends in LLM Routing
 
 LLM routing is evolving rapidly. One key trend is adaptive routing that dynamically adjusts to changing conditions and optimizes performance in real-time. Another is the development of routing algorithms that factor in user context, task complexity, and cost constraints alongside latency and quality.
 
-As the number of LLMs continues to grow, the need for effective LLM routing tools will become even more critical. Future trends may also include the integration of LLM routing with other AI technologies, such as reinforcement learning and federated learning. Consider CompuX vs [CompuX vs Together AI](/compare/compux-vs-together-ai/) for cost-effective multi-provider [inference-heavy startups](/use-cases/inference-heavy-startups/).
+As the number of LLMs continues to grow, the need for effective LLM routing tools will become even more critical. Future trends may also include the integration of LLM routing with other AI technologies, such as reinforcement learning and federated learning. Consider CompuX vs [CompuX vs Together AI](../compare/compux-vs-together-ai.md) for cost-effective multi-provider [inference-heavy startups](../use-cases/inference-heavy-startups.md).
 
 ## Frequently Asked Questions
 
@@ -88,7 +88,7 @@ LLM routing strategies include rule-based routing, model-based routing, and adap
 
 ### How can LLM routing help reduce inference costs?
 
-LLM routing reduces [inference-heavy startups](/use-cases/inference-heavy-startups/) costs by directing requests to the most cost-effective LLM for each task. Less complex tasks can be routed to smaller, cheaper models. More demanding tasks are handled by larger models only when necessary. This targeted approach optimizes resource utilization, potentially reducing costs by up to 50%.
+LLM routing reduces [inference-heavy startups](../use-cases/inference-heavy-startups.md) costs by directing requests to the most cost-effective LLM for each task. Less complex tasks can be routed to smaller, cheaper models. More demanding tasks are handled by larger models only when necessary. This targeted approach optimizes resource utilization, potentially reducing costs by up to 50%.
 
 ### How does CompuX facilitate LLM routing?
 
@@ -124,6 +124,6 @@ Ensure that the LLMs and routing infrastructure comply with relevant data protec
 
 ## Related Terms
 
-* [Compute Credits](/concepts/compute-credits/)
-* [Multi-Provider API](/concepts/multi-provider-llm-api/)
-* [Compute Marketplace](/concepts/compute-credit-marketplace/)
+* [Compute Credits](compute-credits.md)
+* [Multi-Provider API](multi-provider-llm-api.md)
+* [Compute Marketplace](compute-credit-marketplace.md)

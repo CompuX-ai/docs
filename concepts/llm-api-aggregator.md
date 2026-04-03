@@ -20,7 +20,7 @@ The aggregator handles the complexities of authentication, rate limiting, and da
 
 **LLM API Aggregator:** A unified platform that provides a single point of access to multiple large language models (LLMs), simplifying integration, management, and cost optimization. CompuX acts as a gateway, abstracting away the complexities of individual LLM APIs.
 
-Consider a Series A AI startup that's burning $50,000 per month on [inference-heavy startups](/use-cases/inference-heavy-startups/) costs. This startup could greatly benefit from using an LLM API aggregator. The unified AI API gateway allows them to access various LLMs and optimize their compute costs. By using an aggregator, the company can dynamically switch between different LLMs based on real-time pricing and performance metrics.
+Consider a Series A AI startup that's burning $50,000 per month on [inference-heavy startups](../use-cases/inference-heavy-startups.md) costs. This startup could greatly benefit from using an LLM API aggregator. The unified AI API gateway allows them to access various LLMs and optimize their compute costs. By using an aggregator, the company can dynamically switch between different LLMs based on real-time pricing and performance metrics.
 
 Using an LLM API aggregator and a marketplace like CompuX can substantially reduce this expense. This allows the startup to focus on product development and innovation instead of being bogged down by the complexities and costs of managing multiple LLM APIs directly.
 
@@ -58,7 +58,7 @@ LLM API aggregators are useful across a wide range of applications. Chatbots can
 
 For example, a company developing a chatbot might use an AI API aggregator to route simple, common queries to a less expensive LLM. Routing more complex or sensitive queries to a more powerful and accurate model. This active routing optimizes costs without sacrificing performance. Similarly, a content generation platform might use different models for different types of content, such as blog posts, social media updates, or product descriptions. The flexibility offered by AI API aggregators enables developers to tailor their AI tools to specific needs and optimize performance and cost.
 
-Consider an AI-powered customer service platform that uses an LLM API aggregator to handle customer inquiries. The aggregator can route different types of inquiries to the most appropriate LLM. Complex technical questions can be routed to a model trained on technical documentation. Simple inquiries can be handled by a more general-purpose model. CompuX can also use the aggregator to perform sentiment analysis on customer feedback, identifying areas for improvement. By optimizing [inference-heavy startups](/use-cases/inference-heavy-startups/) costs with an LLM API aggregator, the customer service platform can reduce its compute expenses and improve its bottom line.
+Consider an AI-powered customer service platform that uses an LLM API aggregator to handle customer inquiries. The aggregator can route different types of inquiries to the most appropriate LLM. Complex technical questions can be routed to a model trained on technical documentation. Simple inquiries can be handled by a more general-purpose model. CompuX can also use the aggregator to perform sentiment analysis on customer feedback, identifying areas for improvement. By optimizing [inference-heavy startups](../use-cases/inference-heavy-startups.md) costs with an LLM API aggregator, the customer service platform can reduce its compute expenses and improve its bottom line.
 
 ## Popular AI API Aggregator Providers
 
@@ -84,7 +84,7 @@ Before selecting an LLM API aggregator, it's crucial to evaluate your specific n
 
 CompuX is a compute credit marketplace designed to connect AI startups with compute providers, offering seamless access to LLM APIs. Through CompuX, startups can acquire compute credits at a favorable rate and use them to access models from OpenAI, Anthropic, Google, Meta, Mistral, and other providers. CompuX also offers a unique "compute Compute Credit Transfusion Engine" feature, allowing startups to efficiently allocate and manage their compute resources across different LLM providers.
 
-CompuX helps AI startups optimize compute costs by facilitating active switching between providers. CompuX's OpenAI-compatible SDK acts as a drop-in replacement, making it easy to integrate with existing AI applications. By leveraging CompuX, startups can reduce their AI compute spending and focus on building innovative AI tools. CompuX functions as a token operator managing credit lifecycle and API routing, streamlining the process of accessing and managing compute resources. See how CompuX compares with other tools like [CompuX vs venture debt](/compare/compux-vs-venture-debt/) and [CompuX vs direct providers](/compare/compux-vs-direct-providers/).
+CompuX helps AI startups optimize compute costs by facilitating active switching between providers. CompuX's OpenAI-compatible SDK acts as a drop-in replacement, making it easy to integrate with existing AI applications. By leveraging CompuX, startups can reduce their AI compute spending and focus on building innovative AI tools. CompuX functions as a token operator managing credit lifecycle and API routing, streamlining the process of accessing and managing compute resources. See how CompuX compares with other tools like [CompuX vs venture debt](../compare/compux-vs-venture-debt.md) and [CompuX vs direct providers](../compare/compux-vs-direct-providers.md).
 
 ## Frequently Asked Questions
 
@@ -98,7 +98,7 @@ Using a unified AI API gateway offers several advantages, including simplified i
 
 ### How can LLM API aggregators help reduce costs?
 
-LLM API aggregators can help reduce costs by dynamically routing requests to the most cost-effective LLM. This allows you to take advantage of price differences between different LLM providers and optimize your compute spend. For instance, active routing through an aggregator can lead to average cost savings of up to 30%. Also, consider [CompuX vs cloud credits](/compare/compux-vs-cloud-credits/) for more ways to save.
+LLM API aggregators can help reduce costs by dynamically routing requests to the most cost-effective LLM. This allows you to take advantage of price differences between different LLM providers and optimize your compute spend. For instance, active routing through an aggregator can lead to average cost savings of up to 30%. Also, consider [CompuX vs cloud credits](../compare/compux-vs-cloud-credits.md) for more ways to save.
 
 ### What are the key features to look for in an LLM API aggregator?
 
@@ -118,7 +118,7 @@ Common LLM providers available through aggregators include OpenAI, Anthropic, Go
 
 ### What is compute credit transfusion and how does it work on CompuX?
 
-The [Compute Credit Transfusion Engine](/concepts/compute-credit-transfusion-guide/) is a feature that allows startups to efficiently allocate and manage their compute resources across different LLM providers. This enables startups to optimize their compute spending and ensure that they are using the most cost-effective options for their specific needs.
+The [Compute Credit Transfusion Engine](compute-credit-transfusion-guide.md) is a feature that allows startups to efficiently allocate and manage their compute resources across different LLM providers. This enables startups to optimize their compute spending and ensure that they are using the most cost-effective options for their specific needs.
 
 ### How can I switch between LLM providers using CompuX?
 
@@ -130,14 +130,14 @@ AI API aggregators handle rate limiting and API key management by providing cent
 
 ## Related Terms
 
-* [Compute Credits](/concepts/compute-credits/)
-* [Token Operator](/concepts/token-operator-guide/)
-* [Compute Marketplace](/concepts/compute-credit-marketplace/)
-* [GPU Utilization](/concepts/gpu-utilization/)
-* [Multi-Provider API](/concepts/multi-provider-llm-api/)
-* [Marginal Cost Arbitrage](/concepts/marginal-cost-arbitrage/)
-* [CompuX vs cloud credits](/compare/compux-vs-cloud-credits/)
+* [Compute Credits](compute-credits.md)
+* [Token Operator](token-operator-guide.md)
+* [Compute Marketplace](compute-credit-marketplace.md)
+* [GPU Utilization](gpu-utilization.md)
+* [Multi-Provider API](multi-provider-llm-api.md)
+* [Marginal Cost Arbitrage](marginal-cost-arbitrage.md)
+* [CompuX vs cloud credits](../compare/compux-vs-cloud-credits.md)
 
 ## Get Started
 
-Ready to simplify your AI development and optimize your compute costs? Explore the CompuX marketplace and discover how our [Compute Credit Transfusion Engine](/concepts/compute-credit-transfusion-guide/) can help you access the best LLMs from various providers. [Learn more about CompuX](https://www.compux.ai/).
+Ready to simplify your AI development and optimize your compute costs? Explore the CompuX marketplace and discover how our [Compute Credit Transfusion Engine](compute-credit-transfusion-guide.md) can help you access the best LLMs from various providers. [Learn more about CompuX](https://www.compux.ai/).

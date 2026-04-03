@@ -1,18 +1,18 @@
 # AI Inference Cost Optimization: A Comprehensive Guide
 
-AI [inference-heavy startups](/use-cases/inference-heavy-startups/) is the process of using a trained AI model to make predictions on new data. As AI adoption grows, optimizing the costs associated with inference becomes critical for sustainable AI deployments. This guide focuses on AI inference cost optimization.
+AI [inference-heavy startups](../use-cases/inference-heavy-startups.md) is the process of using a trained AI model to make predictions on new data. As AI adoption grows, optimizing the costs associated with inference becomes critical for sustainable AI deployments. This guide focuses on AI inference cost optimization.
 
 **Key Takeaways:**
 
-* **[inference-heavy startups](/use-cases/inference-heavy-startups/) Dominance** — Inference now accounts for 60-70% of total AI compute spend, a large increase from 30% in 2022 ([a16z State of AI](https://a16z.com/ai/), 2025).
+* **[inference-heavy startups](../use-cases/inference-heavy-startups.md) Dominance** — Inference now accounts for 60-70% of total AI compute spend, a large increase from 30% in 2022 ([a16z State of AI](https://a16z.com/ai/), 2025).
 * **Quantization Savings** — Model quantization can reduce model size by up to 4x, leading to substantial cost savings in memory and compute.
-* **GPU Acceleration** — GPU acceleration can improve [inference-heavy startups](/use-cases/inference-heavy-startups/) throughput by 10-100x compared to CPU-based inference, offering large performance gains.
-* **Startup Burn Rate** — Series A AI startups typically burn $20-80K per month on [inference-heavy startups](/use-cases/inference-heavy-startups/) and training, highlighting the need for cost optimization strategies.
+* **GPU Acceleration** — GPU acceleration can improve [inference-heavy startups](../use-cases/inference-heavy-startups.md) throughput by 10-100x compared to CPU-based inference, offering large performance gains.
+* **Startup Burn Rate** — Series A AI startups typically burn $20-80K per month on [inference-heavy startups](../use-cases/inference-heavy-startups.md) and training, highlighting the need for cost optimization strategies.
 * **CompuX Advantage** — CompuX provides access to a marketplace of compute credits and infrastructure for compute credit transfusion, enabling startups to dynamically adjust their compute capacity and minimize expenses.
 
 ## Understanding AI Inference Costs
 
-AI [inference-heavy startups](/use-cases/inference-heavy-startups/) is the process of deploying a trained machine learning model to generate predictions on new, unseen data. Definition: AI inference involves using a trained model to make predictions or classifications on new data points. This process is crucial for applying AI in real-world applications, such as image recognition, natural language processing, and fraud detection. Understanding the costs associated with AI [inference-heavy startups](/use-cases/inference-heavy-startups/) is essential for businesses looking to deploy AI models at scale. High inference costs can significantly impact the viability of AI projects, making cost optimization a key priority.
+AI [inference-heavy startups](../use-cases/inference-heavy-startups.md) is the process of deploying a trained machine learning model to generate predictions on new, unseen data. Definition: AI inference involves using a trained model to make predictions or classifications on new data points. This process is crucial for applying AI in real-world applications, such as image recognition, natural language processing, and fraud detection. Understanding the costs associated with AI [inference-heavy startups](../use-cases/inference-heavy-startups.md) is essential for businesses looking to deploy AI models at scale. High inference costs can significantly impact the viability of AI projects, making cost optimization a key priority.
 
 The total cost of AI inference is influenced by several factors. The complexity of the model, the volume of inference requests, and the underlying hardware infrastructure. Inference costs can represent up to 80% of the total cost of ownership (TCO) for some AI applications. As AI models become more sophisticated and the demand for real-time predictions increases, the need for efficient and cost-effective inference tools becomes even more critical. For example, a Series A AI startup might spend $20-80K per month on inference and training. Cost optimization a top priority. To mitigate these expenses, businesses are exploring various strategies such as model optimization, hardware acceleration. Serverless architectures, and also compute credit marketplaces such as CompuX.
 
@@ -55,9 +55,9 @@ Number of GPU cloud providers now includes dozens of providers+ between 2023 and
 
 ## Compute Credit Transfusion: A CompuX Advantage
 
-The [Compute Credit Transfusion Engine](/concepts/compute-credit-transfusion-guide/) is a unique feature offered by CompuX that allows startups to dynamically adjust their compute capacity and minimize expenses associated with inference workloads. This innovative approach provides startups with the flexibility to optimize their compute spending based on real-time demand and resource availability. With the Compute Credit Transfusion Engine, startups can convert financing into compute credits at a favorable rate, effectively multiplying their compute budget — for example, turning $1M into $1.25-1.5M in compute credits (a 25-50% multiplier).
+The [Compute Credit Transfusion Engine](compute-credit-transfusion-guide.md) is a unique feature offered by CompuX that allows startups to dynamically adjust their compute capacity and minimize expenses associated with inference workloads. This innovative approach provides startups with the flexibility to optimize their compute spending based on real-time demand and resource availability. With the Compute Credit Transfusion Engine, startups can convert financing into compute credits at a favorable rate, effectively multiplying their compute budget — for example, turning $1M into $1.25-1.5M in compute credits (a 25-50% multiplier).
 
-CompuX's AI-powered engine continuously monitors resource utilization and automatically adjusts compute capacity to ensure optimal performance and cost efficiency. This eliminates the need for manual intervention and reduces the risk of overspending on unused resources. CompuX also offers blockable credits, which can be used as [blockable credit collateral](/faq/blockable-credit-collateral/) to secure additional compute resources or financing.
+CompuX's AI-powered engine continuously monitors resource utilization and automatically adjusts compute capacity to ensure optimal performance and cost efficiency. This eliminates the need for manual intervention and reduces the risk of overspending on unused resources. CompuX also offers blockable credits, which can be used as [blockable credit collateral](../faq/blockable-credit-collateral.md) to secure additional compute resources or financing.
 
 ## Frequently Asked Questions
 
@@ -79,7 +79,7 @@ GPUs offer parallel processing capabilities that can significantly improve infer
 
 ### How can CompuX help optimize AI inference costs?
 
-CompuX provides a marketplace for compute credits, enabling access to affordable GPU resources. CompuX also offers the [Compute Credit Transfusion Engine](/concepts/compute-credit-transfusion-guide/), allowing startups to dynamically adjust their compute capacity and minimize inference expenses. The [credit multiplier effect](/concepts/ai-compute-financing-guide/) stretches each dollar of financing further, freeing budget for model optimization and scaling.
+CompuX provides a marketplace for compute credits, enabling access to affordable GPU resources. CompuX also offers the [Compute Credit Transfusion Engine](compute-credit-transfusion-guide.md), allowing startups to dynamically adjust their compute capacity and minimize inference expenses. The [credit multiplier effect](ai-compute-financing-guide.md) stretches each dollar of financing further, freeing budget for model optimization and scaling.
 
 ### What are some best practices for monitoring and reducing AI inference costs?
 
@@ -87,11 +87,11 @@ Best practices include continuously monitoring resource utilization, optimizing 
 
 ## Related Terms
 
-* [Compute Credits](/concepts/compute-credits/)
-* [Blockable Credits](/concepts/blockable-credits/)
-* [Multi-Provider API](/concepts/multi-provider-llm-api/)
-* [Compute Marketplace](/concepts/compute-credit-marketplace/)
+* [Compute Credits](compute-credits.md)
+* [Blockable Credits](blockable-credits.md)
+* [Multi-Provider API](multi-provider-llm-api.md)
+* [Compute Marketplace](compute-credit-marketplace.md)
 
 ## Get Started
 
-Ready to optimize your AI inference costs? Explore the CompuX marketplace and discover how the [Compute Credit Transfusion Engine](/concepts/compute-credit-transfusion-guide/) can help you scale your AI operations efficiently. [Learn more about CompuX](/faq/getting-started-compux/)
+Ready to optimize your AI inference costs? Explore the CompuX marketplace and discover how the [Compute Credit Transfusion Engine](compute-credit-transfusion-guide.md) can help you scale your AI operations efficiently. [Learn more about CompuX](../faq/getting-started-compux.md)

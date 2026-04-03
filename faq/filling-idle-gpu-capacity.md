@@ -1,22 +1,22 @@
 # Filling Idle GPU Capacity: Off-Peak Demand, Volume, and Scheduling
 
-Many data centers struggle with underutilized GPU resources. Filling idle GPU capacity by strategically managing [off-peak compute](/concepts/off-peak-compute/) demand, volume scheduling. Pricing is crucial for optimizing resource allocation and maximizing returns on investment. CompuX offers tools to help you effectively [monetize idle GPU](/use-cases/monetize-idle-gpu/) resources. This page discusses filling idle GPU capacity, a key challenge for data centers.
+Many data centers struggle with underutilized GPU resources. Filling idle GPU capacity by strategically managing [off-peak compute](../concepts/off-peak-compute.md) demand, volume scheduling. Pricing is crucial for optimizing resource allocation and maximizing returns on investment. CompuX offers tools to help you effectively [monetize idle GPU](../use-cases/monetize-idle-gpu.md) resources. This page discusses filling idle GPU capacity, a key challenge for data centers.
 
 **Key Takeaways:**
 
 * **Utilization Rates** — Utilization data from Stanford (2025) reveals that data center GPUs typically operate at 30-50%, far below full capacity.
-* **[off-peak compute](/concepts/off-peak-compute/) Opportunity** — Off-peak hours can represent up to 70% of total available GPU time, presenting a prime opportunity for running less urgent workloads.
-* **Active Pricing Impact** — Active pricing models can increase GPU utilization by 20-30% during [off-peak compute](/concepts/off-peak-compute/) compute periods by attracting users with lower prices.
-* **Workload Management** — Effective workload scheduling is crucial for maximizing GPU utilization and minimizing [monetize idle GPU](/use-cases/monetize-idle-gpu/) time.
-* **CompuX Solution** — CompuX provides a marketplace connecting GPU providers with users seeking [compute credits](/concepts/compute-credits/), facilitating the monetization of [monetize idle GPU](/use-cases/monetize-idle-gpu/) GPU capacity.
+* **[off-peak compute](../concepts/off-peak-compute.md) Opportunity** — Off-peak hours can represent up to 70% of total available GPU time, presenting a prime opportunity for running less urgent workloads.
+* **Active Pricing Impact** — Active pricing models can increase GPU utilization by 20-30% during [off-peak compute](../concepts/off-peak-compute.md) compute periods by attracting users with lower prices.
+* **Workload Management** — Effective workload scheduling is crucial for maximizing GPU utilization and minimizing [monetize idle GPU](../use-cases/monetize-idle-gpu.md) time.
+* **CompuX Solution** — CompuX provides a marketplace connecting GPU providers with users seeking [compute credits](../concepts/compute-credits.md), facilitating the monetization of [monetize idle GPU](../use-cases/monetize-idle-gpu.md) GPU capacity.
 
 ## Understanding Idle GPU Capacity and Its Impact
 
-[monetize idle GPU](/use-cases/monetize-idle-gpu/) GPU capacity refers to the unused processing power of GPUs within a data center or cloud environment. This often stems from fluctuating demand, inefficient scheduling, and a lack of visibility into available resources. ([IDC Worldwide AI Spending Guide](https://www.idc.com/getdoc.jsp?containerId=prUS52691024)), so maximizing GPU utilization directly impacts profitability and reduces wasted resources.
+[monetize idle GPU](../use-cases/monetize-idle-gpu.md) GPU capacity refers to the unused processing power of GPUs within a data center or cloud environment. This often stems from fluctuating demand, inefficient scheduling, and a lack of visibility into available resources. ([IDC Worldwide AI Spending Guide](https://www.idc.com/getdoc.jsp?containerId=prUS52691024)), so maximizing GPU utilization directly impacts profitability and reduces wasted resources.
 
 ### What are the main causes of idle GPU capacity in data centers?
 
-Several factors contribute to [monetize idle GPU](/use-cases/monetize-idle-gpu/) GPU capacity. One major cause is fluctuating demand, where peak workloads only use a fraction of the available GPUs. Inefficient scheduling practices also play a role, with workloads not being optimally assigned to available resources. Over-provisioning, where more GPUs are allocated than needed, further exacerbates the issue. Finally, a lack of real-time visibility into GPU utilization makes it difficult to identify and address idle capacity promptly.
+Several factors contribute to [monetize idle GPU](../use-cases/monetize-idle-gpu.md) GPU capacity. One major cause is fluctuating demand, where peak workloads only use a fraction of the available GPUs. Inefficient scheduling practices also play a role, with workloads not being optimally assigned to available resources. Over-provisioning, where more GPUs are allocated than needed, further exacerbates the issue. Finally, a lack of real-time visibility into GPU utilization makes it difficult to identify and address idle capacity promptly.
 
 Addressing these causes requires a combination of intelligent scheduling, demand forecasting, and strong monitoring tools.
 
@@ -63,15 +63,15 @@ Quantifying idle GPU resources involves a combination of real-time monitoring an
 
 ## Leveraging Off-Peak Demand for GPU Utilization
 
-[off-peak compute](/concepts/off-peak-compute/) compute hours present a valuable opportunity to increase GPU utilization by running less time-sensitive workloads. Strategically attracting off-peak demand through active pricing and targeted marketing can help maximize the use of available GPU resources.
+[off-peak compute](../concepts/off-peak-compute.md) compute hours present a valuable opportunity to increase GPU utilization by running less time-sensitive workloads. Strategically attracting off-peak demand through active pricing and targeted marketing can help maximize the use of available GPU resources.
 
 ### What are the best strategies for attracting off-peak demand for my GPU resources?
 
-Attracting [off-peak compute](/concepts/off-peak-compute/) compute demand requires a multi-faceted approach. Active pricing is a key strategy, offering lower prices during off-peak hours to incentivize users to run their workloads at these times. Targeted marketing efforts can highlight the availability of discounted GPU resources during off-peak periods. Promoting the use of preemptible instances. Offer lower prices in exchange for the possibility of interruption, can also attract users seeking cost-effective compute options. Finally, providing flexible scheduling options and clear documentation can make it easier for users to take advantage of [off-peak compute](/concepts/off-peak-compute/) compute availability.
+Attracting [off-peak compute](../concepts/off-peak-compute.md) compute demand requires a multi-faceted approach. Active pricing is a key strategy, offering lower prices during off-peak hours to incentivize users to run their workloads at these times. Targeted marketing efforts can highlight the availability of discounted GPU resources during off-peak periods. Promoting the use of preemptible instances. Offer lower prices in exchange for the possibility of interruption, can also attract users seeking cost-effective compute options. Finally, providing flexible scheduling options and clear documentation can make it easier for users to take advantage of [off-peak compute](../concepts/off-peak-compute.md) compute availability.
 
 ### What types of workloads are best suited for running during off-peak hours?
 
-Workloads that are not time-sensitive and can tolerate interruptions are best suited for [off-peak compute](/concepts/off-peak-compute/) hours. This includes tasks like background processing, model [training-heavy startups](/use-cases/training-heavy-startups/), data analysis, and simulations. Batch processing jobs, which can be broken down into smaller tasks and run asynchronously, are also ideal for off-peak execution. Workloads that require continuous uptime or have strict latency requirements are generally not suitable for off-peak scheduling.
+Workloads that are not time-sensitive and can tolerate interruptions are best suited for [off-peak compute](../concepts/off-peak-compute.md) hours. This includes tasks like background processing, model [training-heavy startups](../use-cases/training-heavy-startups.md), data analysis, and simulations. Batch processing jobs, which can be broken down into smaller tasks and run asynchronously, are also ideal for off-peak execution. Workloads that require continuous uptime or have strict latency requirements are generally not suitable for off-peak scheduling.
 
 ### How can active pricing models increase GPU utilization during off-peak hours?
 
@@ -84,7 +84,7 @@ Active pricing models adjust GPU prices based on demand, offering lower rates du
 | Best For | Urgent workloads | Non-urgent workloads |
 | Interruption Risk | None | Potential |
 
-Leveraging off-peak demand is an effective strategy for increasing GPU utilization and revenue. Off-peak hours can represent up to 70% of total available GPU time, making them ideal for running less time-sensitive workloads. Active pricing models can increase GPU utilization by 20-30% during off-peak periods by attracting users with lower prices. That many [inference-heavy startups](/use-cases/inference-heavy-startups/) tasks can be scheduled during off-peak hours without impacting real-time performance. By offering discounted rates during these periods, GPU providers can incentivize users to shift their workloads, maximizing resource utilization and generating additional revenue. CompuX not only benefits providers by increasing revenue but also benefits users by providing access to compute resources at a lower cost.
+Leveraging off-peak demand is an effective strategy for increasing GPU utilization and revenue. Off-peak hours can represent up to 70% of total available GPU time, making them ideal for running less time-sensitive workloads. Active pricing models can increase GPU utilization by 20-30% during off-peak periods by attracting users with lower prices. That many [inference-heavy startups](../use-cases/inference-heavy-startups.md) tasks can be scheduled during off-peak hours without impacting real-time performance. By offering discounted rates during these periods, GPU providers can incentivize users to shift their workloads, maximizing resource utilization and generating additional revenue. CompuX not only benefits providers by increasing revenue but also benefits users by providing access to compute resources at a lower cost.
 
 ## Effective GPU Workload Scheduling Techniques
 
@@ -126,7 +126,7 @@ Containerization, using tools like Docker and Kubernetes, offers several benefit
 | Reactive Scaling | Scales resources based on real-time metrics such as GPU utilization or queue length. | active resource allocation, optimized performance. |
 | Containerization | Uses containers to provide a consistent and isolated environment for running applications, simplifying deployment and scaling. | Improved resource utilization, simplified management, portability. |
 
-Managing volume and scaling GPU resources effectively during off-peak hours is crucial for optimizing costs and ensuring efficient resource utilization. Number of [GPU cloud startups](/use-cases/gpu-cloud-startups/) providers tripled between 2023 and 2025 (Epoch AI). This increased competition means efficient resource management is vital. Active resource allocation allows you to adjust the number of GPUs assigned to a workload based on real-time demand. Efficient scaling can help reduce this burn rate. By implementing strategies like scheduled scaling, reactive scaling. Containerization, you can ensure that your GPU resources are used efficiently and cost-effectively.
+Managing volume and scaling GPU resources effectively during off-peak hours is crucial for optimizing costs and ensuring efficient resource utilization. Number of [GPU cloud startups](../use-cases/gpu-cloud-startups.md) providers tripled between 2023 and 2025 (Epoch AI). This increased competition means efficient resource management is vital. Active resource allocation allows you to adjust the number of GPUs assigned to a workload based on real-time demand. Efficient scaling can help reduce this burn rate. By implementing strategies like scheduled scaling, reactive scaling. Containerization, you can ensure that your GPU resources are used efficiently and cost-effectively.
 
 ## active Pricing Models for Off-Peak GPU Capacity
 

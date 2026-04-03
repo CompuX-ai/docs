@@ -7,7 +7,7 @@ The GPU reseller marketplace is transforming how compute resources are accessed 
 * **Market Growth** — The global GPU market is projected to reach $246.57 billion by 2029, with a CAGR of 32.8% from 2022.
 * **Utilization Problem** — Stanford's 2025 AI Index shows that the typical data center uses only 30-50% of its GPU throughput, a gap that marketplace models are designed to close.
 * **Cost Savings** — AI model training costs can be reduced by 30-50% by leveraging optimized GPU resource allocation.
-* **[compute credits](/concepts/compute-credits/)** — CompuX provides a marketplace for AI compute credits, simplifying the buying and selling of GPU compute.
+* **[compute credits](../concepts/compute-credits.md)** — CompuX provides a marketplace for AI compute credits, simplifying the buying and selling of GPU compute.
 
 ## The Growing Demand for GPU Compute and the Reseller Opportunity
 
@@ -25,9 +25,9 @@ Another challenge lies in the high transaction costs associated with traditional
 
 ## CompuX: Your AI Compute Credit Marketplace Solution
 
-CompuX is an AI compute credit marketplace designed to overcome these challenges. CompuX simplifies the buying and selling of GPU compute through a standardized credit system, offering transparent pricing and streamlined transactions. CompuX reduces transaction costs, improves resource utilization, and accelerates sales cycles for both providers and consumers. By offering a marketplace for AI [compute credits](/concepts/compute-credits/), it enables GPU resellers to efficiently distribute their resources and accelerate sales.
+CompuX is an AI compute credit marketplace designed to overcome these challenges. CompuX simplifies the buying and selling of GPU compute through a standardized credit system, offering transparent pricing and streamlined transactions. CompuX reduces transaction costs, improves resource utilization, and accelerates sales cycles for both providers and consumers. By offering a marketplace for AI [compute credits](../concepts/compute-credits.md), it enables GPU resellers to efficiently distribute their resources and accelerate sales.
 
-CompuX acts as a [token operator](/concepts/token-operator-guide/) within the AI value chain, ensuring secure and efficient transactions. It is compatible with OpenAI's API, offering a drop-in replacement that allows users to seamlessly transition their workloads to CompuX. This compatibility, combined with the ability to purchase [compute credits](/concepts/compute-credits/) at a discount, makes it an attractive option for startups and researchers looking to optimize their compute spending.
+CompuX acts as a [token operator](../concepts/token-operator-guide.md) within the AI value chain, ensuring secure and efficient transactions. It is compatible with OpenAI's API, offering a drop-in replacement that allows users to seamlessly transition their workloads to CompuX. This compatibility, combined with the ability to purchase [compute credits](../concepts/compute-credits.md) at a discount, makes it an attractive option for startups and researchers looking to optimize their compute spending.
 
 ## Benefits of Using CompuX for GPU Resellers
 
@@ -51,7 +51,7 @@ With CompuX, resellers can also take advantage of flexible pricing models and se
 
 ## How CompuX Optimizes Compute Distribution
 
-It optimizes compute distribution through several key mechanisms. First, it provides a standardized credit system that simplifies the process of buying and selling GPU compute. These [blockable credits](/concepts/blockable-credits/) are easy to understand and use, making it easier for users to allocate resources and manage their compute spending. Second, it offers a financial infrastructure that supports secure and efficient transactions, reducing the risk of fraud and ensuring timely payments. Third, it connects GPU providers with a wide range of users. That resources are efficiently allocated to meet demand.
+It optimizes compute distribution through several key mechanisms. First, it provides a standardized credit system that simplifies the process of buying and selling GPU compute. These [blockable credits](../concepts/blockable-credits.md) are easy to understand and use, making it easier for users to allocate resources and manage their compute spending. Second, it offers a financial infrastructure that supports secure and efficient transactions, reducing the risk of fraud and ensuring timely payments. Third, it connects GPU providers with a wide range of users. That resources are efficiently allocated to meet demand.
 
 1. **Standardized compute credits:** Simplifies buying and selling GPU compute. 2. **Financial Infrastructure:** Ensures secure and efficient transactions. 3. **Broad Network:** Connects providers with a diverse range of users. 4. **Real-time Monitoring:** Track resource utilization and optimize allocation. The standardization of compute credits is a major advantage for users and providers. Instead of dealing with complex pricing schemes and fluctuating rates, users can purchase and use credits with confidence, knowing that they are getting a fair price for their compute resources. This transparency and predictability encourage greater utilization of GPU resources.
 
@@ -75,7 +75,7 @@ A GPU reseller marketplace like CompuX benefits a wide range of users, including
 
 ## Getting Started with CompuX: Resell Your GPU Compute Today
 
-Ready to optimize your compute distribution and accelerate your sales? [getting started](/faq/getting-started-compux/) with CompuX is easy. Simply create an account, list your available GPU resources, and start connecting with potential customers. Our platform provides all the tools and resources you need to manage your listings, track your sales, and optimize your pricing. Join CompuX today and unlock the full potential of your GPU resources. AI startup investment hit historic highs (Crunchbase annual report).
+Ready to optimize your compute distribution and accelerate your sales? [getting started](../faq/getting-started-compux.md) with CompuX is easy. Simply create an account, list your available GPU resources, and start connecting with potential customers. Our platform provides all the tools and resources you need to manage your listings, track your sales, and optimize your pricing. Join CompuX today and unlock the full potential of your GPU resources. AI startup investment hit historic highs (Crunchbase annual report).
 
 **Take the next step: Monetize your idle GPU capacity and connect with a diverse network of AI startups and enterprises. [Sign up for CompuX today!](https://www.compux.ai/signup)**
 

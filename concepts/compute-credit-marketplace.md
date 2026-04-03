@@ -5,13 +5,13 @@ A compute credit marketplace is a platform where AI startups can purchase access
 **Key Takeaways:**
 * **Cost Savings** — AI startups can reduce compute costs by utilizing a compute credit marketplace.
 * **GPU Utilization** — Marketplaces improve average data center GPU utilization.
-* **Market Growth** — The number of [GPU cloud startups](/use-cases/gpu-cloud-startups/) providers is growing, expanding marketplace options.
+* **Market Growth** — The number of [GPU cloud startups](../use-cases/gpu-cloud-startups.md) providers is growing, expanding marketplace options.
 * **Flexibility** — Marketplaces offer access to a wide range of GPU providers and pricing models.
 * **Financing** — Platforms like CompuX provide financing options to help startups manage compute expenses.
 
 ## What is a Compute Credit Marketplace?
 
-A compute credit marketplace is a platform that facilitates the buying and selling of compute resources, often in the form of credits. These marketplaces connect AI startups with diverse GPU providers. They can access the necessary compute power for [training-heavy startups](/use-cases/training-heavy-startups/) and [inference-heavy startups](/use-cases/inference-heavy-startups/) tasks at competitive prices. This system allows for greater flexibility and scalability. Startups can adjust their compute usage based on their needs and budget.
+A compute credit marketplace is a platform that facilitates the buying and selling of compute resources, often in the form of credits. These marketplaces connect AI startups with diverse GPU providers. They can access the necessary compute power for [training-heavy startups](../use-cases/training-heavy-startups.md) and [inference-heavy startups](../use-cases/inference-heavy-startups.md) tasks at competitive prices. This system allows for greater flexibility and scalability. Startups can adjust their compute usage based on their needs and budget.
 
 **Definition Block:**
 **Compute Credits:** Represent a unit of access to computing resources, such as GPU time or processing power. They provide a standardized way to measure and pay for compute usage, simplifying billing and resource allocation. Marketplaces allow users to buy credits in bulk or on-demand. This provides flexibility in managing compute costs.
@@ -31,9 +31,9 @@ Compute credit marketplaces offer several key benefits for AI startups. These be
 | GPU Utilization | Marketplaces help improve GPU utilization rates. |
 | Access to Variety | Gain access to a wide range of GPU types and configurations. Startups can optimize their infrastructure for specific AI workloads. |
 
-The AI compute market has become increasingly complex. There is a growing number of specialized GPU providers and diverse pricing options. Compute credit marketplaces serve as a centralized hub. They simplify the process of finding and accessing the right compute resources for AI startups. For example, the number of [GPU cloud startups](/use-cases/gpu-cloud-startups/) providers grew from 12 to 40+ between 2023 and 2025 (Epoch AI). This increase in providers has led to greater competition and more competitive pricing. CompuX also makes it more challenging for startups to work through the market and find the best deals. A compute credit marketplace streamlines this process. It aggregates offerings from multiple providers and provides tools for comparing prices and performance.
+The AI compute market has become increasingly complex. There is a growing number of specialized GPU providers and diverse pricing options. Compute credit marketplaces serve as a centralized hub. They simplify the process of finding and accessing the right compute resources for AI startups. For example, the number of [GPU cloud startups](../use-cases/gpu-cloud-startups.md) providers grew from 12 to 40+ between 2023 and 2025 (Epoch AI). This increase in providers has led to greater competition and more competitive pricing. CompuX also makes it more challenging for startups to work through the market and find the best deals. A compute credit marketplace streamlines this process. It aggregates offerings from multiple providers and provides tools for comparing prices and performance.
 
-A compute credit marketplace provides AI startups with cost advantages, flexibility, and access to a broad range of GPU resources. This addresses the challenges of high compute costs and limited access to specialized hardware. Compute credit marketplaces offer a way to address this demand by providing access to GPUs at competitive prices. This is particularly important for startups focused on compute-intensive tasks. These tasks include [training-heavy startups](/use-cases/training-heavy-startups/) large language models or running complex simulations.
+A compute credit marketplace provides AI startups with cost advantages, flexibility, and access to a broad range of GPU resources. This addresses the challenges of high compute costs and limited access to specialized hardware. Compute credit marketplaces offer a way to address this demand by providing access to GPUs at competitive prices. This is particularly important for startups focused on compute-intensive tasks. These tasks include [training-heavy startups](../use-cases/training-heavy-startups.md) large language models or running complex simulations.
 
 ## How AI Startups Can Leverage Compute Credit Marketplaces
 
@@ -57,7 +57,7 @@ Traditional cloud providers like AWS, Azure, and GCP offer a wide range of servi
 | Flexibility           | High, resources can be easily scaled and switched       | Moderate, scaling may require more complex configurations    |
 | Cost Optimization     | Excellent, due to pricing competition and spot markets | Limited, primarily through reserved instances and volume discounts |
 
-Cloud credit programs from traditional cloud providers often have limitations. They may cap at certain amounts and expire within a limited timeframe. Compute marketplaces offer a more sustainable solution for AI startups needing long-term access to affordable compute. For more information, see [CompuX vs cloud credits](/compare/compux-vs-cloud-credits/).
+Cloud credit programs from traditional cloud providers often have limitations. They may cap at certain amounts and expire within a limited timeframe. Compute marketplaces offer a more sustainable solution for AI startups needing long-term access to affordable compute. For more information, see [CompuX vs cloud credits](../compare/compux-vs-cloud-credits.md).
 
 ## Understanding GPU Pricing Models in Compute Credit Marketplaces
 
@@ -97,7 +97,7 @@ Cloud credit programs often cap at certain amounts and expire within a limited t
 
 The future of AI compute is inextricably linked to the growth and evolution of compute credit marketplaces. As AI models become more complex and data-intensive, the demand for compute resources will continue to skyrocket. This highlights the need for innovative tools. These tools provide AI startups with access to affordable and scalable compute resources. Compute credit marketplaces are poised to play a central role in meeting this demand. They provide a more efficient and cost-effective way to access GPU power. As these marketplaces mature, we can expect to see increased competition and more sophisticated pricing models.
 
-We can also expect greater integration with AI development tools. Also, the increasing adoption of AI [inference-heavy startups](/use-cases/inference-heavy-startups/) is driving the demand for specialized compute resources. These resources are optimized for low-latency and high-throughput inference tasks. This shift towards [inference-heavy startups](/use-cases/inference-heavy-startups/) workloads is creating new opportunities for compute credit marketplaces. They can offer specialized GPU instances and pricing models custom to the needs of AI inference applications.
+We can also expect greater integration with AI development tools. Also, the increasing adoption of AI [inference-heavy startups](../use-cases/inference-heavy-startups.md) is driving the demand for specialized compute resources. These resources are optimized for low-latency and high-throughput inference tasks. This shift towards [inference-heavy startups](../use-cases/inference-heavy-startups.md) workloads is creating new opportunities for compute credit marketplaces. They can offer specialized GPU instances and pricing models custom to the needs of AI inference applications.
 
 ## Frequently Asked Questions
 
@@ -115,7 +115,7 @@ Common pricing models include on-demand pricing (pay-as-you-go), reserved instan
 
 ### How does CompuX differ from other compute credit marketplaces?
 
-CompuX offers a unique "[Compute Credit Transfusion Engine](/concepts/compute-credit-transfusion-guide/)". CompuX provides financing options that amplify compute budgets. It also operates as a three-sided marketplace. CompuX connects AI startups with compute providers and capital partners. CompuX has an OpenAI-compatible SDK.
+CompuX offers a unique "[Compute Credit Transfusion Engine](compute-credit-transfusion-guide.md)". CompuX provides financing options that amplify compute budgets. It also operates as a three-sided marketplace. CompuX connects AI startups with compute providers and capital partners. CompuX has an OpenAI-compatible SDK.
 
 ### What financing options does CompuX offer for compute credits?
 
@@ -127,20 +127,20 @@ A compute credit represents a unit of computing power that can be used on a comp
 
 ### What types of compute resources are available on a compute marketplace?
 
-Compute marketplaces offer a variety of compute resources, including CPUs, GPUs, and memory. These resources can be used for various applications. These include AI [training-heavy startups](/use-cases/training-heavy-startups/), [inference-heavy startups](/use-cases/inference-heavy-startups/), data analytics, and high-performance computing. The availability of H100 GPUs has improved significantly. This makes them more accessible through compute marketplaces.
+Compute marketplaces offer a variety of compute resources, including CPUs, GPUs, and memory. These resources can be used for various applications. These include AI [training-heavy startups](../use-cases/training-heavy-startups.md), [inference-heavy startups](../use-cases/inference-heavy-startups.md), data analytics, and high-performance computing. The availability of H100 GPUs has improved significantly. This makes them more accessible through compute marketplaces.
 
 ### Related Terms
 
-* [Compute Credits](/concepts/compute-credits/)
-* [CompuX](/concepts/token-operator-guide/) layer
-* [Blockable Credits](/concepts/blockable-credits/)
-* [Compute Marketplace](/concepts/compute-credit-marketplace/)
-* [GPU Utilization](/concepts/gpu-utilization/)
-* [Token Operator](/concepts/token-operator-guide/)
-* [Multi-Provider API](/concepts/multi-provider-llm-api/)
+* [Compute Credits](compute-credits.md)
+* [CompuX](token-operator-guide.md) layer
+* [Blockable Credits](blockable-credits.md)
+* [Compute Marketplace](compute-credit-marketplace.md)
+* [GPU Utilization](gpu-utilization.md)
+* [Token Operator](token-operator-guide.md)
+* [Multi-Provider API](multi-provider-llm-api.md)
 
 ### Get Started
 
 Ready to optimize your AI compute costs and accelerate your development? Explore the CompuX marketplace today to discover the benefits of competitive GPU pricing and flexible financing options.
 
-[Learn more about CompuX](/compare/compux-vs-openrouter/) and [sign up for early access](/compare/compux-vs-together-ai/) to our platform. Explore how our [Compute Credit Transfusion Engine](/concepts/compute-credit-transfusion-guide/) can boost your compute budget by 25–50%. A bulk discount multiplier is available through bulk provider discounts.
+[Learn more about CompuX](../compare/compux-vs-openrouter.md) and [sign up for early access](../compare/compux-vs-together-ai.md) to our platform. Explore how our [Compute Credit Transfusion Engine](compute-credit-transfusion-guide.md) can boost your compute budget by 25–50%. A bulk discount multiplier is available through bulk provider discounts.

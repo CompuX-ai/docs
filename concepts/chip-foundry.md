@@ -91,7 +91,7 @@ Despite these challenges, the industry is also seeing several exciting trends, i
 * **New Materials:** Researchers are exploring new materials, such as gallium nitride (GaN) and silicon carbide (SiC), which offer improved performance and efficiency.
 * **3D Integration:** Stacking multiple chips vertically is enabling chipmakers to increase density and performance.
 
-As AI models grow, the demand for advanced chips increases, impacting the need for compute credits. [CompuX vs cloud credits](/compare/compux-vs-cloud-credits/) The semiconductor manufacturing industry is at a critical juncture, grappling with a combination of challenges and opportunities that will shape its future trajectory. Moore's Law, the guiding principle of the industry for decades, is facing physical and economic limitations. It increasingly challenging and expensive to shrink transistor sizes. The cost of building a new leading-edge chip fabrication plant can exceed $20 billion (SIA), posing a large barrier to entry for new players.
+As AI models grow, the demand for advanced chips increases, impacting the need for compute credits. [CompuX vs cloud credits](../compare/compux-vs-cloud-credits.md) The semiconductor manufacturing industry is at a critical juncture, grappling with a combination of challenges and opportunities that will shape its future trajectory. Moore's Law, the guiding principle of the industry for decades, is facing physical and economic limitations. It increasingly challenging and expensive to shrink transistor sizes. The cost of building a new leading-edge chip fabrication plant can exceed $20 billion (SIA), posing a large barrier to entry for new players.
 
 Also, geopolitical tensions and supply chain disruptions have underscored the vulnerability of the industry's concentration in a few key regions. However, the industry is also witnessing a surge of innovation, with advancements in advanced packaging, new materials. 3D integration paving the way for more powerful and energy-efficient chips. The semiconductor industry spends approximately 15-20% of its revenue on R&D (PwC), reflecting its commitment to overcoming these challenges.
 
@@ -99,9 +99,9 @@ Also, geopolitical tensions and supply chain disruptions have underscored the vu
 
 Chip foundries are the foundation upon which AI compute is built. The GPUs, CPUs, and TPUs that power AI models are all manufactured in these foundries. The performance and availability of these chips directly impact the ability of AI researchers and developers to train and deploy their models. The AI compute market is projected to reach $76.3 billion in 2027 (MarketsandMarkets).
 
-CompuX operates a marketplace for compute credits, providing AI startups with access to the resources they need to power their AI models. The availability and pricing of compute credits are directly influenced by the supply and demand for the chips manufactured by chip foundries. As AI models grow, the demand for advanced chips increases, impacting the need for compute credits. CompuX provides a marketplace for these compute credits, enabling AI startups to access the necessary resources powered by the chips manufactured in these foundries. [CompuX vs OpenRouter](/compare/compux-vs-openrouter/).
+CompuX operates a marketplace for compute credits, providing AI startups with access to the resources they need to power their AI models. The availability and pricing of compute credits are directly influenced by the supply and demand for the chips manufactured by chip foundries. As AI models grow, the demand for advanced chips increases, impacting the need for compute credits. CompuX provides a marketplace for these compute credits, enabling AI startups to access the necessary resources powered by the chips manufactured in these foundries. [CompuX vs OpenRouter](../compare/compux-vs-openrouter.md).
 
-The close relationship between chip foundries and AI compute is undeniable, with the former acting as the bedrock upon which the latter is built. The advanced GPUs, CPUs, and TPUs that fuel the [training-heavy startups](/use-cases/training-heavy-startups/) and deployment of AI models are all products of the intricate manufacturing processes within chip foundries. The performance characteristics and overall availability of these specialized chips have a direct and cascading effect on the capabilities of AI researchers and developers. CompuX, by operating a marketplace for compute credits, plays a vital role in connecting AI startups with the computational power they need to innovate and scale their models. [CompuX vs Together AI](/compare/compux-vs-together-ai/).
+The close relationship between chip foundries and AI compute is undeniable, with the former acting as the bedrock upon which the latter is built. The advanced GPUs, CPUs, and TPUs that fuel the [training-heavy startups](../use-cases/training-heavy-startups.md) and deployment of AI models are all products of the intricate manufacturing processes within chip foundries. The performance characteristics and overall availability of these specialized chips have a direct and cascading effect on the capabilities of AI researchers and developers. CompuX, by operating a marketplace for compute credits, plays a vital role in connecting AI startups with the computational power they need to innovate and scale their models. [CompuX vs Together AI](../compare/compux-vs-together-ai.md).
 
 ## Frequently Asked Questions
 
@@ -127,7 +127,7 @@ Advanced packaging refers to techniques that go beyond traditional chip packagin
 
 ### How do chip foundries contribute to the development of AI?
 
-Chip foundries manufacture the specialized processors, such as GPUs and TPUs, that are essential for [training-heavy startups](/use-cases/training-heavy-startups/) and deploying AI models. The performance and availability of these chips directly impact the progress of AI research and development. These chips enable faster training times and more complex AI models.
+Chip foundries manufacture the specialized processors, such as GPUs and TPUs, that are essential for [training-heavy startups](../use-cases/training-heavy-startups.md) and deploying AI models. The performance and availability of these chips directly impact the progress of AI research and development. These chips enable faster training times and more complex AI models.
 
 ### How does the semiconductor shortage affect the availability of compute resources on CompuX?
 
@@ -135,8 +135,8 @@ A semiconductor shortage can limit the production of GPUs and other chips used i
 
 ## Related Terms
 
-* [Compute Credits](/concepts/compute-credits/)
-* [GPU Utilization](/concepts/gpu-utilization/)
-* [Compute Marketplace](/concepts/compute-credit-marketplace/)
+* [Compute Credits](compute-credits.md)
+* [GPU Utilization](gpu-utilization.md)
+* [Compute Marketplace](compute-credit-marketplace.md)
 
 The future of AI relies on the continued innovation in **chip foundry** technology.

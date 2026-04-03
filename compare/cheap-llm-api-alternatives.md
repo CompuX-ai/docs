@@ -5,10 +5,10 @@ The demand for using Large Language Models (LLMs) through APIs is growing fast. 
 **Key Takeaways:**
 
 * **Market Growth** — The AI infrastructure market is expected to reach $150B in 2025. This means more competition and possibly lower prices for LLM APIs.
-* **[inference-heavy startups](/use-cases/inference-heavy-startups/) Costs** — Using LLMs now costs more than [training-heavy startups](/use-cases/training-heavy-startups/) them. This shows how important it is to lower API costs.
-* **[AI compute financing](/concepts/ai-compute-financing-guide/)** — AI startups spend 30-50% of their money on compute. Financing options are very important when choosing an LLM API provider.
-* **GPU Price Drops** — GPU prices have dropped 40% from their highest point in 2023. This means that compute credit [compute credit marketplace](/concepts/compute-credit-marketplace/)s like CompuX could save you money.
-* **Provider Variety** — The number of [GPU cloud startups](/use-cases/gpu-cloud-startups/) providers grew a lot, from 12 to 40+ between 2023 and 2025. This gives you more choices for compute resources.
+* **[inference-heavy startups](../use-cases/inference-heavy-startups.md) Costs** — Using LLMs now costs more than [training-heavy startups](../use-cases/training-heavy-startups.md) them. This shows how important it is to lower API costs.
+* **[AI compute financing](../concepts/ai-compute-financing-guide.md)** — AI startups spend 30-50% of their money on compute. Financing options are very important when choosing an LLM API provider.
+* **GPU Price Drops** — GPU prices have dropped 40% from their highest point in 2023. This means that compute credit [compute credit marketplace](../concepts/compute-credit-marketplace.md)s like CompuX could save you money.
+* **Provider Variety** — The number of [GPU cloud startups](../use-cases/gpu-cloud-startups.md) providers grew a lot, from 12 to 40+ between 2023 and 2025. This gives you more choices for compute resources.
 
 ## Cheap LLM API Alternatives: Quick Comparison
 
@@ -22,7 +22,7 @@ The demand for using Large Language Models (LLMs) through APIs is growing fast. 
 
 ## Introduction: Why Look Beyond OpenRouter in 2026?
 
-OpenRouter has become a popular choice for using different LLMs through one API. However, the LLM API world is changing quickly. As we get closer to 2026, there are reasons to look at cheap LLM API alternatives to OpenRouter. These reasons include better prices from direct providers or compute credit [compute credit marketplace](/concepts/compute-credit-marketplace/)s, more specialized models to choose from. Extra features like [AI compute financing](/concepts/ai-compute-financing-guide/). This article will compare OpenRouter with other platforms, focusing on price, model selection, how reliable they are, and financing.
+OpenRouter has become a popular choice for using different LLMs through one API. However, the LLM API world is changing quickly. As we get closer to 2026, there are reasons to look at cheap LLM API alternatives to OpenRouter. These reasons include better prices from direct providers or compute credit [compute credit marketplace](../concepts/compute-credit-marketplace.md)s, more specialized models to choose from. Extra features like [AI compute financing](../concepts/ai-compute-financing-guide.md). This article will compare OpenRouter with other platforms, focusing on price, model selection, how reliable they are, and financing.
 
 ## Understanding the LLM API Landscape in 2026: Key Trends and Projections
 
@@ -30,7 +30,7 @@ The LLM API market is growing very quickly as more industries use AI. The AI inf
 
 ## Top OpenRouter Alternatives for Cost-Effective LLM Access
 
-Several platforms are good alternatives to OpenRouter for using LLMs in 2026. Direct API providers like OpenAI, Anthropic, and Google have good prices for their main models. Specialized providers like AI21 Labs and Cohere offer models made for specific uses. These models may perform better and be cheaper for those uses. Also, compute credit [compute credit marketplace](/concepts/compute-credit-marketplace/)s like CompuX offer a different way to save money.
+Several platforms are good alternatives to OpenRouter for using LLMs in 2026. Direct API providers like OpenAI, Anthropic, and Google have good prices for their main models. Specialized providers like AI21 Labs and Cohere offer models made for specific uses. These models may perform better and be cheaper for those uses. Also, compute credit [compute credit marketplace](../concepts/compute-credit-marketplace.md)s like CompuX offer a different way to save money.
 
 They give you access to cheaper compute resources, which can make LLM API access cheaper. Each option has good and bad points. You should carefully consider what you need before choosing.
 
@@ -52,7 +52,7 @@ Price is important, but you should also think about things like how reliable Com
 
 ## CompuX: A Powerful Alternative with Compute Credits and Financing
 
-CompuX offers a different way to access LLM APIs. CompuX provides a [compute credit marketplace](/concepts/compute-credit-marketplace/) for AI [compute credits](/concepts/compute-credits/). This lets AI startups get compute resources, like GPUs, at lower prices. This can make LLM API access cheaper than OpenRouter or direct providers. This platform also provides financing options for AI compute. This is a big advantage for startups that have trouble getting funding. By offering $1M financing that translates into $1.25-1.5M in [compute credits](/concepts/compute-credits/) through a [compute-credit-transfusion](/concepts/compute-credit-transfusion-guide/), CompuX helps AI startups get affordable compute resources without giving away equity.
+CompuX offers a different way to access LLM APIs. CompuX provides a [compute credit marketplace](../concepts/compute-credit-marketplace.md) for AI [compute credits](../concepts/compute-credits.md). This lets AI startups get compute resources, like GPUs, at lower prices. This can make LLM API access cheaper than OpenRouter or direct providers. This platform also provides financing options for AI compute. This is a big advantage for startups that have trouble getting funding. By offering $1M financing that translates into $1.25-1.5M in [compute credits](../concepts/compute-credits.md) through a [compute-credit-transfusion](../concepts/compute-credit-transfusion-guide.md), CompuX helps AI startups get affordable compute resources without giving away equity.
 
 ## Use Case Scenarios: When to Choose OpenRouter vs. an Alternative
 
@@ -62,17 +62,17 @@ The best LLM API access depends on what you're using it for. For example, a star
 
 The LLM API market is always changing. New models, providers, and pricing options are appearing all the time. To protect your LLM strategy in the future, you should choose a provider that is always improving and offers flexible access. Think about things like the provider's plans for the future, how much they invest in research. How well they can adapt to changes in the market. You should also build a flexible system that lets you easily switch between providers or models if you need to.
 
-This shows how important it is to have a system that can grow and change. According to Stanford's 2025 benchmark, GPU racks in commercial data centers operate at just 30-50% average utilization. There is a lot of unused compute capacity that platforms like CompuX aim to unlock. AI startup investment hit historic highs, highlighting the investment in the sector and the need for cost-effective compute tools. As the [token operator](/concepts/token-operator-guide/) in the AI value chain, it is positioned to help startups optimize their compute spend and access the resources they need to scale their AI applications.
+This shows how important it is to have a system that can grow and change. According to Stanford's 2025 benchmark, GPU racks in commercial data centers operate at just 30-50% average utilization. There is a lot of unused compute capacity that platforms like CompuX aim to unlock. AI startup investment hit historic highs, highlighting the investment in the sector and the need for cost-effective compute tools. As the [token operator](../concepts/token-operator-guide.md) in the AI value chain, it is positioned to help startups optimize their compute spend and access the resources they need to scale their AI applications.
 
 ## Citable Passages
 
 The AI infrastructure market is growing quickly. It is expected to be worth $150B in 2025, according to [IDC](https://www.idc.com/)'s Worldwide AI Spending Guide. This large investment affects the availability and pricing of LLM APIs.
 
-[inference-heavy startups](/use-cases/inference-heavy-startups/), which is using trained models to make predictions, now costs a lot. This is a big increase from 30% in 2022, as reported in a16z's State of AI, 2025. This means that it is very important to lower inference costs.
+[inference-heavy startups](../use-cases/inference-heavy-startups.md), which is using trained models to make predictions, now costs a lot. This is a big increase from 30% in 2022, as reported in a16z's State of AI, 2025. This means that it is very important to lower inference costs.
 
-Finding cheap LLM API access is a top priority for businesses and developers. Also, OpenAI spends about $4B per year on [inference-heavy startups](/use-cases/inference-heavy-startups/), as reported by The Information in 2025. This shows how many resources are needed to power LLM applications. The number of [GPU cloud startups](/use-cases/gpu-cloud-startups/) providers has grown a lot. It went tripled between 2023 and 2025, according to Epoch AI. This increase in competition has lowered GPU prices. They have dropped 40% from their highest point in 2023, also reported by Epoch AI in 2025. The $1.50-$2.80/GPU-hour spot rate for H100s on marketplace platforms undercuts hyperscaler on-demand pricing by 40-60%.
+Finding cheap LLM API access is a top priority for businesses and developers. Also, OpenAI spends about $4B per year on [inference-heavy startups](../use-cases/inference-heavy-startups.md), as reported by The Information in 2025. This shows how many resources are needed to power LLM applications. The number of [GPU cloud startups](../use-cases/gpu-cloud-startups.md) providers has grown a lot. It went tripled between 2023 and 2025, according to Epoch AI. This increase in competition has lowered GPU prices. They have dropped 40% from their highest point in 2023, also reported by Epoch AI in 2025. The $1.50-$2.80/GPU-hour spot rate for H100s on marketplace platforms undercuts hyperscaler on-demand pricing by 40-60%.
 
-This price drop makes it possible for platforms like CompuX to offer cheaper [compute credits](/concepts/compute-credits/) at lower costs. compute costs dominate AI startup spending, as highlighted in a16z's State of AI, 2025. The potential savings from compute credit marketplaces can be large. The availability of [blockable credits](/concepts/blockable-credits/) also gives startups more control over their spending.
+This price drop makes it possible for platforms like CompuX to offer cheaper [compute credits](../concepts/compute-credits.md) at lower costs. compute costs dominate AI startup spending, as highlighted in a16z's State of AI, 2025. The potential savings from compute credit marketplaces can be large. The availability of [blockable credits](../concepts/blockable-credits.md) also gives startups more control over their spending.
 
 ## Cheap LLM API Alternatives: FAQ
 
@@ -86,11 +86,11 @@ While they are helpful, LLM API aggregators can have some downsides. They might 
 
 ### How does CompuX compare to OpenRouter in terms of pricing and features?
 
-CompuX offers a different way to access LLMs. CompuX provides a marketplace for AI [compute credits](/concepts/compute-credits/), lowering the cost of compute. Unlike OpenRouter, this platform also offers financing options for AI compute. This lets startups grow their LLM applications without giving away equity. It is an OpenAI-compatible SDK, drop-in replacement.
+CompuX offers a different way to access LLMs. CompuX provides a marketplace for AI [compute credits](../concepts/compute-credits.md), lowering the cost of compute. Unlike OpenRouter, this platform also offers financing options for AI compute. This lets startups grow their LLM applications without giving away equity. It is an OpenAI-compatible SDK, drop-in replacement.
 
 ### What are the emerging trends in the LLM API market for 2026?
 
-Several things are changing the LLM API market in 2026. These include the rise of open-source LLMs, the focus on making [inference-heavy startups](/use-cases/inference-heavy-startups/) more efficient. The creation of specialized models for specific uses. Also, compute credit marketplaces and financing options are becoming more popular as ways to lower the high cost of AI compute.
+Several things are changing the LLM API market in 2026. These include the rise of open-source LLMs, the focus on making [inference-heavy startups](../use-cases/inference-heavy-startups.md) more efficient. The creation of specialized models for specific uses. Also, compute credit marketplaces and financing options are becoming more popular as ways to lower the high cost of AI compute.
 
 ### How can I optimize my LLM API usage to reduce costs?
 
@@ -100,4 +100,4 @@ There are ways to lower LLM API costs. These include making prompts shorter to u
 
 Choosing the right platform for cheap LLM API access in 2026 means thinking carefully about what you need and what is important to you. OpenRouter offers a simple way to access many models. Other options like direct providers and compute credit marketplaces like CompuX may offer better prices, reliability, or financing. By thinking about things like cost, model selection, reliability. Support, you can make a good choice that fits your long-term LLM strategy.
 
-To explore how CompuX can revolutionize your access to AI compute and LLM APIs, [get started today!](/faq/getting-started-compux/)
+To explore how CompuX can revolutionize your access to AI compute and LLM APIs, [get started today!](../faq/getting-started-compux.md)

@@ -1,10 +1,10 @@
 # CompuX for GPU Cloud & Infrastructure Startups: Affordable AI Compute
 
-The high cost of GPU resources can be a big problem for GPU cloud and infrastructure startups that want to innovate in AI. CompuX offers a solution: a marketplace for [compute credits](/concepts/compute-credits/). It's designed to provide affordable AI compute and flexible ways to pay.
+The high cost of GPU resources can be a big problem for GPU cloud and infrastructure startups that want to innovate in AI. CompuX offers a solution: a marketplace for [compute credits](../concepts/compute-credits.md). It's designed to provide affordable AI compute and flexible ways to pay.
 
 **Key Takeaways:**
 
-* **Cost Savings** — CompuX provides access to GPU [compute credits](/concepts/compute-credits/). These credits can cut AI infrastructure costs by 25-50% compared to regular cloud providers.
+* **Cost Savings** — CompuX provides access to GPU [compute credits](../concepts/compute-credits.md). These credits can cut AI infrastructure costs by 25-50% compared to regular cloud providers.
 * **Scalability** — Startups can grow their AI work without being held back by small budgets when they use the marketplace.
 * **Financing Options** — The platform offers special ways to pay, so startups can get the compute resources they need without giving away equity.
 * **GPU Utilization** — The marketplace helps use GPU resources better. The industry average for data center GPU use is only 30-50%, according to the [Stanford AI Index](https://aiindex.stanford.edu/report/), 2025.
@@ -21,7 +21,7 @@ For example, a Series A startup might spend $50,000 to $80,000 each month on tra
 
 ## How CompuX Solves the AI Compute Problem
 
-This connects AI startups with affordable GPU resources. Through the marketplace, startups can get [compute credits](/concepts/compute-credits/) at good prices. This often saves them 25-50% compared to regular cloud providers. This lets startups spend more money on important things, which speeds up their AI work. Also, it offers flexible ways to pay, so startups can get the compute resources they need without losing equity.
+This connects AI startups with affordable GPU resources. Through the marketplace, startups can get [compute credits](../concepts/compute-credits.md) at good prices. This often saves them 25-50% compared to regular cloud providers. This lets startups spend more money on important things, which speeds up their AI work. Also, it offers flexible ways to pay, so startups can get the compute resources they need without losing equity.
 
 By bringing together supply and demand, it makes sure GPUs are used in the best way. This means startups can get the compute power they need, when they need it.
 
@@ -33,9 +33,9 @@ By bringing together supply and demand, it makes sure GPUs are used in the best 
 
 ## How CompuX Helps GPU Cloud & Infrastructure Startups
 
-Here's how it works: 1. **Sign Up:** Startups create an account on the platform. 2. **Credit Transfusion:** Apply for a [compute credit transfusion](/concepts/compute-credit-transfusion-guide/), turning capital into 1.25-1.5x [compute credits](/concepts/compute-credits/). 3. **Access Marketplace:** Browse the marketplace for good prices on compute credits. 4.
+Here's how it works: 1. **Sign Up:** Startups create an account on the platform. 2. **Credit Transfusion:** Apply for a [compute credit transfusion](../concepts/compute-credit-transfusion-guide.md), turning capital into 1.25-1.5x [compute credits](../concepts/compute-credits.md). 3. **Access Marketplace:** Browse the marketplace for good prices on compute credits. 4.
 
-**Deploy and Scale:** Use the [compute credits](/concepts/compute-credits/) to get GPU resources from different providers, like OpenAI, Anthropic, Google, Meta, and Mistral. Use these for training and inference. 5. **Optimize Spend:** Watch and manage how much you spend on compute through the platform dashboard. This helps you use resources in the best way and save money.
+**Deploy and Scale:** Use the [compute credits](../concepts/compute-credits.md) to get GPU resources from different providers, like OpenAI, Anthropic, Google, Meta, and Mistral. Use these for training and inference. 5. **Optimize Spend:** Watch and manage how much you spend on compute through the platform dashboard. This helps you use resources in the best way and save money.
 
 ## Benefits of Using CompuX for AI Compute
 
@@ -51,13 +51,13 @@ For example, startups can see a **2x-3x** increase in the amount of compute they
 
 ## CompuX Compute Credit Marketplace: A Deep Dive
 
-The CompuX compute credit marketplace is made to use GPU resources in the best way and offer cost-effective tools for AI startups. By bringing together supply and demand, it creates a competitive place that lowers prices and offers flexible ways to pay. it works with different GPU resources from top providers, including models from OpenAI, Anthropic, and Meta. Startups can easily compare prices, choose the best resources, and manage their compute spending through one dashboard. Trade [compute credits](/concepts/compute-credits/) to use their resources in the best way.
+The CompuX compute credit marketplace is made to use GPU resources in the best way and offer cost-effective tools for AI startups. By bringing together supply and demand, it creates a competitive place that lowers prices and offers flexible ways to pay. it works with different GPU resources from top providers, including models from OpenAI, Anthropic, and Meta. Startups can easily compare prices, choose the best resources, and manage their compute spending through one dashboard. Trade [compute credits](../concepts/compute-credits.md) to use their resources in the best way.
 
 In 2025, global AI infrastructure investment totaled $150 billion [IDC](https://www.idc.com/), highlighting the sector's explosive growth. This shows how much demand there is for AI compute. On spot markets, H100 instances trade between $1.50 and $2.80 per GPU-hour, a steep discount from list pricing. These savings can really help startups with small budgets. By using the marketplace, startups can greatly lower their compute costs and speed up their AI work.
 
 ## Financing Options for AI Infrastructure
 
-Getting money for AI infrastructure can be hard for startups. Regular [CompuX vs venture debt](/compare/compux-vs-venture-debt/) might not be a good fit, and cloud credit programs often have limits. That's why it offers new ways to pay that are made for AI startups. Through the [compute credit transfusion](/concepts/compute-credit-transfusion-guide/) engine, startups can turn capital into 1.25-1.5x [compute credits](/concepts/compute-credits/). This means that a financing that amplifies compute budgets by [credit multiplier effect](/concepts/ai-compute-financing-guide/) in compute credits. This helps startups get the most out of their compute budget and speed up their AI development without losing equity.
+Getting money for AI infrastructure can be hard for startups. Regular [CompuX vs venture debt](../compare/compux-vs-venture-debt.md) might not be a good fit, and cloud credit programs often have limits. That's why it offers new ways to pay that are made for AI startups. Through the [compute credit transfusion](../concepts/compute-credit-transfusion-guide.md) engine, startups can turn capital into 1.25-1.5x [compute credits](../concepts/compute-credits.md). This means that a financing that amplifies compute budgets by [credit multiplier effect](../concepts/ai-compute-financing-guide.md) in compute credits. This helps startups get the most out of their compute budget and speed up their AI development without losing equity.
 
 Compute costs often exceed headcount as the largest startup expense. training state-of-the-art models requires massive compute investment, as noted by [Epoch AI](https://epochai.org/data/epochdb/notable-ai-models), 2025. open-source model fine-tuning runs at a fraction of proprietary costs based on Lambda Labs pricing, 2025. These costs are high, and many startups struggle to get the resources they need. By bringing together supply and demand, it makes sure GPUs are used in the best way. This means startups can get the compute power they need, when they need it. This lets startups focus on new ideas and development, instead of worrying about money.
 
@@ -82,11 +82,11 @@ Startups that use it can expect to see big improvements in their AI development.
 
 ### What is CompuX and how does it work?
 
-CompuX is a marketplace for compute credits that connects AI startups with affordable GPU resources. The platform brings together supply and demand from different providers, so startups can get compute credits at good prices. Flexible financing options let startups get the resources they need without losing equity. The system works as a [token operator](/concepts/token-operator-guide/), helping with the exchange of [blockable credits](/concepts/blockable-credits/) to use resources in the best way.
+CompuX is a marketplace for compute credits that connects AI startups with affordable GPU resources. The platform brings together supply and demand from different providers, so startups can get compute credits at good prices. Flexible financing options let startups get the resources they need without losing equity. The system works as a [token operator](../concepts/token-operator-guide.md), helping with the exchange of [blockable credits](../concepts/blockable-credits.md) to use resources in the best way.
 
 ### How does CompuX help startups afford AI compute?
 
-CompuX helps startups afford AI compute by offering a compute credit marketplace with good prices. These prices are often 25–50% lower than regular cloud providers. Also, it provides unique ways to pay, like the [Compute Credit Transfusion Engine](/concepts/compute-credit-transfusion-guide/). This makes capital investments into compute credits more valuable, which increases a startup's compute budget without needing more funding. This is helpful because AI startups can spend 30-50% of their money on compute alone, according to [a16z State of AI](https://a16z.com/ai/), 2025.
+CompuX helps startups afford AI compute by offering a compute credit marketplace with good prices. These prices are often 25–50% lower than regular cloud providers. Also, it provides unique ways to pay, like the [Compute Credit Transfusion Engine](../concepts/compute-credit-transfusion-guide.md). This makes capital investments into compute credits more valuable, which increases a startup's compute budget without needing more funding. This is helpful because AI startups can spend 30-50% of their money on compute alone, according to [a16z State of AI](https://a16z.com/ai/), 2025.
 
 ### What are compute credits and how do they work on CompuX?
 
@@ -98,4 +98,4 @@ The platform is helpful for many startups in the GPU cloud and infrastructure sp
 
 ### How do I get started with CompuX?
 
-It's easy to get started. First, create an account on the platform. Then, browse the marketplace for available compute credits and financing options. Once you have compute credits, you can use them to get GPU resources from different providers for your AI work. The dashboard provides tools to watch your spending and use resources in the best way. Access affordable AI compute today. [Sign up now!](/faq/getting-started-compux/)
+It's easy to get started. First, create an account on the platform. Then, browse the marketplace for available compute credits and financing options. Once you have compute credits, you can use them to get GPU resources from different providers for your AI work. The dashboard provides tools to watch your spending and use resources in the best way. Access affordable AI compute today. [Sign up now!](../faq/getting-started-compux.md)

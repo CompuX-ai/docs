@@ -5,7 +5,7 @@ The AI compute value chain encompasses the interconnected network of activities,
 **Key Takeaways:**
 
 * **Hardware Foundation** — Chip manufacturers like NVIDIA and AMD provide the GPUs and other specialized hardware that power AI compute.
-* **Infrastructure Support** — Cloud providers such as AWS and Azure offer scalable infrastructure for AI [training-heavy startups](/use-cases/training-heavy-startups/) and [inference-heavy startups](/use-cases/inference-heavy-startups/).
+* **Infrastructure Support** — Cloud providers such as AWS and Azure offer scalable infrastructure for AI [training-heavy startups](../use-cases/training-heavy-startups.md) and [inference-heavy startups](../use-cases/inference-heavy-startups.md).
 * **Software Enablement** — AI frameworks and tools simplify the development and deployment of AI models.
 * **Application Delivery** — End-user applications use AI compute to deliver intelligent services and tools.
 * **CompuX Optimization** — The CompuX platform helps optimize the AI compute value chain by connecting AI startups with affordable compute resources and non-dilutive financing.
@@ -26,11 +26,11 @@ The hardware layer fuels the infrastructure layer, which in turn supports the so
 
 ## Hardware Layer: The Foundation of AI Compute
 
-The hardware layer forms the bedrock of the AI compute value chain. It is primarily concerned with the design, development, and manufacturing of specialized processors optimized for AI workloads. These include Graphics Processing Units (GPUs), Application-Specific Integrated Circuits (ASICs), and Field-Programmable Gate Arrays (FPGAs). Companies like NVIDIA, AMD, and Intel are key players in this space, constantly innovating to deliver more powerful and efficient hardware tools. The performance of these processors directly impacts the speed and efficiency of AI training and [inference-heavy startups](/use-cases/inference-heavy-startups/). This layer crucial for the entire network. The GPU availability has improved as new capacity came online ([SemiAnalysis](https://www.semianalysis.com/), Q1 2025), showing the rapid advancements and increasing availability of high-performance hardware.
+The hardware layer forms the bedrock of the AI compute value chain. It is primarily concerned with the design, development, and manufacturing of specialized processors optimized for AI workloads. These include Graphics Processing Units (GPUs), Application-Specific Integrated Circuits (ASICs), and Field-Programmable Gate Arrays (FPGAs). Companies like NVIDIA, AMD, and Intel are key players in this space, constantly innovating to deliver more powerful and efficient hardware tools. The performance of these processors directly impacts the speed and efficiency of AI training and [inference-heavy startups](../use-cases/inference-heavy-startups.md). This layer crucial for the entire network. The GPU availability has improved as new capacity came online ([SemiAnalysis](https://www.semianalysis.com/), Q1 2025), showing the rapid advancements and increasing availability of high-performance hardware.
 
 **Citable Passage:**
 
-The hardware layer is the foundation of the AI compute value chain, and chip manufacturers drive its innovation. AI compute requirements surged 10x from 2020 to 2025 ([Epoch AI](https://epochai.org/data/epochdb/notable-ai-models)), driven by larger models and broader adoption. Placed immense pressure on hardware providers to deliver more powerful and efficient tools. NVIDIA, AMD, and Intel have responded by developing specialized GPUs and ASICs optimized for AI workloads, leading to large performance improvements. GPUs, in particular, have become the workhorse of AI compute due to their parallel processing capabilities. The increased demand also led to higher prices. GPU costs have fallen as supply caught up with demand (Epoch AI, 2025). Eased some of the financial burden on AI developers. These hardware advancements enable faster training times, lower [inference-heavy startups](/use-cases/inference-heavy-startups/) costs. The development of more sophisticated AI models, in the end driving innovation across the entire AI network.
+The hardware layer is the foundation of the AI compute value chain, and chip manufacturers drive its innovation. AI compute requirements surged 10x from 2020 to 2025 ([Epoch AI](https://epochai.org/data/epochdb/notable-ai-models)), driven by larger models and broader adoption. Placed immense pressure on hardware providers to deliver more powerful and efficient tools. NVIDIA, AMD, and Intel have responded by developing specialized GPUs and ASICs optimized for AI workloads, leading to large performance improvements. GPUs, in particular, have become the workhorse of AI compute due to their parallel processing capabilities. The increased demand also led to higher prices. GPU costs have fallen as supply caught up with demand (Epoch AI, 2025). Eased some of the financial burden on AI developers. These hardware advancements enable faster training times, lower [inference-heavy startups](../use-cases/inference-heavy-startups.md) costs. The development of more sophisticated AI models, in the end driving innovation across the entire AI network.
 
 ## Infrastructure Layer: Powering AI at Scale
 
@@ -60,7 +60,7 @@ The different stages of the AI compute value chain are highly interconnected, wi
 
 **Citable Passage:**
 
-The AI compute value chain operates as an intricate web of interdependencies. Stanford's 2025 AI Index shows that the typical data center uses only 30-50% of its GPU throughput, a gap that marketplace models are designed to close. Cloud providers rely on chip manufacturers to supply latest GPUs. AI startups depend on cloud infrastructure to train and deploy their models. This creates a complex relationship where innovation and efficiency in one layer directly impact the others. The number of [GPU cloud startups](/use-cases/gpu-cloud-startups/) providers has grown rapidly in recent years+ between 2023 and 2025 (Epoch AI). Increased competition and drove down prices, benefiting AI startups. Platforms like CompuX play a crucial role in bridging these gaps by connecting AI startups with affordable compute resources and optimizing GPU utilization, in the end improving the overall efficiency and effectiveness of the AI compute value chain.
+The AI compute value chain operates as an intricate web of interdependencies. Stanford's 2025 AI Index shows that the typical data center uses only 30-50% of its GPU throughput, a gap that marketplace models are designed to close. Cloud providers rely on chip manufacturers to supply latest GPUs. AI startups depend on cloud infrastructure to train and deploy their models. This creates a complex relationship where innovation and efficiency in one layer directly impact the others. The number of [GPU cloud startups](../use-cases/gpu-cloud-startups.md) providers has grown rapidly in recent years+ between 2023 and 2025 (Epoch AI). Increased competition and drove down prices, benefiting AI startups. Platforms like CompuX play a crucial role in bridging these gaps by connecting AI startups with affordable compute resources and optimizing GPU utilization, in the end improving the overall efficiency and effectiveness of the AI compute value chain.
 
 ## The Future of the AI Compute Value Chain
 
@@ -80,7 +80,7 @@ Using CompuX for AI compute credits offers several benefits:
 * **Provider Diversity:** Switch between models from OpenAI, Anthropic, Meta, and other providers.
 * **Monetize Idle Capacity:** GPU providers can monetize unused resources.
 
-CompuX helps AI startups stretch their runway, allowing them to focus on innovation and growth. Series A AI startups burn $20-80K/month on [inference-heavy startups](/use-cases/inference-heavy-startups/) and training. CompuX offers a solution to optimize compute spend.
+CompuX helps AI startups stretch their runway, allowing them to focus on innovation and growth. Series A AI startups burn $20-80K/month on [inference-heavy startups](../use-cases/inference-heavy-startups.md) and training. CompuX offers a solution to optimize compute spend.
 
 ## Frequently Asked Questions
 
@@ -114,11 +114,11 @@ The future involves continued growth, innovation in hardware and software, and t
 
 ## Related Terms
 
-* [Compute Credits](/concepts/compute-credits/)
-* [Token Operator](/concepts/token-operator-guide/)
-* [Compute Marketplace](/concepts/compute-credit-marketplace/)
-* [GPU Utilization](/concepts/gpu-utilization/)
+* [Compute Credits](compute-credits.md)
+* [Token Operator](token-operator-guide.md)
+* [Compute Marketplace](compute-credit-marketplace.md)
+* [GPU Utilization](gpu-utilization.md)
 
 ## Get Started
 
-Ready to optimize your AI compute spend? Explore CompuX and discover how we can help you access affordable GPU resources and non-dilutive financing. [Learn more about CompuX](/compare/compux-vs-openrouter/)
+Ready to optimize your AI compute spend? Explore CompuX and discover how we can help you access affordable GPU resources and non-dilutive financing. [Learn more about CompuX](../compare/compux-vs-openrouter.md)

@@ -7,21 +7,21 @@ AI compute financing is how companies pay for the computing power they need for 
 * **Compute Costs** — AI startups can spend 20-50% of their operating expenses on compute resources, making efficient financing crucial.
 * **Market Growth** — The AI infrastructure market is growing fast, expected to reach $150B in 2025, showing large investment.
 * **Non-Dilutive Options** — Compute credit marketplaces, like CompuX, offer financing options that don't require giving up company ownership, unlike venture capital.
-* **Provider Options** — The number of [GPU cloud startups](/use-cases/gpu-cloud-startups/) providers has increased a lot, from 12 to over 40 between 2023 and 2025.
+* **Provider Options** — The number of [GPU cloud startups](../use-cases/gpu-cloud-startups.md) providers has increased a lot, from 12 to over 40 between 2023 and 2025.
 * **Marketplace Savings** — Compute credit marketplaces like CompuX offer GPU access at prices 10-30% lower than on-demand cloud providers.
 * **Financing Options** — Non-dilutive options include revenue-based financing, grants, and AI asset-backed lending using blockable compute credits.
 * **Provider Agnostic** — Platforms like CompuX support models from OpenAI, Anthropic, Google, Meta, Mistral, and others, offering flexibility.
-* [inference-heavy startups](/use-cases/inference-heavy-startups/) workloads now consume the bulk of AI compute budgets.
+* [inference-heavy startups](../use-cases/inference-heavy-startups.md) workloads now consume the bulk of AI compute budgets.
 
 ## Understanding AI Compute Costs
 
-AI compute costs are the expenses for the infrastructure needed to create, train, and use AI models. These costs mainly come from using powerful hardware, like GPUs, and cloud services from providers like OpenAI, Anthropic, and Meta. Knowing these costs is key for good financial planning. AI compute costs are a big concern for organizations. These costs cover things like data storage, model training, [inference-heavy startups](/use-cases/inference-heavy-startups/), and keeping the infrastructure running.
+AI compute costs are the expenses for the infrastructure needed to create, train, and use AI models. These costs mainly come from using powerful hardware, like GPUs, and cloud services from providers like OpenAI, Anthropic, and Meta. Knowing these costs is key for good financial planning. AI compute costs are a big concern for organizations. These costs cover things like data storage, model training, [inference-heavy startups](../use-cases/inference-heavy-startups.md), and keeping the infrastructure running.
 
-The exact costs depend on factors like how complex the model is and how big the dataset is. The hardware and cloud services chosen also affect costs. For example, training a GPT-4 level model could cost $50-100M, according to [Epoch AI](https://epochai.org/data/epochdb/notable-ai-models) in 2025. This shows that it's increasingly important to lower [inference-heavy startups](/use-cases/inference-heavy-startups/) costs. Understanding AI compute costs is crucial for budgeting.
+The exact costs depend on factors like how complex the model is and how big the dataset is. The hardware and cloud services chosen also affect costs. For example, training a GPT-4 level model could cost $50-100M, according to [Epoch AI](https://epochai.org/data/epochdb/notable-ai-models) in 2025. This shows that it's increasingly important to lower [inference-heavy startups](../use-cases/inference-heavy-startups.md) costs. Understanding AI compute costs is crucial for budgeting.
 
 ### What are the typical costs associated with AI compute?
 
-Typical costs include expenses for using GPUs, cloud services, data storage, and software licenses. Costs can change a lot based on the size and complexity of the AI models. The amount of data processed. The specific cloud provider or hardware used also affects costs. A Series A AI startup could easily spend $20-80K per month on [inference-heavy startups](/use-cases/inference-heavy-startups/) and training.
+Typical costs include expenses for using GPUs, cloud services, data storage, and software licenses. Costs can change a lot based on the size and complexity of the AI models. The amount of data processed. The specific cloud provider or hardware used also affects costs. A Series A AI startup could easily spend $20-80K per month on [inference-heavy startups](../use-cases/inference-heavy-startups.md) and training.
 
 ## The AI Compute Challenge: Why GPU Access Matters
 
@@ -31,7 +31,7 @@ The AI infrastructure sector crossed $150 billion in 2025, per [IDC](https://www
 
 ## Traditional Financing Options for AI Compute
 
-Traditional ways to finance AI compute include venture capital, debt financing, and [CompuX vs cloud credits](/compare/compux-vs-cloud-credits/). Each has its own pros and cons that AI startups need to think about. The best choice depends on the startup's stage, financial situation, and goals. Venture capital (VC) is a common way for AI startups to get money. It means giving up some ownership of the company. Debt financing is another option, but it needs to be paid back with interest. In 2023, venture capital investments in AI reached $40 billion, highlighting its significance as a funding source.
+Traditional ways to finance AI compute include venture capital, debt financing, and [CompuX vs cloud credits](../compare/compux-vs-cloud-credits.md). Each has its own pros and cons that AI startups need to think about. The best choice depends on the startup's stage, financial situation, and goals. Venture capital (VC) is a common way for AI startups to get money. It means giving up some ownership of the company. Debt financing is another option, but it needs to be paid back with interest. In 2023, venture capital investments in AI reached $40 billion, highlighting its significance as a funding source.
 
 ## Venture Capital for AI Compute: Benefits and Drawbacks
 
@@ -90,15 +90,15 @@ For example, H100 spot rates can be $1.50-2.80 per GPU hour on these marketplace
 
 ## Compute Credit Marketplaces: Accessing Affordable GPU Power with CompuX
 
-Compute credit marketplaces, such as CompuX, offer AI startups a way to access GPU resources at competitive prices. These marketplaces aggregate compute capacity from various providers, allowing startups to shop for the best deals and optimize their compute spending. By leveraging compute credit marketplaces, AI startups can significantly reduce their compute costs and improve their overall financial efficiency. The marketplace also supports models from OpenAI, Anthropic, Google, Meta, Mistral. More, allowing startups to switch between providers to optimize costs and performance. [CompuX vs cloud credits](/compare/compux-vs-cloud-credits/) and [CompuX vs Lambda Labs](/compare/compux-vs-lambda-labs/) offer different tradeoffs in terms of cost, availability, and features.
+Compute credit marketplaces, such as CompuX, offer AI startups a way to access GPU resources at competitive prices. These marketplaces aggregate compute capacity from various providers, allowing startups to shop for the best deals and optimize their compute spending. By leveraging compute credit marketplaces, AI startups can significantly reduce their compute costs and improve their overall financial efficiency. The marketplace also supports models from OpenAI, Anthropic, Google, Meta, Mistral. More, allowing startups to switch between providers to optimize costs and performance. [CompuX vs cloud credits](../compare/compux-vs-cloud-credits.md) and [CompuX vs Lambda Labs](../compare/compux-vs-lambda-labs.md) offer different tradeoffs in terms of cost, availability, and features.
 
 ## Venture Debt for AI: Balancing Debt and Equity
 
-[CompuX vs venture debt](/compare/compux-vs-venture-debt/) is a debt-based financing option that can provide AI startups with capital without diluting equity. Venture debt is typically secured by the company's assets and requires repayment with interest over a set period. While venture debt does not dilute equity, it does add a financial burden in the form of regular interest payments.
+[CompuX vs venture debt](../compare/compux-vs-venture-debt.md) is a debt-based financing option that can provide AI startups with capital without diluting equity. Venture debt is typically secured by the company's assets and requires repayment with interest over a set period. While venture debt does not dilute equity, it does add a financial burden in the form of regular interest payments.
 
-[CompuX vs venture debt](/compare/compux-vs-venture-debt/) is a type of loan offered to startups that have already raised venture capital. It requires repayment with interest, typically over a shorter term than traditional loans.
+[CompuX vs venture debt](../compare/compux-vs-venture-debt.md) is a type of loan offered to startups that have already raised venture capital. It requires repayment with interest, typically over a shorter term than traditional loans.
 
-[CompuX vs venture debt](/compare/compux-vs-venture-debt/) can be a useful option for AI startups that need capital to fund specific projects or investments, such as purchasing additional GPU resources. However, it's important to carefully consider the repayment terms and interest rates to ensure that the startup can comfortably manage the debt burden.
+[CompuX vs venture debt](../compare/compux-vs-venture-debt.md) can be a useful option for AI startups that need capital to fund specific projects or investments, such as purchasing additional GPU resources. However, it's important to carefully consider the repayment terms and interest rates to ensure that the startup can comfortably manage the debt burden.
 
 ## AI Asset-Backed Lending: Leveraging Compute Credits for Financing
 
@@ -108,11 +108,11 @@ CompuX facilitates this process by offering blockable compute credits, which can
 
 ## CompuX: Non-Dilutive Financing for AI Compute
 
-This lets AI startups get the compute resources they need without sacrificing ownership. CompuX offers a multiplier on financing, turning [financing amplification](/concepts/compute-credit-transfusion-guide/) into $1.25-1.5M in compute credits.
+This lets AI startups get the compute resources they need without sacrificing ownership. CompuX offers a multiplier on financing, turning [financing amplification](compute-credit-transfusion-guide.md) into $1.25-1.5M in compute credits.
 
 ### How does CompuX's non-dilutive financing work?
 
-Startups get more compute credits than the money they put in, turning [financing amplification](/concepts/compute-credit-transfusion-guide/) into $1.25-1.5M in compute credits, without giving up equity.
+Startups get more compute credits than the money they put in, turning [financing amplification](compute-credit-transfusion-guide.md) into $1.25-1.5M in compute credits, without giving up equity.
 
 ## Benefits of Using CompuX for AI Compute Financing
 
@@ -136,11 +136,11 @@ The following table compares venture capital with alternative financing models f
 
 ## CompuX: Your Partner in Non-Dilutive AI Compute Financing
 
-CompuX is a compute credit marketplace designed to help AI startups access affordable GPU power without equity dilution. By providing a platform to buy, sell. Manage compute credits, it enables startups to optimize their compute spending and secure the resources they need to train and deploy AI models. With access to models from OpenAI, Anthropic, Google, Meta, Mistral and other providers, it offers a flexible, cost-effective solution for AI compute financing. [CompuX vs cloud credits](/compare/compux-vs-cloud-credits/) highlights the cost savings and flexibility available through CompuX.
+CompuX is a compute credit marketplace designed to help AI startups access affordable GPU power without equity dilution. By providing a platform to buy, sell. Manage compute credits, it enables startups to optimize their compute spending and secure the resources they need to train and deploy AI models. With access to models from OpenAI, Anthropic, Google, Meta, Mistral and other providers, it offers a flexible, cost-effective solution for AI compute financing. [CompuX vs cloud credits](../compare/compux-vs-cloud-credits.md) highlights the cost savings and flexibility available through CompuX.
 
 ## Optimizing Your AI Compute Budget
 
-To get the most out of your AI compute budget, you need to carefully assess your compute needs, look at different pricing options. Use tools to track and manage your spending. By doing these things, AI startups can lower their compute costs and improve their finances. To optimize your AI compute budget, start by carefully figuring out what you need. This means identifying what you need for model training, [inference-heavy startups](/use-cases/inference-heavy-startups/), and data processing. Estimate how many GPU hours and how much storage you'll need.
+To get the most out of your AI compute budget, you need to carefully assess your compute needs, look at different pricing options. Use tools to track and manage your spending. By doing these things, AI startups can lower their compute costs and improve their finances. To optimize your AI compute budget, start by carefully figuring out what you need. This means identifying what you need for model training, [inference-heavy startups](../use-cases/inference-heavy-startups.md), and data processing. Estimate how many GPU hours and how much storage you'll need.
 
 Then, check out the different pricing options from cloud providers and compute credit marketplaces to find ways to save money. For example, spot instances or reserved instances might offer big discounts compared to on-demand pricing. Also, use tools to track and manage your compute spending. This can help you see how you're using resources, find problems, and avoid unexpected costs. By carefully figuring out your needs, exploring pricing options.
 
@@ -164,7 +164,7 @@ Key terms to negotiate include interest rates, repayment schedules, equity stake
 
 (This section will contain hypothetical examples due to not having real case studies yet.) Imagine a Series A startup, "AI Vision," that's creating computer vision models for self-driving cars. At first, they used venture capital, but they were worried about giving up too much equity. They switched to CompuX, getting $500,000 in compute credits with a 25% bonus. This let them train more complex models without giving up more equity.
 
-Another example is "Natural Language AI," a startup working on NLP models. They got debt financing, but the high interest rates were hurting their cash flow. By using [CompuX vs OpenRouter](/compare/compux-vs-openrouter/), they found access to cheaper compute, lowered their monthly expenses by 30%. Had more time to operate before running out of money.
+Another example is "Natural Language AI," a startup working on NLP models. They got debt financing, but the high interest rates were hurting their cash flow. By using [CompuX vs OpenRouter](../compare/compux-vs-openrouter.md), they found access to cheaper compute, lowered their monthly expenses by 30%. Had more time to operate before running out of money.
 
 ## The Future of AI Compute Financing
 
@@ -174,7 +174,7 @@ New financing tools, like compute credit derivatives and decentralized compute m
 
 ### How is AI compute financing evolving?
 
-AI compute financing is changing with the arrival of compute credit marketplaces, financing options that don't require giving up equity, and new pricing models. The growing need for AI compute is creating a demand for more flexible and affordable financing tools. To explore further options, consider [CompuX vs Together AI](/compare/compux-vs-together-ai/) to understand the nuances of different offerings.
+AI compute financing is changing with the arrival of compute credit marketplaces, financing options that don't require giving up equity, and new pricing models. The growing need for AI compute is creating a demand for more flexible and affordable financing tools. To explore further options, consider [CompuX vs Together AI](../compare/compux-vs-together-ai.md) to understand the nuances of different offerings.
 
 ## Frequently Asked Questions
 
@@ -218,11 +218,11 @@ Non-dilutive financing refers to funding options that do not require AI startups
 
 Revenue-based financing (RBF) allows AI startups to repay funding as a percentage of their revenue, aligning incentives between the startup and the financing provider. This model provides flexibility, as repayments fluctuate with revenue, and avoids equity dilution. RBF is particularly beneficial for AI startups with predictable revenue streams, as it allows them to manage their cash flow more effectively.
 
-**How does [CompuX vs venture debt](/compare/compux-vs-venture-debt/) work for AI companies?**
+**How does [CompuX vs venture debt](../compare/compux-vs-venture-debt.md) work for AI companies?**
 
-[CompuX vs venture debt](/compare/compux-vs-venture-debt/) is a loan provided to startups that have already raised venture capital. It allows companies to secure additional capital without diluting equity.
+[CompuX vs venture debt](../compare/compux-vs-venture-debt.md) is a loan provided to startups that have already raised venture capital. It allows companies to secure additional capital without diluting equity.
 
-However, it requires repayment with interest over a set period, adding a financial burden to the company. [CompuX vs venture debt](/compare/compux-vs-venture-debt/) is often used to finance specific projects or investments, such as purchasing additional GPU resources or expanding into new markets.
+However, it requires repayment with interest over a set period, adding a financial burden to the company. [CompuX vs venture debt](../compare/compux-vs-venture-debt.md) is often used to finance specific projects or investments, such as purchasing additional GPU resources or expanding into new markets.
 
 **What are AI asset-backed loans?**
 
@@ -244,15 +244,15 @@ Compute credits represent a unit of prepaid access to computing resources, typic
 
 CompuX offers blockable compute credits, which can be locked and assigned as collateral for loans. This process involves designating a specific amount of compute credits to be held as collateral by the lender, providing security for the loan. Blocking compute credits allows AI startups to use their existing compute resources to secure financing without disrupting their ongoing operations.
 
-[Get started today!](/faq/getting-started-compux/) AI compute financing is critical for companies building the future of AI. CompuX offers a non-dilutive path to access the compute you need to build and scale. [Get started today!](/faq/getting-started-compux/)
+[Get started today!](../faq/getting-started-compux.md) AI compute financing is critical for companies building the future of AI. CompuX offers a non-dilutive path to access the compute you need to build and scale. [Get started today!](../faq/getting-started-compux.md)
 
 ## Related Terms
 
-* [Compute Credits](/concepts/compute-credits/)
-* [Blockable Credits](/concepts/blockable-credits/)
-* [Compute Marketplace](/concepts/compute-credit-marketplace/)
-* [GPU Utilization](/concepts/gpu-utilization/)
-* [Compute Credit Transfusion](/concepts/compute-credit-transfusion-guide/)
+* [Compute Credits](compute-credits.md)
+* [Blockable Credits](blockable-credits.md)
+* [Compute Marketplace](compute-credit-marketplace.md)
+* [GPU Utilization](gpu-utilization.md)
+* [Compute Credit Transfusion](compute-credit-transfusion-guide.md)
 
 ## Get Started
 

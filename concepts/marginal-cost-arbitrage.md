@@ -20,7 +20,7 @@ Marginal cost arbitrage is profiting from differences in the marginal cost of a 
 
 Marginal cost is the change in the total cost when the amount produced goes up by one unit. It is the cost of making one more unit of a good or service. Knowing marginal cost is key for businesses. By looking at marginal costs, companies can find the best level of output to make the most profit. Marginal cost analysis is very important in industries where demand changes or input costs vary.
 
-Marginal cost is very important in deciding if each extra unit made is profitable. The idea of marginal cost is key to understanding marginal cost arbitrage. Marginal cost arbitrage uses differences in the cost of making one more unit to make a profit. For example, a cloud computing company may have extra capacity during off-peak hours. The marginal cost of providing more compute resources at this time is much lower because of existing infrastructure and lower energy use. An AI startup can use this by buying compute credits at a lower price during off-peak hours. They can use them for [training-heavy startups](/use-cases/training-heavy-startups/) or [inference-heavy startups](/use-cases/inference-heavy-startups/) tasks. This uses the difference in marginal cost to lower the startup's overall compute costs. For instance, if a cloud provider charges $0.10 per compute hour during peak times but only $0.03 during off-peak, an AI startup can save 70% by scheduling tasks accordingly.
+Marginal cost is very important in deciding if each extra unit made is profitable. The idea of marginal cost is key to understanding marginal cost arbitrage. Marginal cost arbitrage uses differences in the cost of making one more unit to make a profit. For example, a cloud computing company may have extra capacity during off-peak hours. The marginal cost of providing more compute resources at this time is much lower because of existing infrastructure and lower energy use. An AI startup can use this by buying compute credits at a lower price during off-peak hours. They can use them for [training-heavy startups](../use-cases/training-heavy-startups.md) or [inference-heavy startups](../use-cases/inference-heavy-startups.md) tasks. This uses the difference in marginal cost to lower the startup's overall compute costs. For instance, if a cloud provider charges $0.10 per compute hour during peak times but only $0.03 during off-peak, an AI startup can save 70% by scheduling tasks accordingly.
 
 ## How Marginal Cost Arbitrage Works: A Step-by-Step Explanation
 
@@ -48,7 +48,7 @@ This type of arbitrage is often done using complex trading programs and high-fre
 
 ## Marginal Cost Arbitrage in Cloud Computing
 
-Cloud computing offers good chances for marginal cost arbitrage. This is especially true for AI startups with changing compute needs. Cloud providers often have extra capacity during off-peak hours. This leads to lower marginal costs for compute resources. [Gartner](https://www.gartner.com/en/newsroom) expects the cloud computing market to reach $832.1 billion by 2025. This shows how big these chances are getting. AI startups can use these lower costs by scheduling compute-heavy tasks during off-peak hours. These tasks could be model [training-heavy startups](/use-cases/training-heavy-startups/) or large-scale [inference-heavy startups](/use-cases/inference-heavy-startups/). This lets them use the same compute resources at a lower cost compared to on-demand prices.
+Cloud computing offers good chances for marginal cost arbitrage. This is especially true for AI startups with changing compute needs. Cloud providers often have extra capacity during off-peak hours. This leads to lower marginal costs for compute resources. [Gartner](https://www.gartner.com/en/newsroom) expects the cloud computing market to reach $832.1 billion by 2025. This shows how big these chances are getting. AI startups can use these lower costs by scheduling compute-heavy tasks during off-peak hours. These tasks could be model [training-heavy startups](../use-cases/training-heavy-startups.md) or large-scale [inference-heavy startups](../use-cases/inference-heavy-startups.md). This lets them use the same compute resources at a lower cost compared to on-demand prices.
 
 The key is to find times of low demand and get good pricing deals with cloud providers. H100 instances on spot marketplaces cost $1.50-$2.80 per GPU-hour, creating real budget flexibility for AI teams. By using spot instances during off-peak hours, startups can significantly reduce their compute expenses.
 
@@ -88,9 +88,9 @@ To lower these risks, businesses should use strong risk management strategies. T
 
 ## CompuX and Marginal Cost Arbitrage in AI Compute
 
-CompuX helps with marginal cost arbitrage in the AI compute market. By bringing together supply from many sources, it shows price differences and lets users use these differences. This is very helpful for startups that use a lot of [inference-heavy startups](/use-cases/inference-heavy-startups/). For them, compute costs can be up to 80% of their total costs. CompuX's API allows for easy switching between providers like OpenAI, Anthropic, and Meta.
+CompuX helps with marginal cost arbitrage in the AI compute market. By bringing together supply from many sources, it shows price differences and lets users use these differences. This is very helpful for startups that use a lot of [inference-heavy startups](../use-cases/inference-heavy-startups.md). For them, compute costs can be up to 80% of their total costs. CompuX's API allows for easy switching between providers like OpenAI, Anthropic, and Meta.
 
-[Epoch AI](https://epochai.org/data/epochdb/notable-ai-models) tracked over 40 [GPU cloud startups](/use-cases/gpu-cloud-startups/) providers by 2025, up from just 12 in 2023, a sign of rapid market fragmentation. This means that the chances for marginal cost arbitrage have grown a lot. CompuX offers a way to handle this complex market and improve compute spending.
+[Epoch AI](https://epochai.org/data/epochdb/notable-ai-models) tracked over 40 [GPU cloud startups](../use-cases/gpu-cloud-startups.md) providers by 2025, up from just 12 in 2023, a sign of rapid market fragmentation. This means that the chances for marginal cost arbitrage have grown a lot. CompuX offers a way to handle this complex market and improve compute spending.
 
 ## How CompuX Enables Cost Optimization for AI Startups
 
@@ -125,7 +125,7 @@ Marginal cost arbitrage is related to other types of arbitrage, including:
 * **Risk Arbitrage:** Profiting from price differences that happen during mergers, acquisitions, or other company events.
 * **Statistical Arbitrage:** Using statistical models to find and use short-term price problems in financial markets.
 
-These ideas are similar, but marginal cost arbitrage focuses on the added cost of making one more unit. You can compare [CompuX vs venture debt](/compare/compux-vs-venture-debt/) and [CompuX vs direct providers](/compare/compux-vs-direct-providers/) to see how different platforms approach cost arbitrage.
+These ideas are similar, but marginal cost arbitrage focuses on the added cost of making one more unit. You can compare [CompuX vs venture debt](../compare/compux-vs-venture-debt.md) and [CompuX vs direct providers](../compare/compux-vs-direct-providers.md) to see how different platforms approach cost arbitrage.
 
 ## Frequently Asked Questions
 
@@ -147,7 +147,7 @@ CompuX helps AI startups lower compute costs by providing access to off-peak com
 
 ### What is compute credit transfusion and how does it work?
 
-CompuX enables users to take advantage of the best available rates and optimize their spending by shifting credits to the most cost-effective provider at any given time. It's a key aspect of [CompuX vs cloud credits](/compare/compux-vs-cloud-credits/).
+CompuX enables users to take advantage of the best available rates and optimize their spending by shifting credits to the most cost-effective provider at any given time. It's a key aspect of [CompuX vs cloud credits](../compare/compux-vs-cloud-credits.md).
 
 ## Get Started
 

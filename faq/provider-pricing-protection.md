@@ -1,6 +1,6 @@
 # Provider Pricing Protection: How CompuX Ensures Fair Rates for Compute Providers
 
-CompuX is designed to be a mutually beneficial [compute credit marketplace](/concepts/compute-credit-marketplace/) for AI startups, compute providers. Capital partners, ensuring fair rates and preventing rate cannibalization. We understand the concerns compute providers have about maintaining their pricing integrity when offering their resources on a compute credit marketplace. Our platform offers layers of protection to ensure your rates are not eroded and that you can effectively monetize your resources. This page explains provider pricing protection.
+CompuX is designed to be a mutually beneficial [compute credit marketplace](../concepts/compute-credit-marketplace.md) for AI startups, compute providers. Capital partners, ensuring fair rates and preventing rate cannibalization. We understand the concerns compute providers have about maintaining their pricing integrity when offering their resources on a compute credit marketplace. Our platform offers layers of protection to ensure your rates are not eroded and that you can effectively monetize your resources. This page explains provider pricing protection.
 
 **Key Takeaways:**
 
@@ -8,7 +8,7 @@ CompuX is designed to be a mutually beneficial [compute credit marketplace](/con
 * **Pricing Protection Layers** — CompuX employs several mechanisms to protect provider rates from erosion.
 * **Effective Monetization** — CompuX helps compute providers connect with AI startups and capital partners while preserving pricing integrity.
 * **Rate Cannibalization Prevention** — A core principle of CompuX is to foster a fair pricing environment, avoiding rate cannibalization.
-* **AI Startup Funding** — CompuX provides a compute credit transfusion engine, turning $1M in financing into $1.25-1.5M in [compute credits](/concepts/compute-credits/) for AI startups.
+* **AI Startup Funding** — CompuX provides a compute credit transfusion engine, turning $1M in financing into $1.25-1.5M in [compute credits](../concepts/compute-credits.md) for AI startups.
 
 ## Understanding Pricing Concerns in Compute Marketplaces
 
@@ -40,7 +40,7 @@ It employs several layers of pricing protection to ensure that compute providers
 
 **Definition:**
 
-**Compute Credits:** Standardized units representing a specific amount of compute resources (e.g., GPU time, CPU time, memory). They allow AI startups to purchase compute resources from various providers using a common currency. [Compute credits](/concepts/compute-credits/) simplify billing and resource management across different platforms.
+**Compute Credits:** Standardized units representing a specific amount of compute resources (e.g., GPU time, CPU time, memory). They allow AI startups to purchase compute resources from various providers using a common currency. [Compute credits](../concepts/compute-credits.md) simplify billing and resource management across different platforms.
 
 ### What specific pricing controls do compute providers have on CompuX?
 
@@ -56,15 +56,15 @@ Our platform acts as a bridge, facilitating access to a broader customer base an
 
 ### How does CompuX help compute providers connect with AI startups and capital partners?
 
-AI startups can easily discover and access a wide range of compute resources from various providers. Capital partners can invest in [compute credits](/concepts/compute-credits/), providing AI startups with the funding they need to fuel their growth. CompuX facilitates these connections by providing a centralized platform for resource discovery, transaction management, and performance tracking. Our platform also offers marketing and promotional opportunities to help providers showcase their offerings to a wider audience.
+AI startups can easily discover and access a wide range of compute resources from various providers. Capital partners can invest in [compute credits](../concepts/compute-credits.md), providing AI startups with the funding they need to fuel their growth. CompuX facilitates these connections by providing a centralized platform for resource discovery, transaction management, and performance tracking. Our platform also offers marketing and promotional opportunities to help providers showcase their offerings to a wider audience.
 
 ### What are the benefits of using CompuX over other compute marketplaces?
 
-Using CompuX offers several benefits over other compute marketplaces. Our platform is designed to be mutually beneficial, ensuring fair pricing and protecting provider rates. We offer a range of pricing controls and tools to help providers effectively monetize their resources. it also provides access to a curated network of AI startups and capital partners, fostering valuable connections and growth opportunities. Unlike some marketplaces that prioritize low prices at the expense of provider profitability, it is committed to creating a sustainable network where all participants can thrive. Also, it provides a compute credit transfusion engine, turning $1M in financing into $1.25-1.5M in [compute credits](/concepts/compute-credits/) for AI startups.
+Using CompuX offers several benefits over other compute marketplaces. Our platform is designed to be mutually beneficial, ensuring fair pricing and protecting provider rates. We offer a range of pricing controls and tools to help providers effectively monetize their resources. it also provides access to a curated network of AI startups and capital partners, fostering valuable connections and growth opportunities. Unlike some marketplaces that prioritize low prices at the expense of provider profitability, it is committed to creating a sustainable network where all participants can thrive. Also, it provides a compute credit transfusion engine, turning $1M in financing into $1.25-1.5M in [compute credits](../concepts/compute-credits.md) for AI startups.
 
 ## Avoiding Rate Cannibalization: A Core CompuX Principle
 
-A core principle of CompuX is to avoid rate cannibalization and foster a fair pricing environment in the compute credit marketplace. We understand that a race to the bottom on pricing can harm compute providers and in the end degrade the quality of service available to AI startups. So, it implements policies and mechanisms to prevent excessive price competition and ensure that providers can maintain reasonable margins. This commitment to fair pricing is essential for creating a sustainable and healthy network. [inference-heavy startups](/use-cases/inference-heavy-startups/) the majority of AI compute now goes to inference workloads, up from 30% in 2022, according to a16z's 2025 State of AI report.
+A core principle of CompuX is to avoid rate cannibalization and foster a fair pricing environment in the compute credit marketplace. We understand that a race to the bottom on pricing can harm compute providers and in the end degrade the quality of service available to AI startups. So, it implements policies and mechanisms to prevent excessive price competition and ensure that providers can maintain reasonable margins. This commitment to fair pricing is essential for creating a sustainable and healthy network. [inference-heavy startups](../use-cases/inference-heavy-startups.md) the majority of AI compute now goes to inference workloads, up from 30% in 2022, according to a16z's 2025 State of AI report.
 
 ### How does CompuX prevent rate cannibalization in its compute credit marketplace?
 
@@ -86,10 +86,10 @@ For AI startups, it provides access to a wide range of compute resources at comp
 
 ### What are the benefits of CompuX for AI startups?
 
-AI startups benefit from CompuX by gaining access to a wide array of compute resources from various providers, all in one place. This simplifies resource discovery and management, allowing startups to focus on their core business. it also offers competitive pricing, helping startups optimize their compute spend and extend their runway. Also, it provides tools for monitoring resource utilization and performance, allowing startups to make data-driven decisions and improve their efficiency. A Series A AI startup may burn $20-80K per month on [inference-heavy startups](/use-cases/inference-heavy-startups/) and [training-heavy startups](/use-cases/training-heavy-startups/), so savings are critical.
+AI startups benefit from CompuX by gaining access to a wide array of compute resources from various providers, all in one place. This simplifies resource discovery and management, allowing startups to focus on their core business. it also offers competitive pricing, helping startups optimize their compute spend and extend their runway. Also, it provides tools for monitoring resource utilization and performance, allowing startups to make data-driven decisions and improve their efficiency. A Series A AI startup may burn $20-80K per month on [inference-heavy startups](../use-cases/inference-heavy-startups.md) and [training-heavy startups](../use-cases/training-heavy-startups.md), so savings are critical.
 
 ### How does CompuX benefit capital partners looking to invest in the AI compute market?
 
-CompuX benefits capital partners by providing a transparent and efficient platform for investing in the AI compute market. Capital partners can invest in [blockable credits](/concepts/blockable-credits/), providing AI startups with the funding they need to access compute resources. it offers tools for tracking investment performance and managing risk, helping capital partners make good choices. By investing in it, capital partners can support the growth of the AI industry and generate returns.
+CompuX benefits capital partners by providing a transparent and efficient platform for investing in the AI compute market. Capital partners can invest in [blockable credits](../concepts/blockable-credits.md), providing AI startups with the funding they need to access compute resources. it offers tools for tracking investment performance and managing risk, helping capital partners make good choices. By investing in it, capital partners can support the growth of the AI industry and generate returns.
 
 CompuX is committed to ensuring provider pricing protection in its compute credit marketplace by fostering a mutually beneficial environment, implementing strong pricing controls. Connecting providers with AI startups and capital partners. it ensures fair rates, prevents rate cannibalization, and supports the sustainable growth of the AI network.

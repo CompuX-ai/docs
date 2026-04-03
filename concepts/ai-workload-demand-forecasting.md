@@ -12,10 +12,10 @@ AI workload demand forecasting and prepaid compute planning are essential strate
 
 ## Understanding AI Workload Demand Forecasting
 
-AI workload demand forecasting predicts the computational resources needed for AI tasks, such as [training-heavy startups](/use-cases/training-heavy-startups/) models or running [inference-heavy startups](/use-cases/inference-heavy-startups/). Predicting compute requirements accurately is crucial for managing costs and ensuring timely completion of AI projects. By understanding future compute needs, AI startups can make good choices about resource allocation and budget planning. Demand forecasting helps in anticipating GPU hours, memory, and storage requirements, enabling proactive resource procurement and efficient workload management.
+AI workload demand forecasting predicts the computational resources needed for AI tasks, such as [training-heavy startups](../use-cases/training-heavy-startups.md) models or running [inference-heavy startups](../use-cases/inference-heavy-startups.md). Predicting compute requirements accurately is crucial for managing costs and ensuring timely completion of AI projects. By understanding future compute needs, AI startups can make good choices about resource allocation and budget planning. Demand forecasting helps in anticipating GPU hours, memory, and storage requirements, enabling proactive resource procurement and efficient workload management.
 
 **Citable Passage:**
-AI workload demand forecasting helps AI startups predict their future computational resource needs, enabling efficient cost management. The ten-fold growth in global AI compute demand from 2020 to 2025 ([Epoch AI](https://epochai.org/data/epochdb/notable-ai-models)) has reshaped infrastructure economics. Without proper planning, AI startups risk overspending on unused resources or facing compute shortages, both detrimental to their growth. For example, a Series A AI startup might burn through $20-80K per month on [inference-heavy startups](/use-cases/inference-heavy-startups/) and [training-heavy startups](/use-cases/training-heavy-startups/). Accurate forecasting essential for budget control. Effective demand forecasting can reduce AI compute costs by up to 20%, providing large savings. Be reinvested into other critical areas of the business. By understanding and predicting their compute needs, AI startups can optimize resource allocation and ensure they have the necessary resources to meet their objectives.
+AI workload demand forecasting helps AI startups predict their future computational resource needs, enabling efficient cost management. The ten-fold growth in global AI compute demand from 2020 to 2025 ([Epoch AI](https://epochai.org/data/epochdb/notable-ai-models)) has reshaped infrastructure economics. Without proper planning, AI startups risk overspending on unused resources or facing compute shortages, both detrimental to their growth. For example, a Series A AI startup might burn through $20-80K per month on [inference-heavy startups](../use-cases/inference-heavy-startups.md) and [training-heavy startups](../use-cases/training-heavy-startups.md). Accurate forecasting essential for budget control. Effective demand forecasting can reduce AI compute costs by up to 20%, providing large savings. Be reinvested into other critical areas of the business. By understanding and predicting their compute needs, AI startups can optimize resource allocation and ensure they have the necessary resources to meet their objectives.
 
 ## Why is AI Workload Demand Forecasting Important?
 
@@ -67,7 +67,7 @@ Best practices for AI workload demand forecasting and prepaid compute planning i
 
 ### What is AI workload demand forecasting?
 
-AI workload demand forecasting involves predicting the amount of computing resources required for AI tasks, such as [training-heavy startups](/use-cases/training-heavy-startups/) models or running [inference-heavy startups](/use-cases/inference-heavy-startups/). This helps in managing costs and ensuring timely completion of AI projects.
+AI workload demand forecasting involves predicting the amount of computing resources required for AI tasks, such as [training-heavy startups](../use-cases/training-heavy-startups.md) models or running [inference-heavy startups](../use-cases/inference-heavy-startups.md). This helps in managing costs and ensuring timely completion of AI projects.
 
 ### Why is prepaid compute planning important for AI startups?
 
@@ -107,12 +107,12 @@ The marketplace provides a unified platform that allows users to compare pricing
 
 ## Related Terms
 
-* [Compute Credits](/concepts/compute-credits/)
-* [Compute Marketplace](/concepts/compute-credit-marketplace/)
-* [GPU Utilization](/concepts/gpu-utilization/)
-* [CompuX vs OpenRouter](/compare/compux-vs-openrouter/)
-* [CompuX vs Together AI](/compare/compux-vs-together-ai/)
-* [CompuX vs cloud credits](/compare/compux-vs-cloud-credits/)
+* [Compute Credits](compute-credits.md)
+* [Compute Marketplace](compute-credit-marketplace.md)
+* [GPU Utilization](gpu-utilization.md)
+* [CompuX vs OpenRouter](../compare/compux-vs-openrouter.md)
+* [CompuX vs Together AI](../compare/compux-vs-together-ai.md)
+* [CompuX vs cloud credits](../compare/compux-vs-cloud-credits.md)
 
 ## Get Started
 
