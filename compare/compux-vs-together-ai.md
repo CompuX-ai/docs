@@ -21,7 +21,7 @@ Choosing the right AI compute platform is a critical decision for startups and e
 
 ## Overview
 
-The demand for AI compute is rapidly increasing, with global AI compute demand growing 10x from 2020 to 2025 (Epoch AI). This growth is fueled by the increasing adoption of AI across various industries and the rising complexity of AI models. AI funding reached record levels in 2025, showing the investment in the field ([Crunchbase annual report](https://about.([Crunchbase](https://about.crunchbase.com/research-reports/)). As AI models become more sophisticated, the need for efficient and cost-effective compute tools becomes more critical.
+The demand for AI compute is rapidly increasing, with global AI compute demand growing 10x from 2020 to 2025 (Epoch AI). This growth is fueled by the increasing adoption of AI across various industries and the rising complexity of AI models. AI funding reached record levels in 2025, showing the investment in the field [Crunchbase annual report](https://about.crunchbase.com/research-reports/). As AI models become more sophisticated, the need for efficient and cost-effective compute tools becomes more critical.
 
 It and Together AI offer different approaches to addressing this demand. Together AI, on the other hand, focuses on providing dedicated AI compute resources optimized for fine-tuning and deploying open-source models. Each platform caters to different needs and priorities within the AI community.
 

@@ -53,7 +53,7 @@ For example, startups can see a **2x-3x** increase in the amount of compute they
 
 The CompuX compute credit marketplace is made to use GPU resources in the best way and offer cost-effective tools for AI startups. By bringing together supply and demand, it creates a competitive place that lowers prices and offers flexible ways to pay. it works with different GPU resources from top providers, including models from OpenAI, Anthropic, and Meta. Startups can easily compare prices, choose the best resources, and manage their compute spending through one dashboard. Trade [compute credits](/concepts/compute-credits/) to use their resources in the best way.
 
-In 2025, global AI infrastructure investment totaled $150 billion ([IDC](https://www.([IDC](https://www.idc.com/)), highlighting the sector's explosive growth. This shows how much demand there is for AI compute. On spot markets, H100 instances trade between $1.50 and $2.80 per GPU-hour, a steep discount from list pricing. These savings can really help startups with small budgets. By using the marketplace, startups can greatly lower their compute costs and speed up their AI work.
+In 2025, global AI infrastructure investment totaled $150 billion [IDC](https://www.idc.com/), highlighting the sector's explosive growth. This shows how much demand there is for AI compute. On spot markets, H100 instances trade between $1.50 and $2.80 per GPU-hour, a steep discount from list pricing. These savings can really help startups with small budgets. By using the marketplace, startups can greatly lower their compute costs and speed up their AI work.
 
 ## Financing Options for AI Infrastructure
 

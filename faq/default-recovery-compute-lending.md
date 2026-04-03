@@ -106,7 +106,7 @@ CompuX's platform makes asset management and recovery transparent. It does this 
 
 ### How does CompuX help lenders maximize their returns on compute lending?
 
-CompuX's tools for watching loan performance and managing risk help lenders cut losses and improve their returns. Also, blockable AI credits as collateral give lenders more security and control over their assets. This lowers the risk of default. CompuX's platform offers a good solution for compute lending. This is especially true with the rising demand for AI compute resources. AI funding reached record levels in 2025 ([Crunchbase annual report](https://about.([Crunchbase](https://about.crunchbase.com/research-reports/)). This shows the need for efficient and accessible compute financing.
+CompuX's tools for watching loan performance and managing risk help lenders cut losses and improve their returns. Also, blockable AI credits as collateral give lenders more security and control over their assets. This lowers the risk of default. CompuX's platform offers a good solution for compute lending. This is especially true with the rising demand for AI compute resources. AI funding reached record levels in 2025 [Crunchbase annual report](https://about.crunchbase.com/research-reports/). This shows the need for efficient and accessible compute financing.
 
 By offering a secure and transparent platform for compute lending, it helps grow the AI network. Blockable AI credits as collateral, combined with automated processes and a transparent marketplace, offer many benefits for lenders and borrowers. This is key as the AI infrastructure market grows.
 
