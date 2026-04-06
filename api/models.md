@@ -36,6 +36,8 @@ for model in client.models.list():
 
 | Model ID | Context | Input (per 1M tokens) | Output (per 1M tokens) | Vision | Tools | Streaming |
 |----------|---------|----------------------|------------------------|--------|-------|-----------|
+| `gpt-5.4` | 1.1M | $2.50 | $15.00 | Yes | Yes | Yes |
+| `gpt-5.4-pro` | 1.1M | $30.00 | $180.00 | Yes | Yes | Yes |
 | `gpt-4o` | 128K | $2.50 | $10.00 | Yes | Yes | Yes |
 | `gpt-4o-mini` | 128K | $0.15 | $0.60 | Yes | Yes | Yes |
 | `gpt-4-turbo` | 128K | $10.00 | $30.00 | Yes | Yes | Yes |
@@ -50,6 +52,8 @@ for model in client.models.list():
 
 | Model ID | Context | Input (per 1M tokens) | Output (per 1M tokens) | Vision | Tools | Streaming |
 |----------|---------|----------------------|------------------------|--------|-------|-----------|
+| `claude-opus-4-6-20260205` | 1M | $5.00 | $25.00 | Yes | Yes | Yes |
+| `claude-sonnet-4-6-20260217` | 1M | $3.00 | $15.00 | Yes | Yes | Yes |
 | `claude-opus-4-20250514` | 200K | $15.00 | $75.00 | Yes | Yes | Yes |
 | `claude-sonnet-4-20250514` | 200K | $3.00 | $15.00 | Yes | Yes | Yes |
 | `claude-haiku-3-5-20241022` | 200K | $0.80 | $4.00 | Yes | Yes | Yes |
@@ -58,6 +62,8 @@ for model in client.models.list():
 
 | Model ID | Context | Input (per 1M tokens) | Output (per 1M tokens) | Vision | Tools | Streaming |
 |----------|---------|----------------------|------------------------|--------|-------|-----------|
+| `gemini-3.1-pro` | 200K+ | $2.00 | $12.00 | Yes | Yes | Yes |
+| `gemini-3.1-flash-lite` | 200K+ | $0.25 | $1.50 | Yes | Yes | Yes |
 | `gemini-2.5-pro` | 1M | $1.25 | $10.00 | Yes | Yes | Yes |
 | `gemini-2.5-flash` | 1M | $0.15 | $0.60 | Yes | Yes | Yes |
 | `gemini-2.0-flash` | 1M | $0.10 | $0.40 | Yes | Yes | Yes |
@@ -66,6 +72,7 @@ for model in client.models.list():
 
 | Model ID | Context | Input (per 1M tokens) | Output (per 1M tokens) | Vision | Tools | Streaming |
 |----------|---------|----------------------|------------------------|--------|-------|-----------|
+| `mistral-large-3` | 256K | $2.00 | $6.00 | Yes | Yes | Yes |
 | `mistral-large-latest` | 128K | $2.00 | $6.00 | No | Yes | Yes |
 | `mistral-medium-latest` | 128K | $2.70 | $8.10 | No | Yes | Yes |
 | `mistral-small-latest` | 128K | $0.20 | $0.60 | No | Yes | Yes |
@@ -84,6 +91,7 @@ for model in client.models.list():
 
 | Model ID | Context | Input (per 1M tokens) | Output (per 1M tokens) | Vision | Tools | Streaming |
 |----------|---------|----------------------|------------------------|--------|-------|-----------|
+| `deepseek-v4` | 1M | $0.30 | $0.50 | Yes | Yes | Yes |
 | `deepseek-r1` | 128K | $0.55 | $2.19 | No | No | Yes |
 | `deepseek-v3` | 128K | $0.27 | $1.10 | No | Yes | Yes |
 
@@ -101,12 +109,12 @@ for model in client.models.list():
 
 | Use Case | Recommended Model | Why |
 |----------|-------------------|-----|
-| **Production chat** | `gpt-4o` or `claude-sonnet-4-20250514` | Best quality/cost balance |
+| **Production chat** | `gpt-5.4` or `claude-sonnet-4-6-20260217` | Best quality/cost balance (Q1 2026) |
 | **High-volume, low-cost** | `gpt-4o-mini` or `gemini-2.5-flash` | Under $1/M tokens, fast |
-| **Complex reasoning** | `o3` or `claude-opus-4-20250514` | Highest accuracy on hard tasks |
-| **Code generation** | `codestral-latest` or `gpt-4.1` | Optimized for code |
+| **Complex reasoning** | `gpt-5.4` or `claude-opus-4-6-20260205` | 1M+ context, adaptive thinking |
+| **Code generation** | `deepseek-v4` (81% SWE-bench) or `gemini-3.1-pro` (80.6%) | Q1 2026 coding leaders |
 | **Long context** | `gemini-2.5-pro` (1M) or `llama-4-scout` (10M) | Million+ token windows |
-| **Budget-conscious** | `llama-3.1-8b` or `gpt-4.1-nano` | Under $0.50/M tokens |
+| **Budget-conscious** | `deepseek-v4` ($0.30/M) or `llama-4-scout` ($0.08/M) | Frontier quality at budget pricing |
 | **Vision/multimodal** | `gpt-4o` or `gemini-2.5-pro` | Image understanding |
 | **Embeddings** | `text-embedding-3-small` | Best value for search/RAG |
 
@@ -144,10 +152,10 @@ CompuX supports shorthand aliases for common models:
 | Alias | Resolves To |
 |-------|-------------|
 | `gpt-4o` | Latest GPT-4o version |
-| `claude-sonnet` | Latest Claude Sonnet |
-| `claude-opus` | Latest Claude Opus |
-| `gemini-pro` | Latest Gemini Pro |
-| `mistral-large` | Latest Mistral Large |
+| `claude-sonnet` | Latest Claude Sonnet (currently 4.6) |
+| `claude-opus` | Latest Claude Opus (currently 4.6) |
+| `gemini-pro` | Latest Gemini Pro (currently 3.1) |
+| `mistral-large` | Latest Mistral Large (currently 3) |
 
 Pin to a specific version for reproducibility:
 
